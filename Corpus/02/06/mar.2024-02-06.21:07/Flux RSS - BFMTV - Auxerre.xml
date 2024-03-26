@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Auxerre - actualités</title>
+        <link>https://www.bfmtv.com/auxerre/</link>
+        <description>Suivez toute l'actualité politique, économique,  météo, sportive et sociale d'Auxerre et ses alentours en temps réel</description>
+        <lastBuildDate>Tue, 06 Feb 2024 20:06:59 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Auxerre - actualités</title>
+            <url>https://www.bfmtv.com/assets/v4/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/auxerre/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Auxerre - actualités</category>
+        <atom:link href="https://www.bfmtv.com/auxerre/" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>

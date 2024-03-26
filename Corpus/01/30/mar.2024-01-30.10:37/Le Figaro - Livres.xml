@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_livres.xml" rel="self" type="application/rss+xml"/>
+        <category>Livres</category>
+        <title>Le Figaro - Livres : Actualité de la littérature</title>
+        <description>Livres : Découvrez nos articles sur la littérature, la philosophie, les écrivains, les autobiographies et tous les romans du moment</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Tue, 30 Jan 2024 10:29:36 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Livres : Actualité de la littérature</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Livres : Découvrez nos articles sur la littérature, la philosophie, les écrivains, les autobiographies et tous les romans du moment</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/decouvrez-ecrivains-tout-terrain-la-nouvelle-inedite-de-clara-dupont-monod-20240127</guid>
+                <title>Découvrez Écrivains tout-terrain, la nouvelle inédite de Clara Dupont-Monod</title>
+                                <link>https://www.lefigaro.fr/livres/decouvrez-ecrivains-tout-terrain-la-nouvelle-inedite-de-clara-dupont-monod-20240127</link>
+                                    <description>EXCLUSIF - Chaque semaine, Le Figaro Magazine publie une nouvelle inédite d’un écrivain. Cette semaine, c’est au tour de Mathieu Falcone.</description>
+                                <category>Livres</category>
+                <pubDate>Sat, 27 Jan 2024 07:00:18 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/27/XVMdba4a72e-bac2-11ee-824c-fc2fe9000598.jpg" width="630" height="354">
+                        <media:description type="plain">Clara Dupont-Monod.</media:description>
+                        <media:credit>Olivier Roller</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/frederic-beigbeder-ecrire-librement-ou-mourir-20240126</guid>
+                <title>Frédéric Beigbeder: «Écrire librement ou mourir»</title>
+                                <link>https://www.lefigaro.fr/livres/frederic-beigbeder-ecrire-librement-ou-mourir-20240126</link>
+                                    <description>CHRONIQUE - L’excellent romancier Patrice Jean publie un manifeste pour une littérature débarrassée du militantisme.</description>
+                                <category>Livres</category>
+                <pubDate>Fri, 26 Jan 2024 15:00:10 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/26/XVMdc106b62-baa9-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Frédéric Beigbeder.</media:description>
+                        <media:credit>François BOUCHON</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/nicolas-richard-le-traducteur-qui-jubile-20240125</guid>
+                <title>Nicolas Richard: «Le traducteur qui jubile»</title>
+                                <link>https://www.lefigaro.fr/livres/nicolas-richard-le-traducteur-qui-jubile-20240125</link>
+                                    <description>ENTRETIEN - Rencontre avec celui qui publie son quatrième roman et des traductions de Leonard Cohen et Allen Ginsberg.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 19:00:11 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM4550dfb2-b893-11ee-bace-39ccf1990860.jpg" width="630" height="354">
+                        <media:description type="plain">«Traduire est une activité chronophage. En trente ans, j’ai donné une version française à plus de 120 livres», confie Nicolas Richard.</media:description>
+                        <media:credit>François Bouchon / Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/l-art-et-la-maniere-de-georges-perec-comment-demander-une-augmentation-20240125</guid>
+                <title>L’art et la manière, de Georges Perec: comment demander une augmentation?</title>
+                                <link>https://www.lefigaro.fr/livres/l-art-et-la-maniere-de-georges-perec-comment-demander-une-augmentation-20240125</link>
+                                    <description>CRITIQUE - Offrir ce livre à votre supérieur sera peut-être gage d’un grand moment d’humour et de partage…</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 18:00:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVMdba53eb2-22f9-11e8-a08d-0ef2079ac73d.jpg" width="630" height="354">
+                        <media:description type="plain">Aucune garantie de succès n’est fournie avec ce livre de Perec.</media:description>
+                        <media:credit>Gerald Bloncourt/mention obligatoire©Gerald Blonc</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/l-homme-aux-mille-visages-de-sonia-kronlund-le-mensonge-etait-presque-parfait-20240125</guid>
+                <title>L’homme aux mille visages, de Sonia Kronlund: le mensonge était presque parfait</title>
+                                <link>https://www.lefigaro.fr/livres/l-homme-aux-mille-visages-de-sonia-kronlund-le-mensonge-etait-presque-parfait-20240125</link>
+                                    <description>CRITIQUE - Fascinante enquête sur une imposture amoureuse.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 17:00:16 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVMab401d5c-b892-11ee-bace-39ccf1990860.jpg" width="630" height="354">
+                        <media:description type="plain">«Les hommes que j’ai aimés étaient souvent malhonnêtes, menteurs, manipulateurs», confie Sonia Kronlund.</media:description>
+                        <media:credit>Denis Darzacq</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/qui-apres-nous-vivrez-d-herve-le-corre-derniers-jours-avant-l-apocalypse-20240125</guid>
+                <title>Qui après nous vivrez, d’Hervé Le Corre: derniers jours avant l’apocalypse</title>
+                                <link>https://www.lefigaro.fr/livres/qui-apres-nous-vivrez-d-herve-le-corre-derniers-jours-avant-l-apocalypse-20240125</link>
+                                    <description>CRITIQUE - L’auteur de polars imagine l’humanité dans un siècle. Cauchemar absolu!</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 16:00:11 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVMca5c727c-b954-11ee-824c-fc2fe9000598.jpg" width="630" height="354">
+                        <media:description type="plain">Pour Hervé Le Corre, l’homme ne tire aucune leçon du passé et ne tient aucun compte des mises en garde pour le futur.</media:description>
+                        <media:credit>Thomas Mukoya/REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/les-barrons-du-gaullisme-de-pierre-manenti-a-l-ombre-du-general-20240125</guid>
+                <title>Les barrons du gaullisme, de Pierre Manenti: à l’ombre du Général</title>
+                                <link>https://www.lefigaro.fr/livres/les-barrons-du-gaullisme-de-pierre-manenti-a-l-ombre-du-general-20240125</link>
+                                    <description>CRITIQUE - De Gaulle gouverna avec une poignée de fidèles surnommée ses «barons».</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 15:00:09 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM4a80b462-baa5-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Le Géneral de Gaulle passe en revue les marins français, à Londres, le 14 juillet 1942.</media:description>
+                        <media:credit>www.bridgemanimages.com/Bridgeman Images</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/eurotrash-de-christian-kracht-jeune-riche-et-nevrose-20240125</guid>
+                <title>Eurotrash, de Christian Kracht: jeune, riche et névrosé</title>
+                                <link>https://www.lefigaro.fr/livres/eurotrash-de-christian-kracht-jeune-riche-et-nevrose-20240125</link>
+                                    <description>LA CHRONIQUE D’ÉRIC NEUHOFF - Le récit vibre de colère sourde et d’autodestruction, dans un étrange cocktail qui mêlerait Thomas Bernhard et Bret Easton Ellis, avec de brusques moments d’émotion.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 14:00:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM41a4e5c4-baa6-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">«Eurotrash», de Christian Kracht, traduit de l’allemand (Suisse) par Corinna Gepner, Denoël, 186 pages, 20€.</media:description>
+                        <media:credit>Denoël</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/la-derniere-joie-du-monde-de-bernardo-carvalho-le-jour-ou-la-terre-s-arreta-20240125</guid>
+                <title>La dernière joie du monde, de Bernardo Carvalho: le jour où la Terre s’arrêta</title>
+                                <link>https://www.lefigaro.fr/livres/la-derniere-joie-du-monde-de-bernardo-carvalho-le-jour-ou-la-terre-s-arreta-20240125</link>
+                                    <description>CRITIQUE - Le Brésilien raconte la pandémie de Covid comme un roman de science-fiction américain des années 1950. Magistral.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 13:00:09 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM78b5da76-b954-11ee-824c-fc2fe9000598.jpg" width="630" height="354">
+                        <media:description type="plain">Dans «La dernière Joie du monde», Bernardo Carvalho raconte le Brésil des années 2020-2021, un pays atteint par un double virus, celui du coronavirus et celui du bolsonarisme.</media:description>
+                        <media:credit>Pilar Olivares/REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/lungomare-de-sebastien-berlendis-et-toujours-en-ete-20240125</guid>
+                <title>Lungomare, de Sébastien Berlendis: et toujours en été</title>
+                                <link>https://www.lefigaro.fr/livres/lungomare-de-sebastien-berlendis-et-toujours-en-ete-20240125</link>
+                                    <description>CRITIQUE - Berlendis a l’écriture et la sensibilité d’un impressionniste qui revient inlassablement sur le motif, relevant ici un détail, estompant là une couleur trop vive ou une image mal formée.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 12:00:17 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM75b3f726-baa4-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Lungomare, de Sébastien Berlendis, Actes Sud, 80 p., 14,50 €.</media:description>
+                        <media:credit>Actes Sud</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/eve-melville-cantique-de-justine-bo-une-maison-au-bord-du-monde-20240125</guid>
+                <title>Eve Melville, Cantique de Justine Bo, une maison au bord du monde</title>
+                                <link>https://www.lefigaro.fr/livres/eve-melville-cantique-de-justine-bo-une-maison-au-bord-du-monde-20240125</link>
+                                    <description>CRITIQUE - À travers un homme et sa descendance, l’auteur ressuscite les vieux démons des États-Unis. Magnifique.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 11:00:13 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVMe0f9beee-b6df-11ee-bace-39ccf1990860.jpg" width="630" height="354">
+                        <media:description type="plain">Dans Eve Melville, Cantique, Justine Bo fait revivre les spectres du Vietnam, les années sida, le racisme sociétal, les émeutes de la fin du millénaire.</media:description>
+                        <media:credit>Alexandre LE MOUROUX</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/le-vent-leger-et-archives-de-la-joie-de-jean-francois-beauchemin-metaphysique-des-sous-bois-20240125</guid>
+                <title>Le vent léger et Archives de la joie, de Jean-François Beauchemin: métaphysique des sous-bois</title>
+                                <link>https://www.lefigaro.fr/livres/le-vent-leger-et-archives-de-la-joie-de-jean-francois-beauchemin-metaphysique-des-sous-bois-20240125</link>
+                                    <description>CRITIQUE - L’histoire d’une fratrie et de quelques animaux.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 10:00:11 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM7fd1e510-b9f5-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Jean-François Beauchemin cisèle jour après jour des histoires micro­s­copiques et cosmiques dans un style empreint d’un silence sacré.</media:description>
+                        <media:credit>Amoniak / Alamy via Reuters Connect</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/au-commencement-du-monde-de-drago-jancar-le-livre-de-danijel-20240125</guid>
+                <title>Au commencement du monde, de Drago Jancar: le livre de Danijel</title>
+                                <link>https://www.lefigaro.fr/livres/au-commencement-du-monde-de-drago-jancar-le-livre-de-danijel-20240125</link>
+                                    <description>LA CHRONIQUE D’ÉTIENNE DE MONTETY - Au fil du récit, le regard de Danijel, jeune Slovène des années 1960, s’élargit aux dimensions d’une ville et d’une société, et le roman prend de l’ampleur.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 07:00:16 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVM0aca59ec-baa8-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">L’écrivain Drago Jancar, en 2010.</media:description>
+                        <media:credit>© Louis Monier/Bridgeman Images</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/quelques-idees-pour-remplacer-sylvain-tesson-au-printemps-des-poetes-20240125</guid>
+                <title>Quelques idées pour remplacer Sylvain Tesson au Printemps des poètes</title>
+                                <link>https://www.lefigaro.fr/livres/quelques-idees-pour-remplacer-sylvain-tesson-au-printemps-des-poetes-20240125</link>
+                                    <description>CHRONIQUE - L’auteur de «La panthère des neiges» a été la cible d’une petition. Branco, Meurice, Ernaux... Voici plusieurs suggestions pour trouver un nouveau parrain à la manifestation.</description>
+                                <category>Livres</category>
+                <pubDate>Fri, 26 Jan 2024 18:41:18 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/25/XVMa0a59856-b9d5-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Juan Branco.</media:description>
+                        <media:credit>Michel Christophe/ABACA</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/rentree-litteraire-d-hiver-huit-auteurs-en-quete-d-avenir-20240124</guid>
+                <title>Rentrée littéraire d’hiver: huit auteurs en quête d’avenir</title>
+                                <link>https://www.lefigaro.fr/livres/rentree-litteraire-d-hiver-huit-auteurs-en-quete-d-avenir-20240124</link>
+                                    <description> LA SÉLECTION DU FIGARO - En ce début d’année, la rédaction partage ses coups de cœur des primo-romanciers.</description>
+                                <category>Livres</category>
+                <pubDate>Thu, 25 Jan 2024 19:59:34 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/24/XVMca8c99fa-bbb3-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">De gauche à droite: Sophie Berger, Nathalie Hadj, Paloma de Boismorel, Lolita Sene.</media:description>
+                        <media:credit>Olivier Roller, Patrice Normand, Margaux Hadj, francesca Mantovani</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/de-l-occident-a-la-russie-l-effondrement-du-leninisme-20240124</guid>
+                <title>De l’Occident à la Russie, l’effondrement du léninisme</title>
+                                <link>https://www.lefigaro.fr/livres/de-l-occident-a-la-russie-l-effondrement-du-leninisme-20240124</link>
+                                    <description>LA CHRONIQUE DE JACQUES DE SAINT-VICTOR - Le père de la révolution d’Octobre est mort il y a un siècle. Deux historiens expliquent pourquoi sa cote, aujourd’hui, est au plus bas auprès des nostalgiques du communisme.</description>
+                                <category>Livres</category>
+                <pubDate>Wed, 24 Jan 2024 12:00:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/24/XVMad23d8c2-b94e-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Vladimir Lénine (1870-1924) à Smolny, 1930, (huile sur toile) par Isaak Israilevich Brodsky (1883-1939).</media:description>
+                        <media:credit>Bridgeman Images</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/bruno-le-maire-et-rachida-dati-soutiennent-sylvain-tesson-20240121</guid>
+                <title>Bruno Le Maire et Rachida Dati soutiennent Sylvain Tesson</title>
+                                <link>https://www.lefigaro.fr/livres/bruno-le-maire-et-rachida-dati-soutiennent-sylvain-tesson-20240121</link>
+                                    <description>DÉCRYPTAGE - Désigné parrain du Printemps des poètes 2024, l’écrivain voyageur est vivement critiqué dans une pétition.</description>
+                                <category>Livres</category>
+                <pubDate>Sun, 21 Jan 2024 19:10:38 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/21/XVMe5199c3e-b855-11ee-a556-e12b0fbe7570.jpg" width="630" height="354">
+                        <media:description type="plain">L’écrivain Sylvain Tesson 
+(ici, en septembre 2023) est accusé d’être 
+«une icône réactionnaire» par les pétitionnaires</media:description>
+                        <media:credit>François BOUCHON/Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/alexandre-jardin-le-livre-est-le-meilleur-medicamentsocial-20240121</guid>
+                <title>Alexandre Jardin: «Le livre est le meilleur  médicament social»</title>
+                                <link>https://www.lefigaro.fr/livres/alexandre-jardin-le-livre-est-le-meilleur-medicamentsocial-20240121</link>
+                                    <description>ENTRETIEN - Convaincu que la lecture permet notamment de lutter contre la violence, l’écrivain en appelle à la mobilisation générale pour la rendre plus accessible à tous.</description>
+                                <category>Livres</category>
+                <pubDate>Mon, 22 Jan 2024 10:59:17 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/21/XVM8c08b526-b846-11ee-bace-39ccf1990860.jpg" width="630" height="354">
+                        <media:description type="plain">«Faute de mots, on sombre dans la violence et on ne peut pas accéder à sa pleine humanité, car l’homme est un être de langage.», explique Alexandre Jardin.</media:description>
+                        <media:credit>SERGE PICARD/Le Figaro Magazine</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/maud-ankaoua-sarah-rivens-et-morgane-moncomble-ces-nouvelles-stars-de-l-edition-qui-font-lire-vos-enfants-20240121</guid>
+                <title>Sarah Rivens, Morgane Moncomble : ces nouvelles stars de l’édition qui font lire vos ados</title>
+                                <link>https://www.lefigaro.fr/livres/maud-ankaoua-sarah-rivens-et-morgane-moncomble-ces-nouvelles-stars-de-l-edition-qui-font-lire-vos-enfants-20240121</link>
+                                    <description>ENQUÊTE - Leur nom ne vous dit rien? C&#039;est probablement que vous avez plus de 25 ans. Stars des réseaux sociaux, ambassadrices de la «new romance»… Elles caracolent en tête des ventes et chamboulent le monde de l’édition.</description>
+                                <category>Livres</category>
+                <pubDate>Sun, 21 Jan 2024 13:03:57 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/19/78b027cd0a41f412dd64c4f06bf49f9e8e738ea741dbe5694fde1ec26226f452.jpg" width="1920" height="1080">
+                        <media:description type="plain">Les figures de la «new romance» occupent les premières places des ventes de livres.</media:description>
+                        <media:credit>DR</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/decouvrez-21-janvier-la-nouvelle-inedite-de-mathieu-falcone-20240118</guid>
+                <title>Découvrez 21 janvier, la nouvelle inédite de Mathieu Falcone</title>
+                                <link>https://www.lefigaro.fr/livres/decouvrez-21-janvier-la-nouvelle-inedite-de-mathieu-falcone-20240118</link>
+                                    <description>EXCLUSIF - Chaque semaine, Le Figaro Magazine publie une nouvelle inédite d’un écrivain. Cette semaine, c’est au tour de Mathieu Falcone.</description>
+                                <category>Livres</category>
+                <pubDate>Wed, 24 Jan 2024 15:09:25 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/18/XVM9a27d624-b5f7-11ee-bace-39ccf1990860.jpg" width="630" height="354">
+                        <media:description type="plain">Mathieu Falcone.</media:description>
+                        <media:credit>Samuel Kirszenbaum/Albin Michel / Photographer: Samuel Kirszenbaum</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

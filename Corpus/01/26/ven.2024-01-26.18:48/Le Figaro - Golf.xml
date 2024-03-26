@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_golf.xml" rel="self" type="application/rss+xml"/>
+        <category>Golf</category>
+        <title>Le Figaro - Golf : Actualité du golf et résultats en direct</title>
+        <description>Golf : Retrouvez toute lactualité du golf et résultats des tournois avec Le Figaro</description>
+        <link>https://golf.lefigaro.fr/</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Fri, 26 Jan 2024 18:46:35 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Golf : Actualité du golf et résultats en direct</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>https://golf.lefigaro.fr/</link>
+            <description>Golf : Retrouvez toute lactualité du golf et résultats des tournois avec Le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://golf.lefigaro.fr/flash-golf/golf-celine-boutier-reprend-en-floride-et-a-hate-d-etre-aux-jeux-olympiques-20240124</guid>
+                <title>Golf : Céline Boutier reprend en Floride et a «hâte d&#039;être aux Jeux olympiques»</title>
+                                <link>https://golf.lefigaro.fr/flash-golf/golf-celine-boutier-reprend-en-floride-et-a-hate-d-etre-aux-jeux-olympiques-20240124</link>
+                                    <description></description>
+                                <category>Flash Golf</category>
+                <pubDate>Wed, 24 Jan 2024 22:32:59 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/01/24/9a3650804da0c402a18b36fc76405d747d0fddd75ed5e2f846b6c90a772ff7ed.jpg" width="3000" height="2001">
+                        <media:description type="plain">Céline Boutier</media:description>
+                        <media:credit>MICHAEL REAVES / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/golf-the-match-mcilroy-et-homa-avec-thompson-et-zhang-pour-faire-le-spectacle-20240124</guid>
+                <title>Golf - The Match : McIlroy et Homa avec Thompson et Zhang pour faire le spectacle</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/golf-the-match-mcilroy-et-homa-avec-thompson-et-zhang-pour-faire-le-spectacle-20240124</link>
+                                    <description>Les quatre pensionnaires des PGA et LPGA Tours se produiront lors d&#039;un événement mixte pour la première fois depuis sa création en 2018.</description>
+                                <category>Tour américain</category>
+                <pubDate>Wed, 24 Jan 2024 14:37:38 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x768_crop/2024/01/24/f736f63390a53f1d85c5e00d7656dc9a75317933158e1ea82b13800aa473c5ac.jpg" width="1920" height="768">
+                        <media:description type="plain">Max Homa et Rory McIlroy</media:description>
+                        <media:credit>AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-l-exploit-de-l-amateur-nick-dunlap-vainqueur-du-desert-classic-20240122</guid>
+                <title>PGA Tour : l’exploit de l’amateur Nick Dunlap, vainqueur du Desert Classic</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-l-exploit-de-l-amateur-nick-dunlap-vainqueur-du-desert-classic-20240122</link>
+                                    <description>Âgé de 20 ans, l’étudiant d’Alabama remporte un tournoi du PGA tour et devient le premier amateur depuis 1991 à s’imposer sur le circuit professionnel américain.</description>
+                                <category>Tour américain</category>
+                <pubDate>Mon, 22 Jan 2024 12:15:19 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2026_crop/2024/01/22/4344969635d5c7b75efb5a57eb7ff42c2eec8067b26db3872bd1bd552b8196e9.jpg" width="3000" height="2026">
+                        <media:description type="plain">Nick Dunlap tombe dans les bras de ses parents après son succès.</media:description>
+                        <media:credit>Ray Acevedo / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-europeens/dp-world-tour-4e-victoire-a-dubai-pour-rory-mcilroy-20240122</guid>
+                <title>DP World Tour : 4e victoire à Dubaï pour Rory McIlroy</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-europeens/dp-world-tour-4e-victoire-a-dubai-pour-rory-mcilroy-20240122</link>
+                                    <description>Le Nord-Irlandais est bien le roi de l’Emirat. Il remporte une nouvelle fois le Dubaï Desert Classic sur l’Emirates Golf Club, avec un coup d’avance sur le Polonais Adrian Meronk.</description>
+                                <category>Flash Golf</category>
+                <pubDate>Mon, 22 Jan 2024 08:50:28 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2752x1548_crop/2024/01/22/ffe203d90105e11896da7ea7863fac0d660abe119a802b750dc68816d19d4543.jpg" width="2752" height="1548">
+                        <media:description type="plain">Rory McIlroy</media:description>
+                        <media:credit>RYAN LIM / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/flash-golf/golf-masters-dernier-tour-de-piste-pour-bernhard-langer-20240120</guid>
+                <title>Golf - Masters : dernier tour de piste pour Bernhard Langer</title>
+                                <link>https://golf.lefigaro.fr/flash-golf/golf-masters-dernier-tour-de-piste-pour-bernhard-langer-20240120</link>
+                                    <description></description>
+                                <category>Flash Golf</category>
+                <pubDate>Sat, 20 Jan 2024 18:00:51 +0100</pubDate>
+
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/flash-golf/lpga-tour-les-tournois-avec-celine-boutier-visibles-gratuitement-en-france-en-2024-et-2025-20240115</guid>
+                <title>LPGA Tour : les tournois avec Céline Boutier visibles gratuitement en France en 2024 et 2025</title>
+                                <link>https://golf.lefigaro.fr/flash-golf/lpga-tour-les-tournois-avec-celine-boutier-visibles-gratuitement-en-france-en-2024-et-2025-20240115</link>
+                                    <description>Un partenariat entre le groupe L’Équipe et la Fédération française de golf permet la diffusion du circuit américain féminin où joue la Française, numéro 3 mondiale.</description>
+                                <category>Flash Golf</category>
+                <pubDate>Mon, 15 Jan 2024 12:54:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1942x1092_crop/2024/01/15/0038e69251b79fb34070ccc0a2f28cdbf85016b9422d88929854837c1d756f40.jpg" width="1942" height="1092">
+                        <media:description type="plain">Céline Boutier au Drive On Championship en 2023</media:description>
+                        <media:credit>LPGA Tour</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-europeens/dp-world-tour-tommy-fleetwood-s-impose-a-dubai-face-a-mcilroy-20240115</guid>
+                <title>DP World Tour : Tommy Fleetwood s’impose à Dubai face à McIlroy</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-europeens/dp-world-tour-tommy-fleetwood-s-impose-a-dubai-face-a-mcilroy-20240115</link>
+                                    <description>L’Anglais remporte la première étape de la tournée hivernale dans le Golfe persique, deux jours avant son anniversaire. C’est son 7e titre sur le Tour européen.</description>
+                                <category>Tour européen</category>
+                <pubDate>Mon, 15 Jan 2024 10:47:54 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1612x906_crop/2024/01/15/e22835f8560a0d4eb20e9b75ec8d9b0047b1a3ae4d380208d5597199a6e1cb01.jpg" width="1612" height="906">
+                        <media:description type="plain">Tommy Fleetwood remporte le Dubai Invitational 2024</media:description>
+                        <media:credit>KEVIN C. COX / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-grayson-murray-s-impose-en-play-off-a-hawai-top-10-pour-pavon-20240115</guid>
+                <title>PGA Tour : Grayson Murray s’impose en play-off à Hawaï, top 10 pour Pavon</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-grayson-murray-s-impose-en-play-off-a-hawai-top-10-pour-pavon-20240115</link>
+                                    <description>Grayson Murray a réussi un improbable put de 12 mètres sur le premier trou de playoff pour dominer le Sud-Coréen Byeong Hun An et Keegan Bradley et s&#039;adjuger le Sony Open à Hawaï dimanche. Top 10 pour Pavon pour sa première sur le circuit américain.</description>
+                                <category>Tour américain</category>
+                <pubDate>Tue, 16 Jan 2024 10:35:46 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/15/3cd1846f22c230a913aebb23265f0fe682279827a3fa1ae73c7109cc93352756.jpg" width="3000" height="2000">
+                        <media:description type="plain">Matthieu Pavon</media:description>
+                        <media:credit>MICHAEL REAVES / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-pavon-dans-le-coup-pour-la-gagne-a-hawai-avant-le-dernier-tour-20240114</guid>
+                <title>PGA Tour : Pavon dans le coup pour la gagne à Hawaï avant le dernier tour</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-pavon-dans-le-coup-pour-la-gagne-a-hawai-avant-le-dernier-tour-20240114</link>
+                                    <description>Le Français Matthieu Pavon, pour son premier tournoi sur le circuit américain, pointe seulement à trois coups des leaders avant le dernier tour du Sony Open.</description>
+                                <category>Tour américain</category>
+                <pubDate>Sun, 14 Jan 2024 14:04:51 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/01/14/9e56422e75d9c9abd24e4c2d4464f49c987fe5ac966e2597a1fb5033caf18647.jpg" width="3000" height="2001">
+                        <media:description type="plain">Matthieu Pavon</media:description>
+                        <media:credit>MICHAEL REAVES / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-pavon-tres-bien-place-a-hawai-apres-un-tour-20240112</guid>
+                <title>PGA Tour : Pavon très bien placé à Hawaï après un tour</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-pavon-tres-bien-place-a-hawai-apres-un-tour-20240112</link>
+                                    <description>Premiers pas réussis sur le circuit américain pour le Girondin, auteur d’une carte de 66 (-4) qui le place dans le top 10 provisoire du Sony Open in Hawaï à l’issue du premier tour.</description>
+                                <category>Tour américain</category>
+                <pubDate>Fri, 12 Jan 2024 09:50:47 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/12/f4f16e40f8346cf2cbda74022442f82c1ded3ad12fae8f4f969cf96112095992.jpg" width="3000" height="2000">
+                        <media:description type="plain">Matthieu Pavon</media:description>
+                        <media:credit>Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/flash-golf/dp-world-tour-keith-pelley-demissionne-et-rentre-au-canada-20240111</guid>
+                <title>DP World Tour : Keith Pelley démissionne et rentre au Canada</title>
+                                <link>https://golf.lefigaro.fr/flash-golf/dp-world-tour-keith-pelley-demissionne-et-rentre-au-canada-20240111</link>
+                                    <description>Le patron du Tour européen depuis 2015 donne une nouvelle orientation à sa carrière en rejoignant la société Maple Leaf Sports and Entertainment dans son pays d’origine.</description>
+                                <category>Flash Golf</category>
+                <pubDate>Thu, 11 Jan 2024 17:28:27 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2998x1686_crop/2024/01/11/b37bd068cd8b0d31b9d969f787d36a6b3d1d69541e6cb3eeb65da90b3437a697.jpg" width="2998" height="1686">
+                        <media:description type="plain">Keith Pelley</media:description>
+                        <media:credit>PAUL CHILDS / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-le-reve-americain-debute-pour-matthieu-pavon-20240110</guid>
+                <title>PGA Tour : le rêve américain débute pour Matthieu Pavon</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-le-reve-americain-debute-pour-matthieu-pavon-20240110</link>
+                                    <description>Sur le tracé du Waialae Country Club à Honolulu, le Français dispute à partir de ce jeudi le Sony Open in Hawaï, le premier tournoi de sa nouvelle aventure sur le mythique circuit américain.</description>
+                                <category>Tour américain</category>
+                <pubDate>Thu, 11 Jan 2024 08:06:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/01/10/917fe94305d41f5ae6c70a740f6dd4b3f3fc62f1bb62089510226d5ca611d25d.jpg" width="3000" height="2001">
+                        <media:description type="plain">Matthieu Pavon</media:description>
+                        <media:credit>Federico Pestellini / Federico Pestellini / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/flash-golf/golf-tiger-woods-et-nike-annoncent-la-fin-de-leur-collaboration-apres-27-ans-20240108</guid>
+                <title>Golf: Tiger Woods et Nike annoncent la fin de leur collaboration après 27 ans</title>
+                                <link>https://golf.lefigaro.fr/flash-golf/golf-tiger-woods-et-nike-annoncent-la-fin-de-leur-collaboration-apres-27-ans-20240108</link>
+                                    <description>Le golfeur américain Tiger Woods a annoncé lundi sur X (ex-Twitter) la fin de son partenariat avec l&#039;équipementier sportif Nike, qui l&#039;accompagnait depuis les débuts de son ascension chez les professionnels, il y a plus de 27 ans.</description>
+                                <category>Flash Golf</category>
+                <pubDate>Tue, 09 Jan 2024 10:58:01 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1816x1021_crop/2024/01/08/54451b97ea19133230b3c3a84ed48746866dbdd240cb8756f6a6ff7f2f382373.jpg" width="1816" height="1021">
+                        <media:description type="plain">La marque à la virgule était le sponsor de Tiger Woods depuis 27 ans.</media:description>
+                        <media:credit>w109 / Zuma / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-chris-kirk-s-adjuge-une-victoire-eclatante-au-premier-tournoi-de-l-annee-a-hawai-20240108</guid>
+                <title>PGA Tour : Chris Kirk s’adjuge une victoire éclatante au premier tournoi de l’année à Hawaï</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-chris-kirk-s-adjuge-une-victoire-eclatante-au-premier-tournoi-de-l-annee-a-hawai-20240108</link>
+                                    <description>Auteur d’une fin de saison canon, Chris Kirk a réussi un birdie aux 15e et 17e trous pour réaliser un 65 (-8) et lancer la saison du PGA Tour avec une victoire au Sentry dimanche à Maui, Hawaii avec un score de -29 en quatre tours.</description>
+                                <category>Tour américain</category>
+                <pubDate>Mon, 08 Jan 2024 11:35:14 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/08/bd14d593fa8278cd59a891b0f39d0e5740ff4a3e6d960c6533d64a8396ef9fd4.jpg" width="3000" height="2000">
+                        <media:description type="plain">Chris Kirk</media:description>
+                        <media:credit>Kyle Terada / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/tours-americains/scottie-scheffler-encore-elu-joueur-de-l-annee-du-pga-tour-20240104</guid>
+                <title>Scottie Scheffler encore élu joueur de l&#039;année du PGA Tour</title>
+                                <link>https://golf.lefigaro.fr/actualite/tours-americains/scottie-scheffler-encore-elu-joueur-de-l-annee-du-pga-tour-20240104</link>
+                                    <description>L’Américain devient le premier golfeur à être sacré consécutivement depuis Tiger Woods, au milieu des années 2000.</description>
+                                <category>Tour américain</category>
+                <pubDate>Thu, 04 Jan 2024 11:09:11 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2997x1686_crop/2024/01/04/8b05af5ebeb8ec80b3d6a8da9999b4e2f8d30f7aa791c0998978dbfc78b6201a.jpg" width="2997" height="1686">
+                        <media:description type="plain">Scottie Scheffler</media:description>
+                        <media:credit>GUGLIELMO MANGIAPANE / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/monde/golf-mcilroy-adoucit-son-discours-contre-le-liv-20240103</guid>
+                <title>Golf : McIlroy adoucit son discours contre le LIV</title>
+                                <link>https://golf.lefigaro.fr/actualite/monde/golf-mcilroy-adoucit-son-discours-contre-le-liv-20240103</link>
+                                    <description>Le quadruple lauréat en Majeurs Rory McIlroy regrette d&#039;avoir été trop prompt à juger les joueurs qui ont rejoint le LIV Golf, soutenu par l&#039;Arabie saoudite, et livre un discours beaucoup moins offensif en ce début d’année 2024.</description>
+                                <category>Monde</category>
+                <pubDate>Wed, 03 Jan 2024 16:22:43 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2952x2568_crop/2024/01/03/a0d6d86a8dd4435c129503dcf4daaeab46bc1f476ae347a1d166ce6ed889859e.jpg" width="2952" height="2568">
+                        <media:description type="plain">Rory McIlroy</media:description>
+                        <media:credit>Peter Fitzpatrick / Action Plus / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/ryder-cup/les-personnalites-qui-nous-ont-agaces-en-2023-le-casquette-gate-de-cantlay-a-la-ryder-cup-20231229</guid>
+                <title>Les personnalités qui nous ont agacés en 2023: le «casquette Gate» de Cantlay à la Ryder Cup</title>
+                                <link>https://golf.lefigaro.fr/actualite/ryder-cup/les-personnalites-qui-nous-ont-agaces-en-2023-le-casquette-gate-de-cantlay-a-la-ryder-cup-20231229</link>
+                                    <description>SÉRIE 3/8 - Sur le terrain, le 5e mondial a été irréprochable avec l&#039;équipe américaine vaincue par l&#039;Europe. En dehors des greens ce fut une autre histoire…</description>
+                                <category>Ryder Cup</category>
+                <pubDate>Fri, 29 Dec 2023 14:38:46 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2314x1543_crop/2023/12/19/52a1a23c5a328d23fdb04d90ff96dd551c63b6a7e0dd00f5a5215887b82bb226.jpg" width="2314" height="1543">
+                        <media:description type="plain">Patrick Cantlay</media:description>
+                        <media:credit>NaFoto / Action Plus / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/actualite/majeurs/le-braqueur-de-l-annee-golf-brian-harman-le-boucher-d-hoylake-du-british-open-20231228</guid>
+                <title>Le «braqueur» de l’année golf: Brian Harman le «boucher d&#039;Hoylake» du British Open</title>
+                                <link>https://golf.lefigaro.fr/actualite/majeurs/le-braqueur-de-l-annee-golf-brian-harman-le-boucher-d-hoylake-du-british-open-20231228</link>
+                                    <description>SERIE 2/8 - Dans le vent à Liverpool, l&#039;Américain Brian Harman a décroché, à la surprise générale, à 36 ans, son premier Majeur.</description>
+                                <category>Tournois majeurs</category>
+                <pubDate>Thu, 28 Dec 2023 17:32:32 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2023/12/19/1b0847cf4037ce661f3354915d964fccf263a7f9b908f96fd0205a107003e20a.jpg" width="3000" height="2000">
+                        <media:description type="plain">Brian Harman</media:description>
+                        <media:credit>David Blunsden / Action Plus / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/boutier-magique-0-francais-a-la-ryder-cup-les-coups-de-coeur-et-les-coups-de-griffe-de-l-annee-golf-20231228</guid>
+                <title>Boutier magique, zéro Français à la Ryder Cup... Les coups de cœur et les coups de griffe de l’année golf</title>
+                                <link>https://golf.lefigaro.fr/boutier-magique-0-francais-a-la-ryder-cup-les-coups-de-coeur-et-les-coups-de-griffe-de-l-annee-golf-20231228</link>
+                                    <description>Retrouvez ce qui a plu...ou pas, à nos spécialistes, lors des douze derniers mois.</description>
+                                <category>Actu Golf</category>
+                <pubDate>Tue, 02 Jan 2024 11:55:48 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2023/12/19/47eb916f202cb2f83b2c008b2e6e97c9afd0dd97bda9faf5f762f08451fd4dd6.jpg" width="1920" height="1080">
+                        <media:description type="plain">Boutier au sommet, Jay Monahan, le patron du PGA Tour dans le dur.</media:description>
+                        <media:credit>Icon SMI / Panoramic / Matthew Maxey/Icon Sportswire</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://golf.lefigaro.fr/un-nombre-record-de-golfeurs-passent-la-barre-du-million-de-dollars-en-2023-20231226</guid>
+                <title>Un nombre record de golfeurs passent la barre du million de dollars en 2023</title>
+                                <link>https://golf.lefigaro.fr/un-nombre-record-de-golfeurs-passent-la-barre-du-million-de-dollars-en-2023-20231226</link>
+                                    <description>Sur le LIV et le PGA Tour, ils sont 188 à avoir empoché au moins 1 M$ de gains en tournoi durant l’année.</description>
+                                <category>Actu Golf</category>
+                <pubDate>Tue, 26 Dec 2023 17:26:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2998x1686_crop/2023/12/26/3a1c23e9be04442705cff77f22449056a2a22bf3ecc373c244869dcc7e71038d.jpg" width="2998" height="1686">
+                        <media:description type="plain">Scottie Scheffler</media:description>
+                        <media:credit>MIKE EHRMANN / AFP</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

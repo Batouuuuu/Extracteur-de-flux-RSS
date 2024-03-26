@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://etudiant.lefigaro.fr/rss/figaro_etudiant.xml" rel="self" type="application/rss+xml" />
+        <category><![CDATA[Actualité, Conseils]]></category>
+        <title><![CDATA[Le Figaro Etudiant]]></title>
+        <description><![CDATA[Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter]]></description>
+        <link>https://etudiant.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés lefigaro étudiant</copyright>
+        <lastBuildDate>2024-01-26T18:48:22+01:00</lastBuildDate>
+        <pubDate>2024-01-26T18:48:22+01:00</pubDate>
+        <docs>https://etudiant.lefigaro.fr</docs>
+        <ttl>3600</ttl>
+        <image>
+            <title><![CDATA[Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter]]></title>
+            <url>//assets2.etudiant.lefigaro.fr/fe-build/./../images/./fe-logo.png?6.24.3</url>
+            <link>https://etudiant.lefigaro.fr</link>
+            <description><![CDATA[Le Figaro Etudiant : Actualité, Conseils pour bien s'orienter]]></description>
+        </image>
+                    <item>
+                <guid>cd49d9f3-bc50-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Hôtellerie - Restauration]]></category>
+                <title><![CDATA[École Ferrandi : ce concours met en valeur les accords entre pâtisserie et cocktails sans alcool]]></title>
+                <description><![CDATA[Six binômes d’étudiants, qui ne se connaissaient pas, ont eu un mois pour préparer leur projet sucré.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/ecole-ferrandi-ce-concours-met-en-valeur-les-accords-entre-patisserie-et-cocktails-sans-alcool-20240126/</link>
+                <pubDate>2024-01-26T15:29:18+01:00</pubDate>
+                <author>Figaro Etudiant</author>
+            </item>
+                    <item>
+                <guid>702b422d-bc2c-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus vie étudiante]]></category>
+                <title><![CDATA[Loi immigration : l’enseignement supérieur se réjouit de la censure du conseil constitutionnel]]></title>
+                <description><![CDATA[De nombreux établissements étaient fermement opposés à l’augmentation des frais d’inscription et au principe d’une caution retour pour les étudiants extracommunautaires.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/vie-etudiante/loi-immigration-les-universites-se-rejouissent-de-la-censure-du-conseil-constitutionnel-20240126/</link>
+                <pubDate>2024-01-26T12:50:36+01:00</pubDate>
+                <author>Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>c100924a-b6d3-11ee-bace-39ccf1990860</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[La sélection des meilleures écoles en 2024 selon Speak &amp; Act]]></title>
+                <description><![CDATA[Le processus de choix d’une école n’est plus ce qu’il était. Aujourd’hui, les étudiants et leurs parents prêtent une attention particulière à l’expérience étudiante, et ils font confiance aux avis en ligne pour guider leur décision.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/la-selection-des-meilleures-ecoles-en-2024-selon-speack-act_c100924a-b6d3-11ee-bace-39ccf1990860/</link>
+                <pubDate>2024-01-26T11:08:57+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>8c58f4aa-b9db-11ee-824c-fc2fe9000598</guid>
+                <category><![CDATA[Ecoles d&#039;ingénieurs]]></category>
+                <title><![CDATA[SIGMA Clermont vous ouvre ses portes le 10 février]]></title>
+                <description><![CDATA[À l’heure de faire leurs vœux sur Parcoursup, les futurs bacheliers étudient avec attention les possibilités qui s’offrent à eux.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/sigma-clermont-vous-ouvre-ses-portes-le-10-fevrier_8c58f4aa-b9db-11ee-824c-fc2fe9000598/</link>
+                <pubDate>2024-01-26T11:03:51+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>ae0b52cb-bad4-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles d&#039;ingénieurs]]></category>
+                <title><![CDATA[Cybersécurité : à quoi va ressembler le bachelor de l'Epita et Polytechnique ?]]></title>
+                <description><![CDATA[Les deux établissements sont partenaires pour former les futurs acteurs de la cyberdéfense.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/cybersecurite-a-quoi-va-ressembler-le-bachelor-de-l-epita-et-polytechnique-20240126/</link>
+                <pubDate>2024-01-26T07:00:00+01:00</pubDate>
+                <author>Paul-Henri Wallet</author>
+            </item>
+                    <item>
+                <guid>ac34e925-bb93-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Dans quels secteurs trouver un job avec un bac+3]]></title>
+                <description><![CDATA[Le master n'est plus indispensable pour s'insérer dans le monde du travail.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/dans-quels-secteurs-trouver-un-job-avec-un-bac-3-20240126/</link>
+                <pubDate>2024-01-26T06:00:00+01:00</pubDate>
+                <author>Etienne Gless</author>
+            </item>
+                    <item>
+                <guid>aad78523-bb9f-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Ce chef d’entreprise explique pourquoi il recrute des étudiants en bachelor]]></title>
+                <description><![CDATA[Centré sur le client, efficace, à l’écoute... Les atouts de ces diplômés en bac+3 sont multiples.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/ce-chef-d-entreprise-explique-pourquoi-il-recrute-des-etudiants-en-bachelor-20240126/</link>
+                <pubDate>2024-01-26T06:00:00+01:00</pubDate>
+                <author>Etienne Gless</author>
+            </item>
+                    <item>
+                <guid>3cfdfde0-bb96-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du collège]]></category>
+                <title><![CDATA[Collège : les chefs d’établissements alertent le ministère sur le projet de groupes de niveau]]></title>
+                <description><![CDATA[Les directeurs craignent l’absence de moyens pour accueillir correctement les élèves.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/college/college-les-chefs-d-etablissements-alertent-le-ministere-sur-le-projet-de-groupes-de-niveau-20240125/</link>
+                <pubDate>2024-01-25T16:55:11+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>bbe4436a-bb66-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus vie étudiante]]></category>
+                <title><![CDATA[L’espérance de vie augmenterait en fonction de la durée de nos études]]></title>
+                <description><![CDATA[D’après plusieurs scientifiques, le risque de mortalité d’un adulte diminuerait de 2% pour chaque année d’étude.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/vie-etudiante/l-esperance-de-vie-augmenterait-en-fonction-de-la-duree-de-nos-etudes-20240125/</link>
+                <pubDate>2024-01-25T12:35:20+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>4d887540-baba-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Comment enseigner le management en anthropocène ?]]></title>
+                <description><![CDATA[Nous vivons une époque où l’être humain et ses activités ont un énorme impact sur son écosystème. Le management doit-il évoluer aussi ?]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/comment-enseigner-le-management-en-anthropocene-20240125/</link>
+                <pubDate>2024-01-25T10:54:05+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>977d2054-b53f-11ee-bace-39ccf1990860</guid>
+                <category><![CDATA[Digital - Com - Journalisme]]></category>
+                <title><![CDATA[Formations bac +5: l’École W fait le pari de l’innovation]]></title>
+                <description><![CDATA[L’École W forme chaque année 350 étudiants à l’art du récit dans les métiers du journalisme, de la communication et de la fiction.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/formations-bac-5-l-ecole-w-fait-le-pari-de-l-innovation_977d2054-b53f-11ee-bace-39ccf1990860/</link>
+                <pubDate>2024-01-25T10:14:18+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>8ff152a2-b52a-11ee-bace-39ccf1990860</guid>
+                <category><![CDATA[Digital - Com - Journalisme]]></category>
+                <title><![CDATA[Quelle poursuite d’études dans le Digital après un BAC+3?]]></title>
+                <description><![CDATA[L’EEMI, l’école des métiers du Digital propose des Mastères spécialisant en Marketing digital, Web Development et Design graphique (UX/UI, Direction artistique).]]></description>
+                <link>https://etudiant.lefigaro.fr/article/quelle-poursuite-d-etudes-dans-le-digital-apres-un-bac-3_8ff152a2-b52a-11ee-bace-39ccf1990860/</link>
+                <pubDate>2024-01-25T10:06:53+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>09641e8a-b143-11ee-82dc-a2ed717d9a3e</guid>
+                <category><![CDATA[Digital - Com - Journalisme]]></category>
+                <title><![CDATA[Après un Bac+3, poursuivre ses études dans le numérique et devenir le talent créatif de l’ère digitale]]></title>
+                <description><![CDATA[«J’ai une licence, un BUT ou un Bachelor… et après?» Intégrer le monde du travail ou poursuivre ses études pour se spécialiser: la question de l’orientation est parfois compliquée après un bac+3.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/apres-un-bac-3-poursuivre-ses-etudes-dans-le-numerique-et-devenir-le-talent-creatif-de-l-ere-digitale_09641e8a-b143-11ee-82dc-a2ed717d9a3e/</link>
+                <pubDate>2024-01-25T10:02:53+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>5d0419e4-b483-11ee-a556-e12b0fbe7570</guid>
+                <category><![CDATA[Ecoles d&#039;ingénieurs]]></category>
+                <title><![CDATA[Intégrer l’ESILV en admission parallèles: poursuivre ses études en école d’ingénieur]]></title>
+                <description><![CDATA[Cursus ingénieur, Bachelor, MSc, Mastère Spécialisé… L’offre de formations des écoles d’ingénieur s’est enrichie, et s’adresse désormais à un éventail de public large, de bac à bac+5. Comment poursuivre ses études en école d’ingénieur?]]></description>
+                <link>https://etudiant.lefigaro.fr/article/integrer-l-esilv-en-admission-paralleles-poursuivre-ses-etudes-en-ecole-d-ingenieur_5d0419e4-b483-11ee-a556-e12b0fbe7570/</link>
+                <pubDate>2024-01-25T09:56:49+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>3c19669c-b480-11ee-a556-e12b0fbe7570</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Poursuivre ses études en école de commerce en alternance après un Bac+3: une voie d’excellence]]></title>
+                <description><![CDATA[Après une licence, un BUT ou un Bachelor, la poursuite d’études au sein d’une Grande Ecole de commerce et de management post-bac+3 en alternance combine le meilleur de l’enseignement supérieur et du monde professionnel.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/poursuivre-ses-etudes-en-ecole-de-commerce-en-alternance-apres-un-bac-3-une-voie-d-excellence_3c19669c-b480-11ee-a556-e12b0fbe7570/</link>
+                <pubDate>2024-01-25T09:53:12+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>73bf4600-b13f-11ee-82dc-a2ed717d9a3e</guid>
+                <category><![CDATA[section_Mode Luxe]]></category>
+                <title><![CDATA[Sup de Luxe: un Bachelor sur le haut du podium depuis sa création]]></title>
+                <description><![CDATA[Le luxe est à la fois une filière d’avenir et un secteur porteur de valeurs fortes, qui séduit un nombre croissant d’étudiants.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/sup-de-luxe-un-bachelor-sur-le-haut-du-podium-depuis-sa-creation_73bf4600-b13f-11ee-82dc-a2ed717d9a3e/</link>
+                <pubDate>2024-01-25T09:47:16+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>954a2ad0-aaee-11ee-bac1-965b1dbabf71</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Admissions parallèles: faire le choix de l’IÉSEG]]></title>
+                <description><![CDATA[Poursuivre ses études à l’IÉSEG c’est faire le choix d’un programme complet et d’une formation reconnue par l’État et par le monde professionnel!]]></description>
+                <link>https://etudiant.lefigaro.fr/article/admissions-paralleles-faire-le-choix-de-l-ieseg_954a2ad0-aaee-11ee-bac1-965b1dbabf71/</link>
+                <pubDate>2024-01-25T09:39:19+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>d3856d15-baa5-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Sportif de haut niveau et étudiant en école de commerce : le parcours sans accroc d’Arthur]]></title>
+                <description><![CDATA[Le champion de triathlon vient d’intégrer le PGE de Rennes SB. Il a élaboré toute une stratégie d’études afin de s’adapter à sa pratique sportive.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/sportif-de-haut-niveau-et-etudiant-en-ecole-de-commerce-le-parcours-sans-accroc-d-arthur-20240125/</link>
+                <pubDate>2024-01-25T06:00:00+01:00</pubDate>
+                <author>Etienne Gless</author>
+            </item>
+                    <item>
+                <guid>8d79473f-bac8-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[À l’Essec et CY Cergy Paris Université, un nouveau bachelor consacré à l'écologie]]></title>
+                <description><![CDATA[<strong>REPORTAGE - </strong>L'écologie est au cœur de l'enseignement de ce diplôme délivré par l'Essec et CY Cergy Paris Université.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/a-l-essec-et-cy-cergy-paris-universite-un-nouveau-bachelor-consacre-a-l-ecologie-20240125/</link>
+                <pubDate>2024-01-25T06:00:00+01:00</pubDate>
+                <author>Christine Piédalu</author>
+            </item>
+                    <item>
+                <guid>03b4355e-bacd-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Le bachelor d’Audencia ouvre une spécialité en management du sport]]></title>
+                <description><![CDATA[Avec les Jeux olympiques de Paris, le sport devient une option dans l'école nantaise.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/le-bachelor-d-audencia-ouvre-une-specialite-en-management-du-sport-20240125/</link>
+                <pubDate>2024-01-25T06:00:00+01:00</pubDate>
+                <author>Christine Piédalu</author>
+            </item>
+                    <item>
+                <guid>35ff2e2d-ba04-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Préparez vos concours]]></category>
+                <title><![CDATA[Les classes prépas restaurent leur image pour séduire à nouveau les étudiants]]></title>
+                <description><![CDATA[Une étude récemment publiée par des CPGE révèle que les étudiants en 2e année de prépa ont majoritairement adoré leur expérience.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/les-classes-prepas-restaurent-leur-image-pour-seduire-a-nouveau-les-etudiants-20240125/</link>
+                <pubDate>2024-01-25T06:00:00+01:00</pubDate>
+                <author>Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>76744a77-baa1-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du lycée]]></category>
+                <title><![CDATA[Le Lycée autogéré de Paris dans la tourmente]]></title>
+                <description><![CDATA[L’établissement expérimental ouvert en 1982 pourrait perdre sa particularité d’autogestion.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/lycee/le-lycee-autogere-de-paris-dans-la-tourmente-20240124/</link>
+                <pubDate>2024-01-24T17:39:26+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>f4e0c0aa-baa9-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du lycée]]></category>
+                <title><![CDATA[Le gouvernement reconnaît «un non-respect de Parcoursup» au lycée Stanislas]]></title>
+                <description><![CDATA[Il est reproché à l’établissement d’user d’une procédure parallèle afin de recruter ses meilleurs lycéens en classe prépa.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/lycee/le-gouvernement-reconnait-un-non-respect-de-parcoursup-au-lycee-stanislas-20240124/</link>
+                <pubDate>2024-01-24T12:52:15+01:00</pubDate>
+                <author>AFP agence,Emma Ferrand,Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>980c6db4-b487-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[section_Ecoles d’art, design et audiovisuel]]></category>
+                <title><![CDATA[Anil Benard-Dende : « Ynov est entré dans la démarche d'évaluation du HCERES »]]></title>
+                <description><![CDATA[<strong>TRIBUNE-</strong>Alors que la ministre de l’Enseignement supérieur cherche à instaurer un label pour le privé, le groupe d'enseignement supérieur Ynov, spécialisé dans le numérique, a pris la décision de faire évaluer ses formations par le HCERES.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/anil-benard-dende-ynov-est-entre-dans-la-demarche-d-evaluation-du-hceres-20240124/</link>
+                <pubDate>2024-01-24T10:37:28+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>ffeb2d61-ba97-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Sciences Po]]></category>
+                <title><![CDATA[Mathias Vicherat va reprendre son poste de directeur de Sciences Po]]></title>
+                <description><![CDATA[Mis en retrait de ses fonctions depuis le 11 décembre dernier, Mathias Vicherat va retrouver ses fonctions à la tête de l’institut d’études politiques.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/mathias-vicherat-va-reprendre-son-poste-de-directeur-de-sciences-po-20240124/</link>
+                <pubDate>2024-01-24T10:36:06+01:00</pubDate>
+                <author>Emma Ferrand,Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>d535a362-b9dd-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Etudier à l&#039;étranger]]></category>
+                <title><![CDATA[Comment expliquer le succès de la Bocconi auprès des étudiants français ?]]></title>
+                <description><![CDATA[L'université italienne attire chaque année de plus en plus de Français, à la recherche d'une expérience internationale.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/comment-expliquer-le-succes-de-la-bocconi-aupres-des-etudiants-francais-20240124/</link>
+                <pubDate>2024-01-24T07:00:00+01:00</pubDate>
+                <author>Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>fb44a558-b9dd-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Etudier à l&#039;étranger]]></category>
+                <title><![CDATA[Mon avis sur l’université de Maastricht : «Je me suis fait des amis du monde entier»]]></title>
+                <description><![CDATA[Phoebe Maton, 21 ans, est parti étudier pendant trois ans aux Pays-Bas.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/mon-avis-sur-l-universite-de-maastricht-je-me-suis-fait-des-amis-du-monde-entier-20240124/</link>
+                <pubDate>2024-01-24T07:00:00+01:00</pubDate>
+                <author>Christine Piédalu</author>
+            </item>
+                    <item>
+                <guid>69b39401-b8fd-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Etudier à l&#039;étranger]]></category>
+                <title><![CDATA[Pourquoi l'université de Montréal attire autant les Français ?]]></title>
+                <description><![CDATA[Tous les ans, 3 000 jeunes de l’Hexagone candidatent auprès de l'université québécoise. Un chiffre en légère hausse.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/pourquoi-l-universite-de-montreal-attire-autant-les-francais-20240124/</link>
+                <pubDate>2024-01-24T06:00:00+01:00</pubDate>
+                <author>Emma Ferrand</author>
+            </item>
+                    <item>
+                <guid>81a9054c-ba08-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus vie étudiante]]></category>
+                <title><![CDATA[Emmanuel Macron lance une nouvelle formation entre trois grandes écoles pour les sportifs de haut niveau]]></title>
+                <description><![CDATA[L’Essec, CentraleSupélec et Sciences Po devront s’associer à l’Insep pour faciliter la poursuite d’études des champions.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/vie-etudiante/emmanuel-macron-lance-une-nouvelle-formation-entre-trois-grandes-ecoles-pour-les-sportifs-de-haut-niveau-20240123/</link>
+                <pubDate>2024-01-23T17:52:43+01:00</pubDate>
+                <author>Jeanne Paturaud,Emma Ferrand</author>
+            </item>
+                    <item>
+                <guid>7432ae64-b9ea-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Finance - Budget - Logement]]></category>
+                <title><![CDATA[Cette maire est en grève de la faim contre un projet de résidence étudiante]]></title>
+                <description><![CDATA[Depuis une semaine, la maire LR d’Avon a cessé de s’alimenter pour protester contre la construction de logements étudiants qui empiète sur sa commune.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/vie-etudiante/cette-maire-est-en-greve-de-la-faim-contre-un-projet-de-residence-etudiante-20240123/</link>
+                <pubDate>2024-01-23T16:44:52+01:00</pubDate>
+                <author>Emma Ferrand</author>
+            </item>
+                    <item>
+                <guid>cf287038-b9fa-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Santé - Médecine - Social]]></category>
+                <title><![CDATA[Les étudiants délaissent la psychiatrie, la filière lance une campagne pour «déconstruire les préjugés»]]></title>
+                <description><![CDATA[Cette spécialité est mise de côté par les étudiants en médecine qui la jugent souvent anxiogène voire effrayante.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/les-etudiants-delaissent-la-psychiatrie-la-filiere-lance-une-campagne-pour-deconstruire-les-prejuges-20240123/</link>
+                <pubDate>2024-01-23T16:08:33+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>b50faca0-b6ce-11ee-bace-39ccf1990860</guid>
+                <category><![CDATA[Digital - Com - Journalisme]]></category>
+                <title><![CDATA[Ynov campus: focus sur trois filières d’avenir: Informatique, Marketing &amp; Communication Digitale, Tech &amp; Business ]]></title>
+                <description><![CDATA[Acteur incontournable de l’écosystème de la tech et du digital, le groupe Ynov Campus, fondé en 2010, est aujourd’hui présent dans 10 métropoles françaises avec ses 12 campus, dont deux sous-marques EICAR.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/ynov-campus-focus-sur-trois-filieres-d-avenir-informatique-marketing-communication-digitale-tech-business_b50faca0-b6ce-11ee-bace-39ccf1990860/</link>
+                <pubDate>2024-01-23T11:47:17+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>de1870e0-b607-11ee-a556-e12b0fbe7570</guid>
+                <category><![CDATA[Universités]]></category>
+                <title><![CDATA[Découvrez l’Université du Québec à Trois-Rivières (UQTR): une université de taille humaine au cœur du foyer de la Francophonie en Amérique du Nord]]></title>
+                <description><![CDATA[Si vous cherchez une université réputée pour son excellence académique, sa vie étudiante dynamique et ses activités d’immersion culturelle, mais que vous désirez aussi vivre une expérience plus régionale, l’UQTR est l’endroit idéal pour réaliser vos projets d’études.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/decouvrez-l-universite-du-quebec-a-trois-rivieres-uqtr-une-universite-de-taille-humaine-au-coeur-du-foyer-de-la-francophonie-en-amerique-du-nord_de1870e0-b607-11ee-a556-e12b0fbe7570/</link>
+                <pubDate>2024-01-23T11:31:07+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>5c359865-b576-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Etudier à l&#039;étranger]]></category>
+                <title><![CDATA[À Beyrouth, cette école de commerce se bat pour former les cadres de demain]]></title>
+                <description><![CDATA[<strong>ENTRETIEN</strong> - L’École supérieure des affaires (ESA) sollicite les donateurs pour aider les Libanais à poursuivre leurs études, malgré les conflits.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/a-beyrouth-cette-ecole-de-commerce-se-bat-pour-former-les-cadres-de-demain-20240123/</link>
+                <pubDate>2024-01-23T10:59:00+01:00</pubDate>
+                <author>Frédéric Picard</author>
+            </item>
+                    <item>
+                <guid>27c697dd-b9cc-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Universités]]></category>
+                <title><![CDATA[L'université Rennes-2 bloquée par des étudiants opposés à la loi immigration]]></title>
+                <description><![CDATA[Les cours de la matinée ont été annulés ce mardi 23 janvier dans cette université habituée des contestations étudiantes.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/l-universite-rennes-2-bloquee-par-des-etudiants-opposes-a-la-loi-immigration-20240123/</link>
+                <pubDate>2024-01-23T10:15:54+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>20f69d3a-b9cc-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Etudier à l&#039;étranger]]></category>
+                <title><![CDATA[Au Canada, le nombre d’étudiants étrangers désormais limité]]></title>
+                <description><![CDATA[Cette année, le pays compte baisser de plus d’un tiers le nombre de permis d’études internationaux.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/au-canada-le-nombre-d-etudiants-etrangers-desormais-limite-20240123/</link>
+                <pubDate>2024-01-23T10:15:42+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>d0571baf-b93c-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Sciences Po]]></category>
+                <title><![CDATA[Parcoursup : les conseils de Sciences Po pour être admis en première année]]></title>
+                <description><![CDATA[<strong>ENTRETIEN -</strong> La prestigieuse école de la rue Saint-Guillaume a répondu à nos questions sur ses admissions en bachelor.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/parcoursup-les-conseils-de-sciences-po-pour-etre-admis-en-premiere-annee-20240123/</link>
+                <pubDate>2024-01-23T07:45:05+01:00</pubDate>
+                <author>Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>5d881193-b6e9-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Comment les écoles de commerce recrutent leurs étudiants en bachelor ?]]></title>
+                <description><![CDATA[Les concours des écoles de commerce ont fortement délaissé les épreuves écrites au profit de l’analyse des dossiers, depuis la pandémie.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/comment-les-ecoles-de-commerce-recrutent-leurs-etudiants-en-bachelor-20240123/</link>
+                <pubDate>2024-01-23T07:45:00+01:00</pubDate>
+                <author>Emma Ferrand</author>
+            </item>
+                    <item>
+                <guid>333baa86-a026-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[section_Ecoles d’art, design et audiovisuel]]></category>
+                <title><![CDATA[Ce qu’il faut vérifier absolument avant de choisir une école privée : les conseils de France compétences]]></title>
+                <description><![CDATA[<strong>Alors qu’un quart des étudiants français étudient dans l’enseignement supérieur privé, René Bagorski, directeur de la certification professionnelle à France compétences appelle les familles à la prudence.</strong>]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/ce-qu-il-faut-verifier-absolument-avant-de-choisir-une-ecole-privee-les-conseils-de-france-competences-20240123/</link>
+                <pubDate>2024-01-23T06:30:00+01:00</pubDate>
+                <author>Laurent Calixte</author>
+            </item>
+                    <item>
+                <guid>07b1fe47-b6eb-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Téo Rotar, champion de beach-volley et étudiant en management]]></title>
+                <description><![CDATA[Le jeune homme de 19 ans se prépare aux Jeux olympiques de beach-volley. Il suit ses entraînements et ses cours à Montpellier.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/teo-rotar-champion-de-beach-volley-et-etudiant-en-management-20240123/</link>
+                <pubDate>2024-01-23T06:00:00+01:00</pubDate>
+                <author>Emma Ferrand</author>
+            </item>
+                    <item>
+                <guid>6b623921-b912-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du lycée]]></category>
+                <title><![CDATA[Peut-on reprocher au lycée Stanislas de «contourner» Parcoursup ?]]></title>
+                <description><![CDATA[Une enquête administrative reproche à l’établissement privé de développer une procédure «souterraine» pour assurer le recrutement de ses propres lycéens en prépa.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/lycee/peut-on-reprocher-au-lycee-stanislas-de-contourner-parcoursup-20240122/</link>
+                <pubDate>2024-01-22T18:32:24+01:00</pubDate>
+                <author>Emma Ferrand,Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>ed2ef1df-b48d-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Quels sont les meilleurs bachelors en management en 2024 ?]]></title>
+                <description><![CDATA[<strong>CLASSEMENT-</strong><i> Le Figaro Étudiant</i> révèle son palmarès des bachelors d’écoles de commerce.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/quels-sont-les-meilleurs-bachelors-en-management-en-2024-20240122/</link>
+                <pubDate>2024-01-22T07:00:19+01:00</pubDate>
+                <author>Valentin Autié</author>
+            </item>
+                    <item>
+                <guid>f9962e40-b6d2-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Les classes préparatoires sont-elles menacées  par l’essor des bachelors ?]]></title>
+                <description><![CDATA[La popularité de ces formations postbac inquiète les prépas, qui ont peur d'être moins attractives.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/les-classes-preparatoires-sont-elles-menacees-par-l-essor-des-bachelors-20240122/</link>
+                <pubDate>2024-01-22T07:00:13+01:00</pubDate>
+                <author>Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>71866fcc-b6d4-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Spécial bachelors 2024 : l’éditorial de Sophie de Tarlé]]></title>
+                <description><![CDATA[Les bachelors se multiplient dans les grandes écoles. Est-ce une menace pour notre système éducatif ?]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/special-bachelors-2024-l-editorial-de-sophie-de-tarle-20240122/</link>
+                <pubDate>2024-01-22T07:00:10+01:00</pubDate>
+                <author>Sophie de Tarlé</author>
+            </item>
+                    <item>
+                <guid>fa127fb1-b6e9-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Ecoles de commerce]]></category>
+                <title><![CDATA[Éloïc Peyrache : « Avec ce nouveau bachelor, HEC va pouvoir recruter les meilleurs étudiants dès le bac »]]></title>
+                <description><![CDATA[La première école de commerce de l'Hexagone a finalement décidé d'ouvrir un bac + 3 en septembre 2024.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/eloic-peyrache-avec-ce-nouveau-bachelor-hec-va-pouvoir-recruter-les-meilleurs-etudiants-des-le-bac-20240122/</link>
+                <pubDate>2024-01-22T07:00:00+01:00</pubDate>
+                <author>Jeanne Paturaud</author>
+            </item>
+                    <item>
+                <guid>b064707f-b6ce-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[section_Ecoles d’art, design et audiovisuel]]></category>
+                <title><![CDATA[Une prépa d’architecture à 7000€ l’année fait faillite, les étudiants sont dépités]]></title>
+                <description><![CDATA[Parents et élèves se questionnent sur la fermeture soudaine de l’établissement privé.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/etudes/une-prepa-d-architecture-a-7000-l-annee-fait-faillite-les-etudiants-sont-depites-20240119/</link>
+                <pubDate>2024-01-19T17:42:11+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>b32e3263-b6cc-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du lycée]]></category>
+                <title><![CDATA[À Paris, des jeunes bloquent leurs établissements pour protester contre la loi immigration]]></title>
+                <description><![CDATA[Une centaine de lycéens et étudiants ont également manifesté dans les rues de la capitale.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/lycee/a-paris-des-jeunes-bloquent-leurs-etablissements-pour-protester-contre-la-loi-immigration-20240119/</link>
+                <pubDate>2024-01-19T14:34:29+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>4bd0fba3-b6b3-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du collège]]></category>
+                <title><![CDATA[Cette méthode surprenante employée par un collège pour éviter d’exclure ses élèves indisciplinés]]></title>
+                <description><![CDATA[Un établissement de Saint-Malo préfère punir autrement le mauvais comportement de ses élèves.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/college/cette-methode-surprenante-employee-par-un-college-pour-eviter-d-exclure-ses-eleves-indisciplines-20240119/</link>
+                <pubDate>2024-01-19T12:32:24+01:00</pubDate>
+                <author></author>
+            </item>
+                    <item>
+                <guid>d6abe63e-b5e0-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Actus du lycée]]></category>
+                <title><![CDATA[Établissements privés sous contrat et hors contrat : quelles différences ?]]></title>
+                <description><![CDATA[Les parents sont nombreux à inscrire leurs enfants en école privée. Toutefois, le secteur se distingue par deux dispositifs différents.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/lycee/etablissements-prives-sous-contrat-et-hors-contrat-quelles-differences-20240118/</link>
+                <pubDate>2024-01-18T17:42:34+01:00</pubDate>
+                <author>Emma Ferrand</author>
+            </item>
+                    <item>
+                <guid>fc2f6abc-b5e2-11ee-8294-a0369f6f7bc8</guid>
+                <category><![CDATA[Parcoursup]]></category>
+                <title><![CDATA[Parcoursup : Nathan, élève de terminale, raconte comment il a construit sa stratégie]]></title>
+                <description><![CDATA[Le lycéen a passé de nombreuses heures sur la plateforme pour bien comprendre le fonctionnement. Il livre ses conseils pour mettre toutes les chances de son côté.]]></description>
+                <link>https://etudiant.lefigaro.fr/article/lycee/parcoursup-nathan-eleve-de-terminale-raconte-comment-il-a-construit-sa-strategie-20240118/</link>
+                <pubDate>2024-01-18T14:48:53+01:00</pubDate>
+                <author>Laurent Calixte</author>
+            </item>
+            </channel>
+</rss>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_culture.xml" rel="self" type="application/rss+xml"/>
+        <category>Culture</category>
+        <title>Le Figaro - Culture : Cinéma, théâtre, arts, expositions, musique et télévision</title>
+        <description>Culture : Retrouvez nos critiques cinéma, les pièces de théâtre, les expositions et tous les évènements culturels à venir sur le Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Tue, 06 Feb 2024 20:59:35 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Culture : Cinéma, théâtre, arts, expositions, musique et télévision</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Culture : Retrouvez nos critiques cinéma, les pièces de théâtre, les expositions et tous les évènements culturels à venir sur le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/la-zone-d-interet-they-shot-the-piano-player-amelia-s-children-les-films-a-voir-ou-a-eviter-cette-semaine-20240131</guid>
+                <title>La Zone d’intérêt, They Shot the Piano Player, Amelia&#039;s Children... Les films à voir ou à éviter cette semaine</title>
+                                <link>https://www.lefigaro.fr/cinema/la-zone-d-interet-they-shot-the-piano-player-amelia-s-children-les-films-a-voir-ou-a-eviter-cette-semaine-20240131</link>
+                                    <description>La vie de la famille du commandant d&#039;Auschwitz, le parcours en dessin du pianiste Tenorio Jr avant sa disparition, les retrouvailles cauchemardesques d’un homme avec sa mère biologique et son jumeau... La sélection du Figaro.</description>
+                                <category>Cinéma</category>
+                <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/30/075dcd528bc2ccfad44dde256aa8f661678c86acc9e494c0392b21cfdaa84171.jpg" width="1920" height="1080">
+                        <media:description type="plain">Sandra Hüller dans La Zone d&#039;intérêt, la vie de Tenorio Jr en dessin dans They Shot the Piano Player, Carloto Cotta dans Amelia&#039;s Children.</media:description>
+                        <media:credit>Copyright Les Films d&#039;Ici/ Leonines/ 2023 Artificial Humors</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/le-projet-de-vegetalisation-du-trocadero-a-la-tour-eiffel-d-anne-hidalgo-n-est-pas-encore-au-point-selon-le-prefet-de-police-20240206</guid>
+                <title>Le projet de végétalisation du Trocadéro à la tour Eiffel d’Anne Hidalgo n’est pas encore au point selon le préfet de police</title>
+                                <link>https://www.lefigaro.fr/culture/le-projet-de-vegetalisation-du-trocadero-a-la-tour-eiffel-d-anne-hidalgo-n-est-pas-encore-au-point-selon-le-prefet-de-police-20240206</link>
+                                    <description>En Conseil de Paris, le préfet Laurent Nuñez a expliqué qu’il souhaitait «encore travailler ce projet» défendu par la maire de Paris mais dénoncé par l’opposition et Rachida Dati.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 06 Feb 2024 18:52:14 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1200x845_crop/2024/02/06/02bba5748ac22aac60e4fd33520bd6a84c364f8f2feebd77930dc548325d354c.jpg" width="1200" height="845">
+                        <media:description type="plain">Le projet prévoit la piétonnisation de la moitié de la place du Trocadéro dans le prolongement de l’esplanade du palais.</media:description>
+                        <media:credit>Gustafson Porter + Bowman/cabinet d&#039;architecte/Mairie de Paris</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/l-autre-voyage-polifemo-quand-le-theatre-ne-suit-pas-la-musique-20240206</guid>
+                <title>L’Autre Voyage, Polifemo... Quand le théâtre ne suit pas la musique</title>
+                                <link>https://www.lefigaro.fr/musique/l-autre-voyage-polifemo-quand-le-theatre-ne-suit-pas-la-musique-20240206</link>
+                                    <description>CRITIQUE - Des mises en scènes trop pâles desservent les nouvelles productions dirigées par Raphaël Pichon à l’Opéra Comique et Emmanuelle Haïm à Strasbourg.</description>
+                                <category>Musique</category>
+                <pubDate>Tue, 06 Feb 2024 18:02:27 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/918x612_crop/2024/02/06/bb802d72fb5e3d535e94b17538ea16bfc897dac5583d9bd01139a2ced638a007.jpg" width="918" height="612">
+                        <media:description type="plain">L’Autre Voyage, à l’Opéra Comique.</media:description>
+                        <media:credit>Stefan Brion</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/avec-training-season-dua-lipa-s-echauffe-pour-la-sortie-de-son-nouvel-album-20240206</guid>
+                <title>Avec Training Season, Dua Lipa s’échauffe pour la sortie de son nouvel album</title>
+                                <link>https://www.lefigaro.fr/musique/avec-training-season-dua-lipa-s-echauffe-pour-la-sortie-de-son-nouvel-album-20240206</link>
+                                    <description>La pop star britannique a dévoilé, lors des Grammy Awards, son nouveau single en quête de stabilité amoureuse.</description>
+                                <category>Musique</category>
+                <pubDate>Tue, 06 Feb 2024 18:05:58 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/06/45c4a167555976062d929c6c2d3e568b1debf9df8d8474f6bd40ecc0fa650548.jpg" width="3000" height="1687">
+                        <media:description type="plain">Dua Lipa a fait sensation sur la scène des Grammy Awards dimanche soir, interprétant trois chansons dont Training Season, disponible sur toutes les plateformes à partir du 15 février.</media:description>
+                        <media:credit>MIKE BLAKE / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-du-nouveau-film-de-quentin-dupieux-le-daaaaaali-d-inities-20240206</guid>
+                <title>Notre critique du nouveau film de Quentin Dupieux: le Daaaaaalí! d’initiés</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-du-nouveau-film-de-quentin-dupieux-le-daaaaaali-d-inities-20240206</link>
+                                    <description>CRITIQUE - Édouard Baer, Gilles Lellouche, Jonathan Cohen, Pio Marmaï et Didier Flamand interprètent tous le célèbre peintre à la moustache et à l’accent si caractéristiques.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 14:29:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVMa56c8324-c450-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain">Édouard Baer interprète Salvador Dali dans le nouveau film de Quentin Dupieux.</media:description>
+                        <media:credit>© ATELIER DE PRODUCTION  – FRANCE 3 CINEMA-2023/Diaphana</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-de-green-border-enfer-sur-terre-20240206</guid>
+                <title>Notre critique de Green Border: enfer sur Terre</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-de-green-border-enfer-sur-terre-20240206</link>
+                                    <description>CRITIQUE - Agnieszka Holland revient sur le drame des réfugiés pris en tenailles entre la Biélorussie et la Pologne. Une catastrophe humanitaire filmée avec une rage froide.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 12:54:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVMe09a3a24-c4df-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain">Dans 
+Green Border, Maja Ostaszewska interprête Julia, une psychologue quinquagénaire qui se mue en activiste au sein d’un groupe de bénévoles.</media:description>
+                        <media:credit>Agata Kubis</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/22-ans-apres-l-envoutant-royaume-de-kensuke-de-michael-morpurgo-enfin-adapte-au-cinema-20240206</guid>
+                <title>22 ans après, l’envoûtant Royaume de Kensuké de Michael Morpurgo enfin adapté au cinéma</title>
+                                <link>https://www.lefigaro.fr/cinema/22-ans-apres-l-envoutant-royaume-de-kensuke-de-michael-morpurgo-enfin-adapte-au-cinema-20240206</link>
+                                    <description>CRITIQUE - Fable écologiste pleine de poésie, ce film d’animation est une merveilleuse ode aux liens humains et à la beauté de la planète.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 12:31:55 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVMdc98eed4-c4d5-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain">Film d’animation magnifiquement adapté de du roman éponyme de Michael Morpurgo publié chez Gallimard, 
+Le Royaume de Kensuké nous plonge dans son univers aussi mouvementé qu’émouvant.</media:description>
+                        <media:credit>Le Pacte</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-de-race-for-glory-sans-exces-de-vitesse-20240206</guid>
+                <title>Notre critique de Race for Glory: sans excès de vitesse</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-de-race-for-glory-sans-exces-de-vitesse-20240206</link>
+                                    <description>La rivalité entre les écuries Audi et Lancia dans les années 1980. Prévisible mais plaisant.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 12:22:04 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVMf4609b1a-c4e0-11ee-982d-ddc8afb59c04.jpg" width="630" height="354">
+                        <media:description type="plain">Riccardo Scamarcio dans «Race for Glory».</media:description>
+                        <media:credit>Metropolitan FilmExport</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-de-la-bete-quelle-que-soit-l-epoque-lea-seydoux-l-indomptee-20240206</guid>
+                <title>Notre critique de La Bête: quelle que soit l’époque, Léa Seydoux l’indomptée</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-de-la-bete-quelle-que-soit-l-epoque-lea-seydoux-l-indomptee-20240206</link>
+                                    <description>L’amour selon Bertrand Bonello. Son dernier film est une rêverie splendide, entre mélo et science-fiction.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 12:01:24 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVM91017958-c4dc-11ee-982d-ddc8afb59c04.jpg" width="630" height="354">
+                        <media:description type="plain">Léa Seydoux et George MacKay dans «La Bête».</media:description>
+                        <media:credit>Carole Bethuel</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/laurent-le-bon-de-cette-periode-de-conflit-au-centre-pompidou-il-faut-sortir-par-le-haut-20240206</guid>
+                <title>Laurent Le Bon : «De cette période de conflit au Centre Pompidou, il faut sortir par le haut»</title>
+                                <link>https://www.lefigaro.fr/culture/laurent-le-bon-de-cette-periode-de-conflit-au-centre-pompidou-il-faut-sortir-par-le-haut-20240206</link>
+                                    <description>INTERVIEW - Au lendemain de la grève qui a coûté 2 millions d&#039;euros, le président de l’établissement présente son projet pendant la fermeture pour travaux jusqu’en 2030. Et au-delà.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 06 Feb 2024 16:49:52 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/02/06/6bacd9a7f510914d4dcb488695d11abb475a1f933828d93b121e6457add4e8bb.jpg" width="2850" height="1603">
+                        <media:description type="plain">«Ce mouvement social était un moment important dans la vie du Centre. Je ne voulais pas faire pourrir les choses», assure le président du Centre Pompidou au lendemain de la signature d’un protocole d’accord avec les syndicats majoritaires de l’établissement.</media:description>
+                        <media:credit>LUDOVIC MARIN / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/tournage-imminent-pour-un-antoinette-dans-les-cevennes-made-in-usa-avec-toni-colette-20240206</guid>
+                <title>Tournage imminent pour un Antoinette dans les Cévennes «made in USA» avec Toni Colette</title>
+                                <link>https://www.lefigaro.fr/cinema/tournage-imminent-pour-un-antoinette-dans-les-cevennes-made-in-usa-avec-toni-colette-20240206</link>
+                                    <description>Alors que l’Amérique plébiscite Anatomie d’une chute, Hollywood s’apprête à adapter le long-métrage de Caroline Vignal, récompensé au Césars en 2021.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 17:39:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/754x424_crop/2024/02/06/c50d8350f99b48ef179c4cbe253eb948fc8ab22aedbc813fbadffcbf84f72514.jpg" width="754" height="424">
+                        <media:description type="plain">Laure Calamy et l’âne Patrick dans Antoinette dans les Cévennes de Caroline Vignale</media:description>
+                        <media:credit>Copyright   Julien Panié / CHAPKA FILMS / LA FILMERIE / FRANCE 3 CINEMA</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/les-premieres-images-de-scoop-le-film-sur-l-interview-qui-a-fait-tomber-le-prince-andrew-20240206</guid>
+                <title>Les premières images de Scoop, le film sur l’interview qui a fait tomber le prince Andrew</title>
+                                <link>https://www.lefigaro.fr/culture/les-premieres-images-de-scoop-le-film-sur-l-interview-qui-a-fait-tomber-le-prince-andrew-20240206</link>
+                                    <description>Tiré du livre du journaliste Sam McAlister, le film raconte les coulisses de cet entretien lors duquel le fils d’Elizabeth II a témoigné de ses liens avec Jeffrey Epstein.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 06 Feb 2024 16:50:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1519x854_crop/2024/02/06/4c5d01a74e18ff66a2ff7929ecd86f7ae1908d6260f45eea0603977dd15e49e5.jpg" width="1519" height="854">
+                        <media:description type="plain">Dans le film Netflix Scoop, Rufus Sewell incarne le prince Andrew. Face à lui, la journaliste Emily Maitlis est incarnée par Gillian Anderson.</media:description>
+                        <media:credit>PETER MOUNTAIN/NETFLIX</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/ceremonie-cesar/cesar-2024-retrouvailles-verdure-et-angoisse-du-discours-le-diner-des-nommes-comme-si-vous-y-etiez-20240206</guid>
+                <title>César 2024: retrouvailles, verdure et angoisse du discours... Le dîner des nommés comme si vous y étiez</title>
+                                <link>https://www.lefigaro.fr/cinema/ceremonie-cesar/cesar-2024-retrouvailles-verdure-et-angoisse-du-discours-le-diner-des-nommes-comme-si-vous-y-etiez-20240206</link>
+                                    <description>NOUS Y ÉTIONS - Marion Cotillard, Virginie Efira, Romain Duris... 162 artistes en lice, le 23 février, ont pu recevoir leur diplôme et savourer le traditionnel repas à la table du Fouquet’s.</description>
+                                <category>Cérémonie des César</category>
+                <pubDate>Tue, 06 Feb 2024 20:07:59 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1662x935_crop/2024/02/06/51b33d0052d3b4d651e66482c2b35652c285b08f6893fb65275eb7b558b5f628.jpg" width="1662" height="935">
+                        <media:description type="plain">Virginie Efira se voit offrir son certificat de nomination pour L’amour et les forêts.</media:description>
+                        <media:credit>Emmanuel Dal Fabbro.</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/moscou-inscrit-l-ecrivain-russe-boris-akounine-sur-la-liste-des-agents-de-l-etranger-20240206</guid>
+                <title>Moscou inscrit l&#039;écrivain russe Boris Akounine sur la liste des «agents de l&#039;étranger»</title>
+                                <link>https://www.lefigaro.fr/culture/moscou-inscrit-l-ecrivain-russe-boris-akounine-sur-la-liste-des-agents-de-l-etranger-20240206</link>
+                                    <description>Déjà taxé de «terroriste et extrémiste», le romancier, aujourd’hui en exil, avait qualifié de «guerre absurde» l’invasion de l’Ukraine par la Russie. Une critique passible d’une peine de prison de 15 ans.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 06 Feb 2024 11:32:50 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2048_crop/2024/02/06/0c02f373ae750b780529ca1659639d1f0bb11aecea1ad98d58eb4d0957a3af57.jpg" width="3000" height="2048">
+                        <media:description type="plain">Boris Akounine a été nommé Chevalier de l&#039;ordre des Arts et Lettres lors du Salon du livre de Paris le 16 mars 2012.</media:description>
+                        <media:credit>Guignebourg Denis / Guignebourg Denis/ABACA</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/edouard-baer-et-jonathan-cohen-le-cinema-francais-nous-separe-on-saura-un-jour-pourquoi-20240206</guid>
+                <title>Édouard Baer et Jonathan Cohen: «Le cinéma français nous sépare, on saura un jour pourquoi»</title>
+                                <link>https://www.lefigaro.fr/cinema/edouard-baer-et-jonathan-cohen-le-cinema-francais-nous-separe-on-saura-un-jour-pourquoi-20240206</link>
+                                    <description>ENTRETIEN CROISÉ - Les deux acteurs interprètent chacun un des Dali imaginés par le cinéaste Quentin Dupieux. Ils ne se sont pas croisés sur le plateau mais Le Figaro les a réunis le temps d’un entretien. Forcément surréaliste.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 06 Feb 2024 16:44:08 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVM0f1351b6-c44e-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain">Édouard Baer et Jonathan Cohen, le 23 janvier, à Paris.</media:description>
+                        <media:credit>SEBASTIEN SORIANO/Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/rachida-dati-entend-lutter-contre-cancel-culture-en-defendant-la-liberte-de-creation-20240206</guid>
+                <title>Rachida Dati entend lutter contre la «cancel culture» en défendant la «liberté de création»</title>
+                                <link>https://www.lefigaro.fr/culture/rachida-dati-entend-lutter-contre-cancel-culture-en-defendant-la-liberte-de-creation-20240206</link>
+                                    <description>La ministre de la Culture exhorte les directeurs généraux et régionaux de son administration à «ne pas soutenir ces nouveaux censeurs».</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 06 Feb 2024 11:45:39 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/06/a287ca591f7a9db23cffeb752c033b1d4cb256394215eb96d3b74e7100e4bb25.jpg" width="3000" height="1687">
+                        <media:description type="plain">«Je trouve que le wokisme est devenu une politique de censure», a expliquéla ministre issue de LR sur Europe 1.</media:description>
+                        <media:credit>BERTRAND GUAY / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/toby-keith-l-un-des-grands-noms-de-la-country-est-mort-a-62-ans-20240206</guid>
+                <title>Toby Keith, l’un des grands noms de la country, est mort à 62 ans</title>
+                                <link>https://www.lefigaro.fr/culture/toby-keith-l-un-des-grands-noms-de-la-country-est-mort-a-62-ans-20240206</link>
+                                    <description>Compositeur, interprète et producteur, il était l’auteur d’une vingtaine d’albums, dont plusieurs titres ont atteint les meilleures places des classements.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 06 Feb 2024 14:17:36 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/02/06/484a549ac84b761fb7eae9e41a51bb710c2dd84c20cdc56864501426061f0f18.jpg" width="2850" height="1603">
+                        <media:description type="plain">Toby Keith à Nashville en 2022.</media:description>
+                        <media:credit>JASON KEMPIN / Getty Images via AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/les-valseuses-deprogrammees-bertrand-blier-future-victime-du-wokisme-20240203</guid>
+                <title>Les Valseuses déprogrammées: Bertrand Blier future victime du wokisme?</title>
+                                <link>https://www.lefigaro.fr/cinema/les-valseuses-deprogrammees-bertrand-blier-future-victime-du-wokisme-20240203</link>
+                                    <description>La déprogrammation de ce film culte des années 1970 sur Paris Première augure des temps sinistres pour les chefs-d’œuvre du réalisateur.</description>
+                                <category>Cinéma</category>
+                <pubDate>Mon, 05 Feb 2024 14:41:47 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/03/XVM869d938e-c108-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Gérard Depardieu, Miou-Miou et Patrick Dewaere dans 
+Les Valseuses, de Bertrand Blier.</media:description>
+                        <media:credit>Bridgeman Images</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/coupes-budgetaires-fermeture-pour-travaux-passe-d-armes-avec-la-maire-ecolo-cacophonie-a-l-opera-et-a-l-orchestre-de-strasbourg-20240203</guid>
+                <title>Coupes budgétaires, fermeture pour travaux, passe d&#039;armes avec la maire écolo... Cacophonie à l&#039;Opéra et à l&#039;orchestre de Strasbourg</title>
+                                <link>https://www.lefigaro.fr/musique/coupes-budgetaires-fermeture-pour-travaux-passe-d-armes-avec-la-maire-ecolo-cacophonie-a-l-opera-et-a-l-orchestre-de-strasbourg-20240203</link>
+                                    <description>ENQUÊTE - L’Opéra du Rhin et l’Orchestre philharmonique, institutions prestigieuses, voient leurs subventions rabotées par la majorité EELV. L’opposition et les musiciens s’alarment.</description>
+                                <category>Musique</category>
+                <pubDate>Sat, 03 Feb 2024 14:31:30 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2116x1190_crop/2024/02/02/6a79bc0046ec4877054db5d615d660903b80fbe572f0fbadad293203212f2a53.jpg" width="2116" height="1190">
+                        <media:description type="plain">Reprise de Lakmé à l’Opéra du Rhin cet automne, avec Sabine Devieilhe, dans la mise en scène de Laurent Pelly.</media:description>
+                        <media:credit>Klara Beck/Opéra du Rhin</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/pour-ohad-naharin-la-danse-fait-l-homme-20240204</guid>
+                <title>Le Ballet de l’Opéra de Paris gaga d’Ohad Naharin</title>
+                                <link>https://www.lefigaro.fr/culture/pour-ohad-naharin-la-danse-fait-l-homme-20240204</link>
+                                    <description>REPORTAGE - Le chorégraphe israélien a donné au Ballet de l&#039;Opéra de Paris Sadeh21. Immersion au cœur des répétitions.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 05 Feb 2024 14:47:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/04/27e9147c4ff134b0bdf9879e663343a243bb65a10c3d73acd302c00840ac8003.jpg" width="3000" height="1687">
+                        <media:description type="plain">Répétition pour Sadeh21, lundi dernier, au Palais Garnier.</media:description>
+                        <media:credit>Yonathan Kellerman/Opéra National de Paris</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

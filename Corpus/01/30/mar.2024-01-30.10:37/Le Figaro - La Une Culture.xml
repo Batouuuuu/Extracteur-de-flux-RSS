@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_culture.xml" rel="self" type="application/rss+xml"/>
+        <category>Culture</category>
+        <title>Le Figaro - Culture : Cinéma, théâtre, arts, expositions, musique et télévision</title>
+        <description>Culture : Retrouvez nos critiques cinéma, les pièces de théâtre, les expositions et tous les évènements culturels à venir sur le Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Tue, 30 Jan 2024 10:32:53 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Culture : Cinéma, théâtre, arts, expositions, musique et télévision</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Culture : Retrouvez nos critiques cinéma, les pièces de théâtre, les expositions et tous les évènements culturels à venir sur le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/iron-claw-le-dernier-des-juifs-may-december-les-films-a-voir-ou-a-eviter-cette-semaine-20240124</guid>
+                <title>Iron Claw, Le Dernier des juifs, May December... Les films à voir ou à éviter cette semaine</title>
+                                <link>https://www.lefigaro.fr/cinema/iron-claw-le-dernier-des-juifs-may-december-les-films-a-voir-ou-a-eviter-cette-semaine-20240124</link>
+                                    <description>Deux champions de catch sous l’emprise de leur père, un fils qui cache à sa mère la désertion des juifs de leur cité, une prof en prison pour avoir noué une relation sentimentale avec un de ses élèves... La sélection du Figaro.</description>
+                                <category>Cinéma</category>
+                <pubDate>Wed, 24 Jan 2024 17:41:45 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/23/d17d01f9b058b8896a0ee4df5de445bfbb5798480270aca01208a8b64313dd9a.jpg" width="1920" height="1080">
+                        <media:description type="plain">Harris Dickinson dans Iron Claw, Agnès Jaoui et Michael Zindel dans Le dernier des juifs, Julianne Moore et Natalie Portman dans May December.</media:description>
+                        <media:credit>Copyright Simon Birman - 2023 - MOONSHAKER FILMS - THE LIVING - L&#039;EMBELLIE/ May December Productions 2022 LLC/Leonine</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/patrimoine/la-directrice-de-la-galerie-de-l-academie-compare-florence-a-une-prostituee-et-suscite-l-indignation-en-italie-20240130</guid>
+                <title>La directrice de la Galerie de l’Académie compare Florence à une «prostituée» et suscite l&#039;indignation en Italie</title>
+                                <link>https://www.lefigaro.fr/culture/patrimoine/la-directrice-de-la-galerie-de-l-academie-compare-florence-a-une-prostituee-et-suscite-l-indignation-en-italie-20240130</link>
+                                    <description>«Une fois qu&#039;une ville se prostitue, il lui est difficile de redevenir vierge», a déclaré à la presse Cecilie Hollberg, patronne du musée qui abrite la statue de David de Michel-Ange, en marge d&#039;un événement. Des propos jugés «graves et offensants» selon le ministre de la Culture italien, Gennaro Sangiuliano.</description>
+                                <category>Patrimoine</category>
+                <pubDate>Tue, 30 Jan 2024 10:21:32 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/01/30/2c63e292a13efb9fd3779f78749085acf1a66fd57d3d1d961b161c623d1e15a8.jpg" width="3000" height="2000">
+                        <media:description type="plain">La maire adjointe de Florence, Alessia Bettini, s&#039;est opposée aux propos de Cecilie Hollberg en déclarant que si sa ville était une prostituée, «les Florentins seraient-ils les enfants d&#039;une prostituée et les touristes les clients d&#039;une prostituée ?» .</media:description>
+                        <media:credit>CARLO BRESSAN / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/etats-unis-un-homme-condamne-a-un-an-de-prison-avec-sursis-pour-le-vol-des-souliers-rouges-du-magicien-d-oz-20240129</guid>
+                <title>États-Unis : un homme condamné à un an de prison pour le vol des souliers rouges du Magicien d&#039;Oz</title>
+                                <link>https://www.lefigaro.fr/cinema/etats-unis-un-homme-condamne-a-un-an-de-prison-avec-sursis-pour-le-vol-des-souliers-rouges-du-magicien-d-oz-20240129</link>
+                                    <description>Les procureurs du Dakota du Nord estiment ces escarpins à environ 3,5 millions de dollars.</description>
+                                <category>Cinéma</category>
+                <pubDate>Mon, 29 Jan 2024 23:12:37 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1909x1500_crop/2024/01/29/c2321a188cee6e79bdabbe58248fbb20417d251bf34aa5c29403dd5e23eda30e.png" width="1909" height="1500">
+                        <media:description type="plain">Les souliers rouges, élément clef du costume de Dorothy dans le rêve imaginé par Victor Fleming en 1939.</media:description>
+                        <media:credit>Rue des Archives / BCA</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/rachida-dati-veut-mettre-la-ruralite-au-coeur-de-l-action-culturelle-20240129</guid>
+                <title>Rachida Dati veut mettre la ruralité au cœur de l’action culturelle</title>
+                                <link>https://www.lefigaro.fr/culture/rachida-dati-veut-mettre-la-ruralite-au-coeur-de-l-action-culturelle-20240129</link>
+                                    <description>En pleine crise agricole, la nouvelle ministre a présenté ses vœux aux acteurs de la Culture en insistant sur la mission qu’Emmanuel Macron lui a confiée.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 30 Jan 2024 09:38:42 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/01/29/405668c07b1ad1a4b35196241f96d3a7fcb7e41d0f2b866489307e0929ac3fc1.jpg" width="3000" height="1687">
+                        <media:description type="plain">Rachida Dati entend relever le défi de l’ouverture de la culture aux «22 millions de Français qui vivent dans les zones rurales».</media:description>
+                        <media:credit>BERTRAND GUAY / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-actu/greve-au-machu-picchu-la-fermeture-temporaire-du-site-envisagee-20240130</guid>
+                <title>Grève au Machu Picchu : la fermeture temporaire du site envisagée</title>
+                                <link>https://www.lefigaro.fr/flash-actu/greve-au-machu-picchu-la-fermeture-temporaire-du-site-envisagee-20240130</link>
+                                    <description>La situation reste bloquée après cinq jours de grève des habitants, qui dénoncent la «privatisation» de la vente des billets d&#039;entrée du site inca.</description>
+                                <category>Voyage</category>
+                <pubDate>Tue, 30 Jan 2024 09:45:34 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1272x841_crop/2024/01/30/9ab1e6b4e674e0b71edf945fea069eb476e310f11f00206b39125ad6cc2fe989.jpg" width="1272" height="841">
+                        <media:description type="plain">En temps, normal, le site accueille 4.500 touristes par jour en moyenne.</media:description>
+                        <media:credit>David Ionut</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/en-alsace-cinq-momies-egyptiennes-d-animaux-vieilles-de-2-000-a-3-000-ans-revelent-leurs-secrets-au-scanner-20240129</guid>
+                <title>En Alsace, cinq momies égyptiennes d&#039;animaux vieilles de 2.000 à 3.000 ans révèlent leurs secrets au scanner</title>
+                                <link>https://www.lefigaro.fr/culture/en-alsace-cinq-momies-egyptiennes-d-animaux-vieilles-de-2-000-a-3-000-ans-revelent-leurs-secrets-au-scanner-20240129</link>
+                                    <description>Acquis il y a environ un siècle par l&#039;université de Strasbourg, des chats, oiseau ou poissons embaumés ont été passés pour la première fois aux rayons X sous la direction d&#039;un laboratoire d&#039;archéologie. Avec pour objectif de comprendre les procédés de momification.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 29 Jan 2024 22:32:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/29/7c3420a0daf5597e2d393964c6bd498d3d7e0f5b7bd3b7adb39ea41c51a1e9bd.jpg" width="3000" height="2000">
+                        <media:description type="plain">«Ces momies n&#039;ont encore jamais été étudiées, on veut savoir s&#039;il y a bien des animaux dedans et dans quel état ils sont», expliquent les chercheurs alsaciens.</media:description>
+                        <media:credit>FREDERICK FLORIN / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/la-folle-journee-30-ans-et-incontournable-20240129</guid>
+                <title>Comment La Folle Journée de Nantes est devenue incontournable en 30 ans</title>
+                                <link>https://www.lefigaro.fr/musique/la-folle-journee-30-ans-et-incontournable-20240129</link>
+                                    <description>RÉCIT - Le célèbre festival a été lancé à Nantes en 1995. Retour sur un succès inespéré, devenu modèle d’exportation.</description>
+                                <category>Musique</category>
+                <pubDate>Tue, 30 Jan 2024 07:25:41 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/29/XVM8e233c3e-beb6-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain">Le Grand Auditorium vibre tout au long du festival au ­rythme de concerts gratuits.</media:description>
+                        <media:credit>Christophe Guary 2023</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/en-espagne-l-extreme-droite-s-insurge-contre-une-representation-du-christ-juge-effemine-et-sexualise-20240129</guid>
+                <title>Christ jugé «efféminé» et «sexualisé» : colère de l&#039;extrême droite en Espagne</title>
+                                <link>https://www.lefigaro.fr/culture/en-espagne-l-extreme-droite-s-insurge-contre-une-representation-du-christ-juge-effemine-et-sexualise-20240129</link>
+                                    <description>«Pour voir de la sexualité dans mon Christ, il faut être malade», répond l’artiste sévillan à ses détracteurs.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 30 Jan 2024 09:35:52 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2998x1686_crop/2024/01/29/32afddf817c09c846ac0bc04a859d4079993cc09f6af608e6d0c3b947b223d2b.jpg" width="2998" height="1686">
+                        <media:description type="plain">Salustiano García, dont les œuvres sont exposées dans des galeries du monde entier, a précisé avoir pris pour modèle son fils pour réaliser cette affiche.</media:description>
+                        <media:credit>CRISTINA QUICLER / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/la-joconde-aspergee-les-deux-ecologistes-devront-verser-une-contribution-20240129</guid>
+                <title>La Joconde aspergée: les deux écologistes devront verser une contribution</title>
+                                <link>https://www.lefigaro.fr/culture/la-joconde-aspergee-les-deux-ecologistes-devront-verser-une-contribution-20240129</link>
+                                    <description>Deux femmes ont lancé de la soupe sur la vitre blindée protégeant le tableau dimanche, revendiquant leur geste par «le droit à une alimentation saine et durable» et «dénonçant un »système agricole malade».</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 29 Jan 2024 17:28:28 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/01/29/771f5c5534930502ae445faf2ff056e8fa3abdbc39f2cd33d73a6bf8b7f70d58.jpg" width="2200" height="1315">
+                        <media:description type="plain">Selon le musée, les deux femmes avaient caché la soupe au potiron dans un thermos à café.</media:description>
+                        <media:credit>DAVID CANTINIAUX / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/i-love-castex-la-reponse-parodique-de-waly-dia-a-la-censure-de-son-affiche-par-la-ratp-20240129</guid>
+                <title>«I love Castex» : la réponse parodique de Waly Dia à la censure de son affiche par la RATP</title>
+                                <link>https://www.lefigaro.fr/culture/i-love-castex-la-reponse-parodique-de-waly-dia-a-la-censure-de-son-affiche-par-la-ratp-20240129</link>
+                                    <description>La régie publicitaire de la SNCF et de la RATP avait refusé la campagne de promotion du spectacle en raison de messages brocardant Emmanuel Macron et la police.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 29 Jan 2024 17:52:53 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/813x457_crop/2024/01/29/55e2092ac92197e235af6fc0eb5bf8245a9f536feb9c7b26c98c96f2ee7563e9.png" width="813" height="457">
+                        <media:description type="plain">L’humoriste Waly Dia a parodié sa propre affiche en réaction à l’interdiction d’affichage de la RATP.</media:description>
+                        <media:credit>Compte Instagram de Waly Dia</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/cinq-films-a-voir-absolument-qui-racontent-le-monde-des-agriculteurs-20240129</guid>
+                <title>Cinq films à voir absolument qui racontent le monde des agriculteurs</title>
+                                <link>https://www.lefigaro.fr/culture/cinq-films-a-voir-absolument-qui-racontent-le-monde-des-agriculteurs-20240129</link>
+                                    <description>SÉLECTION - Des Raisins de la colère, toujours aussi moderne, à Petit Paysan, notre sélection de films et documentaires pour comprendre la grandeur et la misère du monde paysan.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 29 Jan 2024 15:56:45 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/29/de4d610df080f0d31d3d2128475667ea37f6d8170d1ff07397ef261fcd800f43.jpg" width="1920" height="1080">
+                        <media:description type="plain">Claudette, héroïne de Sans adieu, Henry Fonda dans Les Raisins de la colère, Swann Arlaud dans Petit Paysan.</media:description>
+                        <media:credit>Christophe Agou/Les Enragés, Getty, Pyramide Films.</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/france-chine-la-diplomatie-culturelle-bat-son-plein-20240129</guid>
+                <title>France-Chine: la diplomatie culturelle bat son plein</title>
+                                <link>https://www.lefigaro.fr/culture/france-chine-la-diplomatie-culturelle-bat-son-plein-20240129</link>
+                                    <description>RÉCIT - La ministre de la Culture doit lancer mercredi une année d’actions culturelles impliquant les deux pays. Des manifestations dont le but est de raviver un tourisme en berne depuis le Covid.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 29 Jan 2024 17:26:24 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/29/XVMcf8f857c-beb8-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">La Cité interdite, à Pékin, va enfin pouvoir accueillir l’exposition consacrée aux échanges franco-chinois des XVIIe et XVIIIe siècles, annulée pour cause de Covid.</media:description>
+                        <media:credit>CFOTO/Sipa USA via Reuters Connect</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/une-chanson-vieille-de-20-ans-et-une-dose-de-shakespeare-assurent-le-succes-de-tout-sauf-toi-20240129</guid>
+                <title>Une chanson vieille de 20 ans et une dose de Shakespeare assurent le succès de Tout sauf toi</title>
+                                <link>https://www.lefigaro.fr/musique/une-chanson-vieille-de-20-ans-et-une-dose-de-shakespeare-assurent-le-succes-de-tout-sauf-toi-20240129</link>
+                                    <description>Unwritten de Natasha Bedingfield, bande son de la comédie romantique de Will Gluck, connait un regain de popularité avec plus de 100.000 partages sur TikTok.</description>
+                                <category>Musique</category>
+                <pubDate>Mon, 29 Jan 2024 16:53:32 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1519x854_crop/2024/01/29/c52021a3a4235af3f06b272fe95831a3a081990aaa0073143212c167076d413e.png" width="1519" height="854">
+                        <media:description type="plain">L’acteur Glen Powell et l’actrice Sydney Sweeney à l’affiche du film Tout sauf toi, sorti en France le 24 janvier.</media:description>
+                        <media:credit>Copyright 2023 CTMG</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/affaire-sylvain-tesson-pourquoi-sophie-nauleau-demissionne-du-printemps-des-poetes-20240126</guid>
+                <title>Affaire Sylvain Tesson : pourquoi Sophie Nauleau démissionne du Printemps des poètes</title>
+                                <link>https://www.lefigaro.fr/culture/affaire-sylvain-tesson-pourquoi-sophie-nauleau-demissionne-du-printemps-des-poetes-20240126</link>
+                                    <description>Derrière le choix de l’écrivain et aventurier comme parrain de la manifestation, c’est aussi et surtout la directrice artistique de celle-ci qui est la cible de cette cabale. Explications.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 26 Jan 2024 16:59:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1280x720_crop/2024/01/26/4d1d3b7b6c18df0a778d7f14a081a4af844d80a0a9dd2870951f6c30305e3571.jpg" width="1280" height="720">
+                        <media:description type="plain">Accusée de tous les maux par ses détracteurs, Sophie Nauleau a préféré démissionner de la direction artistique du Printemps des poètes.</media:description>
+                        <media:credit>Capture d&#039;écran La Grande librairie sur France 5</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/fender-gibson-schecter-la-folle-collection-de-guitares-de-mark-knopfler-sous-le-marteau-20240128</guid>
+                <title>Fender, Gibson, Schecter... La folle collection de guitares de Mark Knopfler sous le marteau</title>
+                                <link>https://www.lefigaro.fr/musique/fender-gibson-schecter-la-folle-collection-de-guitares-de-mark-knopfler-sous-le-marteau-20240128</link>
+                                    <description>Après Eric Clapton, David Gilmour et d&#039;autres, le fondateur de Dire Straits disperse 120 de ses instruments emblématiques à Londres.</description>
+                                <category>Musique</category>
+                <pubDate>Sun, 28 Jan 2024 08:00:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2370x1333_crop/2024/01/26/92c776d09528ca03d0e473e9e05af986e313f827f81be9bdf62f31b941eb5230.jpg" width="2370" height="1333">
+                        <media:description type="plain">Les guitares de la collection Mark Knopfler, fondateur du groupe Dire Straits, sont exposées à Londres en attendant le jour de leur vente, mercredi 31 janvier.</media:description>
+                        <media:credit>Christie’s</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/patrimoine/dans-les-hopitaux-les-fresques-lubriques-des-carabins-disparaissent-dans-l-indifference-20240127</guid>
+                <title>Dans les hôpitaux, les fresques obscènes des carabins disparaissent dans l&#039;indifférence</title>
+                                <link>https://www.lefigaro.fr/culture/patrimoine/dans-les-hopitaux-les-fresques-lubriques-des-carabins-disparaissent-dans-l-indifference-20240127</link>
+                                    <description>PATRIMOINE - Parfois signées Toulouse-Lautrec, Vuillard, Marie Laurencin, Cabu ou, plus souvent, par des artistes anonymes, ces peintures olé olé sont peu à peu effacées à la demande de l’État et des associations féministes.</description>
+                                <category>Patrimoine</category>
+                <pubDate>Mon, 29 Jan 2024 11:24:37 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/01/29/1a09e4102751cb09fc2a5624ed6392915d739aca70920733efafdb94caab01b4.jpg" width="3000" height="1687">
+                        <media:description type="plain">À Saint-Louis, les fresques de la salle de garde composent des entrelacs de corps nus et de sexes démesurés, jugés tantôt potaches, tantôt sexistes et obscènes.</media:description>
+                        <media:credit>Gilles Tondini</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/bd/moto-hagio-une-superstar-du-manga-enfin-celebree-en-france-20240128</guid>
+                <title>Moto Hagio, la reine du manga, enfin célébrée en France</title>
+                                <link>https://www.lefigaro.fr/bd/moto-hagio-une-superstar-du-manga-enfin-celebree-en-france-20240128</link>
+                                    <description>PORTRAIT - La dessinatrice japonaise de 74 ans est l&#039;invitée exceptionnelle du 51e Festival de la bande dessinée d&#039;Angoulême, qui lui consacre une exposition rétrospective. Longtemps ignorée par les éditeurs français, cette passionnée de culture européenne et de science-fiction américaine revient ce mois-ci en librairie.</description>
+                                <category>BD</category>
+                <pubDate>Sun, 28 Jan 2024 09:31:35 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1260x709_crop/2024/01/27/1622bad1efdc73f9b8bfed44fb1966a3d37d1a6adea8cb6d2e68baac4c67f5a8.jpg" width="1260" height="709">
+                        <media:description type="plain">Moto Hagio et l’une des 163 planches originales (extrait du Clan des Poe) de l’exposition «Au-delà des genres», jusqu&#039;au 17 mars au Musée d&#039;Angoulême.</media:description>
+                        <media:credit>Service de presse / Shogakukan</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/bd/festival-bd-d-angouleme-2024-dans-les-coulisses-de-la-selection-officielle-20240124</guid>
+                <title>Festival BD d’Angoulême 2024: dans les coulisses de la sélection officielle</title>
+                                <link>https://www.lefigaro.fr/bd/festival-bd-d-angouleme-2024-dans-les-coulisses-de-la-selection-officielle-20240124</link>
+                                    <description>L’annonce des titres en compétition officielle provoque toujours quelques remous dans le petit monde de l’art séquentiel. Découvrez le fonctionnement interne des comités chargés de cette épineuse sélection à la veille de l’ouverture, jeudi 25 janvier.</description>
+                                <category>BD</category>
+                <pubDate>Wed, 24 Jan 2024 11:25:32 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1276x718_crop/2024/01/24/b915fd006770ed1e8fe04e7a2ddcc58cde81554794f08442d95a343b99502533.jpg" width="1276" height="718">
+                        <media:description type="plain">Six sélections forment la compétition officielle du festival d’Angoulême (les cinq ci-dessus ainsi que la sélection de la BD alternative).</media:description>
+                        <media:credit>FIBD / montage Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/bd/festival-bd-d-angouleme-2024-aissa-maiga-bedephile-eclectique-20240123</guid>
+                <title>Festival BD d&#039;Angoulême 2024: Aïssa Maïga, bédéphile éclectique</title>
+                                <link>https://www.lefigaro.fr/bd/festival-bd-d-angouleme-2024-aissa-maiga-bedephile-eclectique-20240123</link>
+                                    <description>PORTRAIT - L’actrice est la présidente du grand jury jeunesse du festival qui commence jeudi 25 janvier. Bercée aux classiques de l’humour franco-belge, elle navigue désormais entre les genres et les styles avec curiosité.</description>
+                                <category>BD</category>
+                <pubDate>Wed, 24 Jan 2024 15:58:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/20/61aaddbd8e198bc36cd11a8c3a5a22d62959e0bcec93806397247bc310fc6ad4.jpg" width="1920" height="1080">
+                        <media:description type="plain">Aïssa Maïga, présidente du grand jury jeunesse d’Angoulême 2024.</media:description>
+                        <media:credit>Zweli Bukhwele /  Dupuis</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/bd/angouleme-plonge-dans-les-aventures-effrenees-de-francois-bourgeon-20240124</guid>
+                <title>Angoulême plonge dans les aventures effrénées de François Bourgeon</title>
+                                <link>https://www.lefigaro.fr/bd/angouleme-plonge-dans-les-aventures-effrenees-de-francois-bourgeon-20240124</link>
+                                    <description>Le festival de la bande dessinée est l’occasion de découvrir une exposition sur le créateur des Passagers du vent, extraordinaire raconteur d’histoires.</description>
+                                <category>BD</category>
+                <pubDate>Wed, 24 Jan 2024 07:00:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1232x693_crop/2024/01/23/d9cf3c8ddd2263538376ac11eed24a9da49ca031a580dbca3f86702c681323d4.jpg" width="1232" height="693">
+                        <media:description type="plain">Façonnée par une riche documentation et un captivant imaginaire, l&#039;œuvre de Bourgeon offre au lecteur des univers empreints d&#039;aventure, de passion, de mythes et de mystère.</media:description>
+                        <media:credit>Cité de la BD</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

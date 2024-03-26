@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_tennis.xml" rel="self" type="application/rss+xml"/>
+        <category>Tennis</category>
+        <title>Le Figaro - Tennis : Actualité des français et résultats des macthes en direct</title>
+        <description>Tennis : Retrouvez toute l&#039;actualité des français, les tournois du grand chelem et les résultats des matches avec Le Figaro</description>
+        <link>https://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Fri, 26 Jan 2024 00:23:24 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Tennis : Actualité des français et résultats des macthes en direct</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>https://www.lefigaro.fr</link>
+            <description>Tennis : Retrouvez toute l&#039;actualité des français, les tournois du grand chelem et les résultats des matches avec Le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-alexander-zverev-le-revenant-que-le-tennis-n-attendait-plus-20240125</guid>
+                <title>Open d’Australie : Alexander Zverev, le revenant que le tennis n’attendait plus</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-alexander-zverev-le-revenant-que-le-tennis-n-attendait-plus-20240125</link>
+                                    <description>Après sa victoire impressionnante face à Carlos Alcaraz mercredi, l’Allemand Alexander Zverev a décroché son billet pour le dernier carré à Melbourne, où il défiera Daniil Medvedev.</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 14:42:36 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2925x1645_crop/2024/01/25/2174c1b74244fc7db4b24ce5d0a5556a697764d528cb622f91d297750342b308.jpg" width="2925" height="1645">
+                        <media:description type="plain">Alexander Zverev a décroché son ticket pour le dernier carré en battant Carlos Alcaraz.</media:description>
+                        <media:credit>MARTIN KEEP / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-les-trois-raisons-de-croire-au-succes-de-sinner-face-a-djokovic-20240125</guid>
+                <title>Open d’Australie : les trois raisons de croire au succès de Sinner face à Djokovic</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-les-trois-raisons-de-croire-au-succes-de-sinner-face-a-djokovic-20240125</link>
+                                    <description>Vendredi, les deux hommes se livreront une bataille sans merci pour une place en finale à Melbourne. Et l’Italien a de sérieux atouts à faire valoir.</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 14:57:09 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/01/25/983ab821d91a1611fab1a55ee150536f01b272292dd27578b24793e1b9248f63.jpg" width="2850" height="1603">
+                        <media:description type="plain">Jannik Sinner va disputer sa deuxième demi-finale en Grand Chelem face à Novak Djokovic.</media:description>
+                        <media:credit>MARTIN KEEP / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/tennis-le-tennisman-youtubeur-jules-marie-tape-la-balle-avec-djokovic-et-l-interview-video-20240125</guid>
+                <title>Tennis : le tennisman youtubeur Jules Marie tape la balle avec Djokovic et l’interview (vidéo)</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/tennis-le-tennisman-youtubeur-jules-marie-tape-la-balle-avec-djokovic-et-l-interview-video-20240125</link>
+                                    <description>Le Français, 222ème à l’ATP, a croisé le numéro 1 mondial à Melbourne. Il en a profité pour échanger avec lui, sur et en dehors du court.</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 14:24:30 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/01/25/85fdf58d45bb954560b0c010e7bd26ed07e84b3f2513b087a08ce87c4ee8ed4a.jpg" width="2850" height="1603">
+                        <media:description type="plain">Novak Djokovic a tapé la balle avec Jules Marie.</media:description>
+                        <media:credit>WILLIAM WEST / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-zheng-triomphe-de-yastremska-et-affrontera-sabalenka-en-finale-20240125</guid>
+                <title>Open d&#039;Australie : Zheng Qinwen triomphe de Yastremska pour s’offrir une première finale en Grand Chelem</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-zheng-triomphe-de-yastremska-et-affrontera-sabalenka-en-finale-20240125</link>
+                                    <description>La Chinoise défiera samedi Aryna Sabalenka, grâce à sa victoire en deux sets sur Dayana Yastremska (6-4, 6-4).</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 15:42:32 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2646x1488_crop/2024/01/25/0c87aacbc0f243756473e93bde62d98d54d502b7990d4a024855c079141f38f9.jpg" width="2646" height="1488">
+                        <media:description type="plain">Zheng affrontera Sabalenka en finale.</media:description>
+                        <media:credit>TRACEY NEARMY / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-sabalenka-ecarte-fauff-et-s-offre-une-finale-a-melbourne-20240125</guid>
+                <title>Open d’Australie : Sabalenka écarte Gauff et s’offre une nouvelle finale à Melbourne</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-sabalenka-ecarte-fauff-et-s-offre-une-finale-a-melbourne-20240125</link>
+                                    <description>La numéro 2 mondiale, tenante du titre, s’est imposée face à Coco Gauff en deux sets (7-6, 6-4), et attend désormais de connaître son adversaire en finale.</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 14:24:02 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2847x1601_crop/2024/01/25/635545218ce57023448237ad6165eada917ff331bf852247c60450a6280d61ff.jpg" width="2847" height="1601">
+                        <media:description type="plain">Aryna Sabalenka disputera la finale de l’Open d’Australie samedi.</media:description>
+                        <media:credit>TRACEY NEARMY / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-quelle-sera-l-affiche-de-la-finale-20240125</guid>
+                <title>Open d&#039;Australie : quelle sera l&#039;affiche de la finale hommes ?</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-quelle-sera-l-affiche-de-la-finale-20240125</link>
+                                    <description></description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 10:43:31 +0100</pubDate>
+
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/en-direct-open-d-australie-suivez-la-demi-finale-coco-gauff-aryna-sabalenka-20240125</guid>
+                <title>Open d&#039;Australie : Zheng défiera Sabalenka pour sa première finale en Grand Chelem... revivez les demi-finales dames</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/en-direct-open-d-australie-suivez-la-demi-finale-coco-gauff-aryna-sabalenka-20240125</link>
+                                    <description>Après la qualification d’Aryna Sabalenka aux dépens de Coco Gauff, la Chinoise Qinwen Zheng (tête de série n°12) a pris le deuxième ticket pour la finale en battant l&#039;Ukrainienne Dayana Yastremska (issue des qualifications).</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 14:07:21 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/01/25/3c57e5d104da8e87b59afd5740fe7bd05599f9b645c1cb726c2eaca0fd9d99d4.jpg" width="2850" height="1603">
+                        <media:description type="plain">Qinwen Zheng</media:description>
+                        <media:credit>LILLIAN SUWANRUMPHA / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-ksenia-efremova-eliminee-20240125</guid>
+                <title>Open d&#039;Australie : Ksenia Efremova éliminée</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-ksenia-efremova-eliminee-20240125</link>
+                                    <description>La jeune Française a été éliminée en quarts de finale du tournoi juniors.</description>
+                                <category>Open Australie</category>
+                <pubDate>Thu, 25 Jan 2024 07:42:42 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/fe1a0cbbe1175b91c63a1960ee7f447731f58245b9a3ee7356704e4070a1b01c.jpg" width="3000" height="2000">
+                        <media:description type="plain">ksenia Efremova.</media:description>
+                        <media:credit>cc / Panoramic / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-zverev-se-debarrasse-d-alcaraz-et-retrouvera-medvedev-en-demi-finale-20240124</guid>
+                <title>Open d’Australie : Zverev se débarrasse d’Alcaraz et retrouvera Medvedev en demi-finale</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-zverev-se-debarrasse-d-alcaraz-et-retrouvera-medvedev-en-demi-finale-20240124</link>
+                                    <description>Alexander Zverev est parvenu à se défaire de Carlos Alcaraz en quatre sets (6-1, 6-3, 6-7[2], 6-4). Il défiera Daniil Medvedev pour une place en finale.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 15:47:58 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/01/24/0dc4d55ebe1bfdcfa508e8dd60d180abcd8970a8f81ca1373616ceadf9dbe847.jpg" width="3000" height="1687">
+                        <media:description type="plain">Zverev a dominé Alcaraz en quatre sets en quart de finale à Melbourne.</media:description>
+                        <media:credit>MARTIN KEEP / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/naturalisation-mouratoglou-sponsors-5-choses-a-savoir-sur-la-phenomene-ksenia-efremova-nouvelle-pepite-bleue-20240124</guid>
+                <title>Naturalisation, Mouratoglou, sponsors… 5 choses à savoir sur le phénomène Ksenia Efremova, nouvelle pépite bleue</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/naturalisation-mouratoglou-sponsors-5-choses-a-savoir-sur-la-phenomene-ksenia-efremova-nouvelle-pepite-bleue-20240124</link>
+                                    <description>À 14 ans, la probable future sensation du tennis français, brille déjà dans le tournoi junior de l&#039;Open d&#039;Australie où elle est invitée.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 15:04:11 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/24/c1787b43c0a0a4dfaa6b9e2a912bdc7a0cb202fda1ae7652d3cc5520e3ab06b5.jpg" width="3000" height="2000">
+                        <media:description type="plain">Ksenia Efremova, qualifiée pour les quarts de finale.</media:description>
+                        <media:credit>Virginie Bouyer / Virginie Bouyer / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-dayana-yastremska-l-ukrainienne-exilee-en-france-et-qualifiee-pour-les-demi-finales-a-melbourne-20240124</guid>
+                <title>Open d&#039;Australie: Dayana Yastremska, l’Ukrainienne exilée en France et qualifiée pour les demi-finales à Melbourne</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-dayana-yastremska-l-ukrainienne-exilee-en-france-et-qualifiee-pour-les-demi-finales-a-melbourne-20240124</link>
+                                    <description>Devenue la cinquième joueuse issue des qualifications à s&#039;inviter dans le dernier carré en Grand Chelem dans l&#039;ère Open en Australie mercredi, l&#039;Ukrainienne Dayana Yastremska a fait de la France sa terre d&#039;adoption, sans oublier pour autant le sombre sort de sa nation en guerre.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 13:29:39 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2105x1184_crop/2024/01/24/cb55f7eff089d074cd2673bf1a9ef8fba023b0d76f8fa3c9b14ad3afe4084d9b.jpg" width="2105" height="1184">
+                        <media:description type="plain">Dayana Yastremska après sa victoire contre Linda Noskova (6-3, 6-4) en quart de finale à Melbourne.</media:description>
+                        <media:credit>ELOISA LOPEZ / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-la-chinoise-zheng-qinwen-maitrise-anna-kalinskaya-et-se-qualifie-pour-sa-premiere-demi-finale-en-grand-chelem-20240124</guid>
+                <title>Open d&#039;Australie: la Chinoise Zheng Qinwen maîtrise Anna Kalinskaya et se qualifie pour sa première demi-finale en Grand Chelem</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-la-chinoise-zheng-qinwen-maitrise-anna-kalinskaya-et-se-qualifie-pour-sa-premiere-demi-finale-en-grand-chelem-20240124</link>
+                                    <description>La Chinoise Zheng Qinwen s&#039;est qualifiée pour la première demi-finale de sa carrière en Grand Chelem, en dominant la Russe Anna Kalinskaya en trois sets 6-7 (4/7), 6-3, 6-1 à l&#039;Open d&#039;Australie mercredi.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 12:06:13 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/01/24/5cdc3e2c91e5f6cfd09c53e7b492a3039411dfaf7bc316e9869abfe4382c4415.jpg" width="3000" height="2001">
+                        <media:description type="plain">Qinwen Zheng</media:description>
+                        <media:credit>MARTIN KEEP / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-l-australien-lleyon-hewitt-ancien-numero-un-mondial-devoile-sa-statue-video-20240124</guid>
+                <title>Open d’Australie : l’Australien Lleyton Hewitt, ancien numéro un mondial, dévoile sa statue (vidéo)</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-l-australien-lleyon-hewitt-ancien-numero-un-mondial-devoile-sa-statue-video-20240124</link>
+                                    <description>L’ancien numéro un mondial australien et vainqueur de deux tournois du Grand Chelem a dévoilé sa statue devant la foule de Melbourne.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 12:02:53 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/01/24/dbb83dbc703a28e3af25b77356dde0ec48124c2e6fb4bc90e9e175a2a64c9a26.jpg" width="2850" height="1603">
+                        <media:description type="plain">Lleyton Hewitt pose avec...Lleyton Hewitt.</media:description>
+                        <media:credit>MARTIN KEEP / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/en-direct-open-d-australie-suivez-le-cinquieme-set-entre-medvedev-et-hurkacz-20240124</guid>
+                <title>Open d’Australie : Zverev fait tomber Alcaraz, Medvedev bousculé mais qualifié... Revivez la journée à Melbourne</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/en-direct-open-d-australie-suivez-le-cinquieme-set-entre-medvedev-et-hurkacz-20240124</link>
+                                    <description>Alexander Zverev s’est défait de l’Espagnol en quatre manches (6-1, 6-3, 6-7, 6-4) pour rejoindre Daniil Medvedev dans le dernier carré.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 15:49:56 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/24/7f97f23eba05767ef58f4eab9ef9d6d3b5dc85d45a836414980c43b6d980ad2b.jpg" width="1920" height="1080">
+                        <media:description type="plain">Daniil Medvedev et Alexander Zverev.</media:description>
+                        <media:credit>Panoramic / Panoramic / cc / Icon SMI / Panoramic / Jason Heidrich/Icon Sportswire</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-medvedev-domine-hurkacz-en-cinq-sets-et-retrouve-le-dernier-carre-a-melbourne-20240124</guid>
+                <title>Open d’Australie : Medvedev domine Hurkacz en cinq sets et retrouve le dernier carré à Melbourne</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-medvedev-domine-hurkacz-en-cinq-sets-et-retrouve-le-dernier-carre-a-melbourne-20240124</link>
+                                    <description>Le Russe a dominé le Polonais (7-6, 2-6, 6-3, 5-7, 6-4) pour atteindre sa troisième demi-finale à Melbourne. Il affrontera le vainqueur de la rencontre qui opposera Carlos Alcaraz à Alexander Zverev.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 09:52:45 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1451x1097_crop/2024/01/24/0a643c1a6d20a651f9527fb4d831dc0617e24af53a8832386645b7a5a7987e5d.jpg" width="1451" height="1097">
+                        <media:description type="plain">Daniil Medvedev</media:description>
+                        <media:credit>EDGAR SU / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-la-sensation-yastremska-qualifiee-dans-le-dernier-carre-ce-qu-il-faut-retenir-de-la-nuit-a-melbourne-20240124</guid>
+                <title>Open d’Australie : la sensation Yastremska, qualifiée dans le dernier carré... ce qu’il faut retenir de la nuit à Melbourne</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-la-sensation-yastremska-qualifiee-dans-le-dernier-carre-ce-qu-il-faut-retenir-de-la-nuit-a-melbourne-20240124</link>
+                                    <description>Issue des qualifications, l’Ukrainienne Dayana Yastremska disputera jeudi les demi-finales.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 10:29:26 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2155_crop/2024/01/24/53db0cdd96dd95ca677d3a36258e1d4cf52ac8e6a08cf66a327a993d8598a8c5.jpg" width="3000" height="2155">
+                        <media:description type="plain">Dayana Yastremska</media:description>
+                        <media:credit>TRACEY NEARMY / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-l-ukrainienne-dayana-yastremska-issue-des-qualifications-atteint-le-dernier-carre-20240124</guid>
+                <title>Open d&#039;Australie: l&#039;Ukrainienne Dayana Yastremska, issue des qualifications, atteint le dernier carré</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-l-ukrainienne-dayana-yastremska-issue-des-qualifications-atteint-le-dernier-carre-20240124</link>
+                                    <description>L&#039;Ukrainienne, 93e joueuse mondiale et issue des qualifications, s&#039;est qualifiée pour sa première demi-finale majeure en dominant la Tchèque Linda Noskova 6-3, 6-4 mercredi.</description>
+                                <category>Open Australie</category>
+                <pubDate>Wed, 24 Jan 2024 06:31:09 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1775x1229_crop/2024/01/24/a9b5bd00550ea879c20835d210e931c79455992703db693dc110e299e761efa3.jpg" width="1775" height="1229">
+                        <media:description type="plain">Le rêve se poursuit pour Dayana Yastremska</media:description>
+                        <media:credit>TRACEY NEARMY / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/mannarino-le-magicien-bilan-des-francais-en-australie-etat-de-la-fft-les-confidences-de-gilles-moretton-20240123</guid>
+                <title>Mannarino le «magicien», bilan des Français en Australie, état de la FFT... Les confidences de Gilles Moretton</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/mannarino-le-magicien-bilan-des-francais-en-australie-etat-de-la-fft-les-confidences-de-gilles-moretton-20240123</link>
+                                    <description>ENTRETIEN - De retour de Melbourne et présent au tournoi des Petits As de Tarbes (Hautes-Pyrénées), le président de la Fédération française de tennis s&#039;est confié au Figaro sur l&#039;état du tennis français, alors qu&#039;un rapport parlementaire publié ce mardi fustige les fédérations sportives.</description>
+                                <category>Tennis</category>
+                <pubDate>Tue, 23 Jan 2024 20:22:20 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/01/23/67d2996ab0e870ddea74bfc0bcbe210cf11b8e0b72b4b8012bb71fffb0368008.jpg" width="2850" height="1603">
+                        <media:description type="plain">Gilles Moretton juge «encourageant» le bilan des Français à Melbourne.</media:description>
+                        <media:credit>Jonathan Rebboah / Jonathan Rebboah / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/les-marges-de-la-marque-de-chaussures-de-sport-de-federer-font-des-remous-en-suisse-20240123</guid>
+                <title>Les marges de la marque de chaussures de sport de Federer font des remous en Suisse</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/les-marges-de-la-marque-de-chaussures-de-sport-de-federer-font-des-remous-en-suisse-20240123</link>
+                                    <description>Un magazine de consommateurs suisse a révélé un écart conséquent entre le prix d’achat des baskets au Vietnam et les prix de vente en Suisse.</description>
+                                <category>Tennis</category>
+                <pubDate>Wed, 24 Jan 2024 11:05:42 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2953x1969_crop/2024/01/23/efeb99e0c6752a4ff1d3a87c1517ba963573848c07b664a6765d3069c191797c.jpg" width="2953" height="1969">
+                        <media:description type="plain">Federer.</media:description>
+                        <media:credit>Michael Baucher / Michael Baucher / Panoramic</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-face-a-zverev-alcaraz-s-offre-un-premier-gros-test-20240123</guid>
+                <title>Open d&#039;Australie : face à Zverev Alcaraz s&#039;offre un premier gros test</title>
+                                <link>https://www.lefigaro.fr/sports/tennis/open-australie/open-d-australie-face-a-zverev-alcaraz-s-offre-un-premier-gros-test-20240123</link>
+                                    <description>Après Roland-Garros 2022 et l’US Open 2023, l’Espagnol retrouve l’Allemand pour la troisième fois au stade des quarts d’un tournoi du Grand Chelem.</description>
+                                <category>Open Australie</category>
+                <pubDate>Tue, 23 Jan 2024 18:10:54 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/23/e6ddebb6ae98b7b546b96ad3022441a2cc65c65ecb0403426c3cbf8e5715071e.jpg" width="1920" height="1080">
+                        <media:description type="plain">Alcaraz affronte Zverev ce mercredi</media:description>
+                        <media:credit>Virginie Bouyer / Panoramic / Virginie Bouyer / Zuma / Panoramic / Ciro De Luca</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

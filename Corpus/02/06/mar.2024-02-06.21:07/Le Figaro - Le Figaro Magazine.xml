@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_lefigaromagazine.xml" rel="self" type="application/rss+xml"/>
+        <category>Le Figaro Magazine</category>
+        <title>Le Figaro - Magazine : Actualité du journal</title>
+        <description>Le Figaro Magazine : Retrouvez toute l&#039;actualité</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Tue, 06 Feb 2024 21:06:38 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Magazine : Actualité du journal</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Le Figaro Magazine : Retrouvez toute l&#039;actualité</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/la-lecon-de-vie-des-moines-le-grand-periple-de-romain-sardou-dans-les-monasteres-d-occident-20240202</guid>
+                <title>La leçon de vie des moines : le grand périple de Romain Sardou dans les monastères d&#039;Occident</title>
+                                <link>https://www.lefigaro.fr/culture/la-lecon-de-vie-des-moines-le-grand-periple-de-romain-sardou-dans-les-monasteres-d-occident-20240202</link>
+                                    <description>ENTRETIEN - Depuis son premier roman paru en 2002, l&#039;écrivain est fasciné par le monachisme chrétien. Cet hiver, il a décidé de partir pour un périple d&#039;un an sur les routes des monastères afin de raconter pour Le Figaro Magazine l&#039;épopée des moines d&#039;Occident entre le IVe et le XVIe siècle.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 02 Feb 2024 10:22:36 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/31/1e3cf75bce7b2049ae8b53a6accec80e4e79c0ef9887e15b23e68972d83cee0a.jpg" width="1920" height="1080">
+                        <media:description type="plain">L&#039;écrivain Romain Sardou dans le cloître de l&#039;abbaye Saint-Martin de Ligugé, fondée en l&#039;an 361.</media:description>
+                        <media:credit>Emanuele Scorcelletti</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/les-valseuses-deprogrammees-bertrand-blier-future-victime-du-wokisme-20240203</guid>
+                <title>Les Valseuses déprogrammées: Bertrand Blier future victime du wokisme?</title>
+                                <link>https://www.lefigaro.fr/cinema/les-valseuses-deprogrammees-bertrand-blier-future-victime-du-wokisme-20240203</link>
+                                    <description>La déprogrammation de ce film culte des années 1970 sur Paris Première augure des temps sinistres pour les chefs-d’œuvre du réalisateur.</description>
+                                <category>Cinéma</category>
+                <pubDate>Mon, 05 Feb 2024 14:41:47 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/03/XVM869d938e-c108-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Gérard Depardieu, Miou-Miou et Patrick Dewaere dans 
+Les Valseuses, de Bertrand Blier.</media:description>
+                        <media:credit>Bridgeman Images</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lefigaromagazine/suv-a-paris-l-heure-de-verite-pour-le-nouveau-chat-noir-des-villes-20240201</guid>
+                <title>SUV à Paris : l’heure de vérité pour le nouveau chat noir des villes ?</title>
+                                <link>https://www.lefigaro.fr/lefigaromagazine/suv-a-paris-l-heure-de-verite-pour-le-nouveau-chat-noir-des-villes-20240201</link>
+                                    <description>INFOGRAPHIE - Ce dimanche 4 février, les Parisiens sont appelés à se prononcer pour ou contre le triplement du tarif de stationnement dans les rues de la capitale pour les SUV. Mais de quoi parle-t-on exactement ?</description>
+                                <category>Le Figaro Magazine</category>
+                <pubDate>Sun, 04 Feb 2024 17:01:13 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/02/04/7625450779045fa238f31c4630947d8bccfc3bbc8b8e1227d2daf3a27798a4da.jpg" width="3000" height="2000">
+                        <media:description type="plain">« Plus ou moins de SUV à Paris ? » C&#039;est la question posée aux Parisiens lors d&#039;un vote ce dimanche 4 février.</media:description>
+                        <media:credit>Riccardo Milani / Riccardo Milani / Hans Lucas via</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/politique/l-editorial-du-figaro-magazine-les-maitres-censeurs-20240202</guid>
+                <title>L’éditorial du Figaro Magazine: «Les maîtres censeurs»</title>
+                                <link>https://www.lefigaro.fr/vox/politique/l-editorial-du-figaro-magazine-les-maitres-censeurs-20240202</link>
+                                    <description>En censurant, la semaine dernière, l’essentiel de la loi immigration, le Conseil constitutionnel aggrave, qu’il le veuille ou non, la défiance d’une large partie du peuple français à l’égard de ses élites.</description>
+                                <category>Vox Politique</category>
+                <pubDate>Fri, 02 Feb 2024 07:00:29 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM928210ea-c0e4-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain">Guillaume Roquette, directeur de la rédaction du Figaro Magazine.</media:description>
+                        <media:credit>LE FIGARO</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lefigaromagazine/a-paris-et-en-region-parisienne-les-nouvelles-methodes-des-cambrioleurs-de-vip-20240131</guid>
+                <title>À Paris et en région parisienne, les nouvelles méthodes des cambrioleurs de VIP</title>
+                                <link>https://www.lefigaro.fr/lefigaromagazine/a-paris-et-en-region-parisienne-les-nouvelles-methodes-des-cambrioleurs-de-vip-20240131</link>
+                                    <description>DÉCRYPTAGE - Le nombre de cambriolages visant des célébrités est en hausse constante. Les auteurs appartiennent à des réseaux particulièrement bien renseignés, qui s&#039;en prennent parfois aussi à des cibles ordinaires.</description>
+                                <category>Le Figaro Magazine</category>
+                <pubDate>Wed, 31 Jan 2024 17:54:03 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2024/01/30/8b20f8a99474162e463629944949316ee39e76889b98787ef879a2a6b2060523.jpg" width="1920" height="1080">
+                        <media:description type="plain">«En général, l&#039;action a lieu en pleine nuit ou au petit matin et dure en général moins d&#039;une heure», indique un spécialiste de la sécurité privée.</media:description>
+                        <media:credit>Urman Lionel/ABACA - Reynaud Julien/APS-Medias/ABACA - Montage Charlotte Paroielle</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/actualite-france/nous-ne-lacherons-pas-meme-s-il-faut-aller-jusqu-a-bruxelles-rencontre-avec-les-paysans-a-bout-de-nerfs-20240202</guid>
+                <title>«Nous ne lâcherons pas, même s’il faut aller jusqu’à Bruxelles»: rencontre avec les paysans à bout de nerfs</title>
+                                <link>https://www.lefigaro.fr/actualite-france/nous-ne-lacherons-pas-meme-s-il-faut-aller-jusqu-a-bruxelles-rencontre-avec-les-paysans-a-bout-de-nerfs-20240202</link>
+                                    <description>REPORTAGE - Expression d’une colère accumulée face à la multiplication des réglementations et à un manque de considération de la grande distribution, les exploitants ont bloqué les routes françaises. Nous les avons rencontrés.</description>
+                                <category>Société</category>
+                <pubDate>Fri, 02 Feb 2024 11:24:52 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVMb89c5880-c044-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Jérémie Pellé, leader JA et éleveur laitier, Thomas Delourne, éleveur de chèvres, Noël Prunier, producteur de viande bovine, Florent Gillet, éleveur depuis le 1er janvier.</media:description>
+                        <media:credit>olivier coret/ divergence / olivier coret</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/norvege-la-course-aux-metaux-sous-marins-20240203</guid>
+                <title>Norvège: la course aux métaux sous-marins</title>
+                                <link>https://www.lefigaro.fr/international/norvege-la-course-aux-metaux-sous-marins-20240203</link>
+                                    <description>REPORTAGE - Le royaume scandinave vient d&#039;autoriser la prospection minière des fonds marins. Riches en terres rares, en cobalt, cuivre et lithium, ils aiguisent l&#039;appétit des industriels qui développent des machines capables de collecter ces minerais à 3000 mètres de profondeur.</description>
+                                <category>International</category>
+                <pubDate>Sun, 04 Feb 2024 13:03:06 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2992x1683_crop/2024/01/31/b0a731ffb110b4d86ab843bdd5460d1a0514f386a5ea456309b84870a45782dd.jpg" width="2992" height="1683">
+                        <media:description type="plain">En mer de Norvège, ces machines réalisent des tests de carottages à 4 000 m de profondeur.</media:description>
+                        <media:credit>Guillaume Collanges / Guillaume Collanges</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/conflit-israel-hamas-quand-les-juges-sont-tentes-de-se-substituer-au-pouvoir-politique-20240202</guid>
+                <title>Conflit Israël-Hamas: quand les juges sont tentés de se substituer au pouvoir politique</title>
+                                <link>https://www.lefigaro.fr/international/conflit-israel-hamas-quand-les-juges-sont-tentes-de-se-substituer-au-pouvoir-politique-20240202</link>
+                                    <description>CHRONIQUE - La Cour internationale de justice a rendu, le 26 janvier, son ordonnance dans une quasi-unanimité. Seuls deux juges sur 14 ont exprimé des voix divergentes.</description>
+                                <category>International</category>
+                <pubDate>Fri, 02 Feb 2024 16:32:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM0b1c5114-beba-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Les juges de la Cour internationale de justice de La Haye, le 26 janvier.</media:description>
+                        <media:credit>Piroschka Van De Wouw/REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/ilham-aliev-un-dictateur-qui-ne-dit-pas-son-nom-20240202</guid>
+                <title>Ilham Aliev, un dictateur qui ne dit pas son nom</title>
+                                <link>https://www.lefigaro.fr/international/ilham-aliev-un-dictateur-qui-ne-dit-pas-son-nom-20240202</link>
+                                    <description>PORTRAIT - Au pouvoir déjà depuis 2004, le président azerbaïdjanais s’apprête à être réélu pour sept ans à la tête d’un pays qu’il tient d’une poigne de fer. Soutenu par la Russie et la Turquie, il n’a pas abandonné ses rêves expansionnistes contre l’Arménie voisine.</description>
+                                <category>International</category>
+                <pubDate>Fri, 02 Feb 2024 10:43:16 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM6f8909b2-be8d-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Ilham Aliev.</media:description>
+                        <media:credit>Mikhail Metzel/SPUTNIK/SIPA</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/politique/jordan-bardella-marc-ferracci-les-indiscretions-du-figaro-magazine-20240202</guid>
+                <title>Jordan Bardella, Marc Ferracci... Les indiscrétions du Figaro Magazine</title>
+                                <link>https://www.lefigaro.fr/politique/jordan-bardella-marc-ferracci-les-indiscretions-du-figaro-magazine-20240202</link>
+                                    <description>CHRONIQUE - Petites phrases et coulisses de la semaine politique, par Carl Meeus.</description>
+                                <category>Politique</category>
+                <pubDate>Fri, 02 Feb 2024 08:00:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM6de012ea-c0ea-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Jordan Bardella.</media:description>
+                        <media:credit>JOEL SAGET/AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/decouvrez-dialogue-avec-un-ami-la-nouvelle-de-thomas-morales-qui-imagine-une-discussion-entre-belmondo-et-delon-20240203</guid>
+                <title>Découvrez Dialogue avec un ami, la nouvelle de Thomas Morales, qui imagine une discussion entre Belmondo et Delon</title>
+                                <link>https://www.lefigaro.fr/livres/decouvrez-dialogue-avec-un-ami-la-nouvelle-de-thomas-morales-qui-imagine-une-discussion-entre-belmondo-et-delon-20240203</link>
+                                    <description>EXCLUSIF - Chaque semaine, Le Figaro Magazine publie une nouvelle inédite d’un écrivain. Cette semaine, c’est au tour de Thomas Morales*.</description>
+                                <category>Livres</category>
+                <pubDate>Sat, 03 Feb 2024 12:00:10 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/03/XVMca408f6a-c02c-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Thomas Morales.</media:description>
+                        <media:credit>Claude Godfryd</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/ces-facteurs-de-clavecins-francais-que-le-monde-nous-envie-20240203</guid>
+                <title>Ces facteurs de clavecins français que le monde nous envie</title>
+                                <link>https://www.lefigaro.fr/musique/ces-facteurs-de-clavecins-francais-que-le-monde-nous-envie-20240203</link>
+                                    <description>REPORTAGE - Après son heure de gloire sous l’Ancien Régime, l’instrument a été éclipsé par le piano avant de ressurgir à la fin du XXe siècle. Les ateliers de facteurs français continuent à en fabriquer ou à en restaurer dans les règles de l’art.</description>
+                                <category>Musique</category>
+                <pubDate>Sat, 03 Feb 2024 12:00:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/03/XVMbafc23e8-bb77-11ee-824c-fc2fe9000598.jpg" width="630" height="354">
+                        <media:description type="plain">Portrait de Marc Ducornet dans son atelier.</media:description>
+                        <media:credit>Eric Garault pour le Figaro magazine</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/voyages/inspiration/en-irlande-un-hiver-aux-iles-d-aran-20240203</guid>
+                <title>En Irlande, voyage d&#039;hiver aux îles d&#039;Aran, à l&#039;écart du monde</title>
+                                <link>https://www.lefigaro.fr/voyages/inspiration/en-irlande-un-hiver-aux-iles-d-aran-20240203</link>
+                                    <description>GRAND REPORTAGE - L&#039;hiver, entre deux coups de tabac soufflés depuis l&#039;autre côté de l&#039;Atlantique, l&#039;archipel d&#039;Aran cultive sa celtitude loin des foules estivales. En février 1985, l&#039;écrivain Nicolas Bouvier est venu s&#039;immerger dans ces îles plongées sous narcose. Son fantôme hante encore les brumes du dernier refuge de la mythologie irlandaise.</description>
+                                <category>Inspiration</category>
+                <pubDate>Fri, 02 Feb 2024 06:30:00 +0100</pubDate>
+
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/chloe-morin-le-wokisme-est-un-heritier-du-trotskisme-20240201</guid>
+                <title>Chloé Morin: «Le wokisme est un héritier du trotskisme»</title>
+                                <link>https://www.lefigaro.fr/vox/chloe-morin-le-wokisme-est-un-heritier-du-trotskisme-20240201</link>
+                                    <description>EXTRAITS EXCLUSIFS - Dans son dernier ouvrage, Quand il aura vingt ans (Fayard), la politologue montre, sondage à l’appui, que la pensée woke, loin d’être marginale, est en train de gagner du terrain en France. Grâce, notamment, à la complaisance d’une partie de la gauche.</description>
+                                <category>Vox</category>
+                <pubDate>Thu, 01 Feb 2024 17:36:48 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/01/XVM033f0668-baa4-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Chloé Morin.</media:description>
+                        <media:credit>Serge Picard pour le Figaro Magazine</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/assurance/assurance-emprunteur-renegociez-pour-realiser-de-vraies-economies-20240202</guid>
+                <title>Assurance-emprunteur: renégociez pour réaliser de vraies économies</title>
+                                <link>https://www.lefigaro.fr/assurance/assurance-emprunteur-renegociez-pour-realiser-de-vraies-economies-20240202</link>
+                                    <description>NOS CONSEILS - Depuis la loi Lemoine, il est possible de résilier son contrat d’assurance à tout moment pour en souscrire un moins cher. Les astuces des courtiers.</description>
+                                <category>Assurance</category>
+                <pubDate>Fri, 02 Feb 2024 07:00:34 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM30a4f68e-be92-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain">Le nombre de résiliations a augmenté de façon spectaculaire passant de 100.000 à 180.000 entre 2021 et le premier ­semestre 2023, selon le CCSF.</media:description>
+                        <media:credit>STOCK ADOBE</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/histoire/livres/pecheur-de-perles-de-alain-finkielkraut-le-gout-des-autres-20240202</guid>
+                <title>Pêcheur de perles, de Alain Finkielkraut: le goût des autres</title>
+                                <link>https://www.lefigaro.fr/histoire/livres/pecheur-de-perles-de-alain-finkielkraut-le-gout-des-autres-20240202</link>
+                                    <description>CRITIQUE - Dans son dernier livre, Alain Finkielkraut s&#039;inspire de citations de grands auteurs pour réfléchir sur l&#039;amour, la mort, le progrès. Profond et délicat.</description>
+                                <category>Histoire Livres</category>
+                <pubDate>Fri, 02 Feb 2024 07:00:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1299x731_crop/2024/01/29/e92e557e1f8c3015b952a4285c2489273024867171ca38441bebd1c5790216d8.jpg" width="1299" height="731">
+                        <media:description type="plain">Alain Finkielkraut.</media:description>
+                        <media:credit>olivier coret / olivier coret/ divergence</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/mode-homme/maille-a-partir-avec-les-frimas-20240202</guid>
+                <title>Maille à partir avec les frimas</title>
+                                <link>https://www.lefigaro.fr/mode-homme/maille-a-partir-avec-les-frimas-20240202</link>
+                                    <description>Colorés, artistiques, éthiques, les tissages de laine ou de cachemire créatifs sont dans l’air du temps.</description>
+                                <category>Mode Homme</category>
+                <pubDate>Fri, 02 Feb 2024 07:00:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM117d1582-b88b-11ee-a556-e12b0fbe7570.jpg" width="630" height="354">
+                        <media:description type="plain">Campbell’s of Beauly.</media:description>
+                        <media:credit>SDP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/gastronomie/le-faham-une-cuisine-creative-loin-des-cliches-20240202</guid>
+                <title>Le Faham, une cuisine créative, loin des clichés</title>
+                                <link>https://www.lefigaro.fr/gastronomie/le-faham-une-cuisine-creative-loin-des-cliches-20240202</link>
+                                    <description>Kelly Rangama s’est créé un style culinaire dont la boussole pointe vers La Réunion.</description>
+                                <category>Gastronomie</category>
+                <pubDate>Fri, 02 Feb 2024 07:00:20 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVM9053e9d0-ba02-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">La chef privilégie le raffinement d’associations.</media:description>
+                        <media:credit>julie Limont</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/horlogerie/au-coeur-de-l-espace-temps-20240202</guid>
+                <title>Omega, Awake, Swatch... L’horlogerie au cœur de l’espace-temps</title>
+                                <link>https://www.lefigaro.fr/horlogerie/au-coeur-de-l-espace-temps-20240202</link>
+                                    <description>L’espace ne cesse de fasciner les créateurs horlogers. Chronographes d’astronautes ou montres vaisseaux spatiaux, les garde-temps voyagent vers le futur.</description>
+                                <category>Horlogerie</category>
+                <pubDate>Mon, 05 Feb 2024 10:09:46 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/02/XVMd0b55828-b936-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain">Omega</media:description>
+                        <media:credit>sdp</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/actualite-france/education-les-10-raisons-pour-lesquelles-les-parents-preferent-le-prive-20240126</guid>
+                <title>Éducation: les 10 raisons pour lesquelles les parents préfèrent le privé</title>
+                                <link>https://www.lefigaro.fr/actualite-france/education-les-10-raisons-pour-lesquelles-les-parents-preferent-le-prive-20240126</link>
+                                    <description>Excellence académique, éducation, respect des autres, épanouissement personnel, voire spirituel… Les établissements scolaires privés, dits libres, cultivent leur différence, offrant une alternative aussi originale qu&#039;indispensable à l&#039;enseignement public.</description>
+                                <category>Société</category>
+                <pubDate>Fri, 26 Jan 2024 09:34:31 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/01/24/5d15a333212667876a0541ac45dfe701eeacfab07d61fef119d2e1a6f6b58e1d.jpg" width="3000" height="1687">
+                        <media:description type="plain">Les demandes d&#039;inscription dans les établissements d&#039;enseignement privé ne cessent de progresser, contraignant les familles à patienter de longs mois sur liste d&#039;attente.</media:description>
+                        <media:credit>Getty Images</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_sciences.xml" rel="self" type="application/rss+xml"/>
+        <category>Sciences &amp; Environnement</category>
+        <title>Le Figaro - Sciences &amp; Environnement : actualité scientifique, écologie</title>
+        <description>Sciences &amp; Environnement : retrouvez toute l&#039;actualité des sciences, de l&#039;astronomie, de l&#039;écologie, de la zoologie, des sciences humaines sur Le Figaro Actualité, actualités, Sciences, astronomie, actualité scientifique, sciences humaines, écologie, planète, zoologie, faune et flore</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Sun, 11 Feb 2024 22:45:32 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Sciences &amp; Environnement : actualité scientifique, écologie</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Sciences &amp; Environnement : retrouvez toute l&#039;actualité des sciences, de l&#039;astronomie, de l&#039;écologie, de la zoologie, des sciences humaines sur Le Figaro Actualité, actualités, Sciences, astronomie, actualité scientifique, sciences humaines, écologie, planète, zoologie, faune et flore</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/herault-un-gisement-de-fossiles-exceptionnel-decouvert-20240210</guid>
+                <title>Hérault : un gisement de fossiles exceptionnel découvert</title>
+                                <link>https://www.lefigaro.fr/sciences/herault-un-gisement-de-fossiles-exceptionnel-decouvert-20240210</link>
+                                    <description>Le site de Cabrières, à l’ouest de Montpellier, concentre plus de 400 fossiles datant de 470 millions d&#039;années. Il est l’un des gisements «les plus riches et diversifiés du monde».</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Sat, 10 Feb 2024 14:36:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1200x575_crop/2024/02/10/d0e6716e566ab8a4abd4fc1c58eb962742d9c48db711f09d67b2359b0cb6aab6.jpg" width="1200" height="575">
+                        <media:description type="plain">Reconstruction artistique de la faune et de la flore de Cabrières.</media:description>
+                        <media:credit>Christian McGall, extrait de la publication Saleh F. et al. Nat Ecol Evol 2024 (open access CC-BY 4.0)</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/la-cite-des-sciences-nous-invite-a-explorer-l-espace-20240209</guid>
+                <title>La Cité des sciences nous invite à explorer l’espace</title>
+                                <link>https://www.lefigaro.fr/sciences/la-cite-des-sciences-nous-invite-a-explorer-l-espace-20240209</link>
+                                    <description>Une nouvelle exposition permanente du centre parisien est consacrée aux missions habitées et automatiques dans le Système solaire.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Fri, 09 Feb 2024 19:48:58 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/02/09/9bb5065da41be3311af4adacc1a49e0590b62f08651472b3da0a88bb5f201f45.jpg" width="3000" height="2000">
+                        <media:description type="plain">L’exposition Mission Spatiale à la Cité des Sciences propose un voyage virtuel vers Europe, l’une des lunes glacées de la planète Jupiter.</media:description>
+                        <media:credit>Paul Delort / Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/les-superpouvoirs-du-tardigrade-ourson-d-eau-microscopique-20240209</guid>
+                <title>Les superpouvoirs du tardigrade, ourson d’eau microscopique</title>
+                                <link>https://www.lefigaro.fr/sciences/les-superpouvoirs-du-tardigrade-ourson-d-eau-microscopique-20240209</link>
+                                    <description>DÉCRYPTAGE - Un laboratoire de Montpellier étudie les mécanismes biologiques qui rendent ces créatures si résistantes aux agressions extérieures.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Fri, 09 Feb 2024 18:57:18 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2119x3000_crop/2024/02/09/c6ee18367d70440a66e8a563a12591584a114099678aa7a15afe132813ae093b.jpg" width="2119" height="3000">
+                        <media:description type="plain">Apparus il y a près de 500 millions d&#039;années, les tardigrades ont colonisé la terre entière, des glaciers les plus hostiles aux ouvertures volcaniques des fonds marins.</media:description>
+                        <media:credit>SPL / sciencephoto.fr</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/pourquoi-la-croute-du-camembert-est-menacee-20240208</guid>
+                <title>Pourquoi la croûte du camembert est menacée</title>
+                                <link>https://www.lefigaro.fr/sciences/pourquoi-la-croute-du-camembert-est-menacee-20240208</link>
+                                    <description>DÉCRYPTAGE - Le célèbre fromage de Normandie, fabriqué à partir d’une souche unique de moisissures microscopiques, le Penicillium camemberti, est-il voué à disparaître?</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Thu, 08 Feb 2024 19:20:56 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/02/08/b0437b0198c1cdeaab967fb8d9a77249c9cd0025962ee710ae46c21df02eccf9.jpg" width="3000" height="2000">
+                        <media:description type="plain">Si le terme « camembert » est tombé dans le domaine public depuis 1926, seul le « camembert de Normandie » possède l&#039;appellation d&#039;origine contrôlée.</media:description>
+                        <media:credit>Omega - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/les-oceans-se-sont-ils-rechauffes-plus-tot-et-plus-vite-que-nous-ne-l-imaginions-20240207</guid>
+                <title>Les océans se sont-ils réchauffés plus tôt et plus vite que nous ne l’imaginions ?</title>
+                                <link>https://www.lefigaro.fr/sciences/les-oceans-se-sont-ils-rechauffes-plus-tot-et-plus-vite-que-nous-ne-l-imaginions-20240207</link>
+                                    <description>De petites éponges centenaires récoltées dans la mer des Caraïbes semblent indiquer que le réchauffement des eaux de surface aurait démarré en 1860 et que la hausse serait déjà de +1,7°C, soit un demi-degré de plus que les précédentes estimations. Ces résultats sont controversés.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Wed, 07 Feb 2024 18:12:27 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2880x1920_crop/2024/02/07/9357294e1d027828d767976d44edff957305030b57d13f7f36c2700071efe05c.jpg" width="2880" height="1920">
+                        <media:description type="plain">Une éponge de l&#039;espèce Ceratoporella nicholsoni collectée dans la mer des Caraïbes en 2017.</media:description>
+                        <media:credit>Amos Winter</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/personne-ne-s-attendait-a-decouvrir-un-gigantesque-ocean-sur-cette-petite-lune-de-saturne-20240207</guid>
+                <title>Un océan surprise sur «l&#039;Étoile noire» du Système solaire</title>
+                                <link>https://www.lefigaro.fr/sciences/personne-ne-s-attendait-a-decouvrir-un-gigantesque-ocean-sur-cette-petite-lune-de-saturne-20240207</link>
+                                    <description>DÉCRYPTAGE - Contre toute attente, une petite lune de Saturne appelée Mimas abriterait de très grandes quantités d&#039;eau liquide sous une épaisse croûte de glace.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Wed, 07 Feb 2024 18:43:46 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1240x697_crop/2024/02/07/3ce80304e1cfe39eca0443338d7e67e17e084a359371cc45d13b5cb6ca932498.jpg" width="1240" height="697">
+                        <media:description type="plain">Mimas mesure 400 km de diamètre.</media:description>
+                        <media:credit>NASA/JPL-Caltech/Space Science Institute</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/un-papyrus-d-herculanum-carbonise-lors-de-l-eruption-du-vesuve-a-ete-dechiffre-20240206</guid>
+                <title>Un papyrus d’Herculanum carbonisé lors de l’éruption du Vésuve a été déchiffré</title>
+                                <link>https://www.lefigaro.fr/sciences/un-papyrus-d-herculanum-carbonise-lors-de-l-eruption-du-vesuve-a-ete-dechiffre-20240206</link>
+                                    <description>RÉCIT - Grâce à un concours international, de jeunes chercheurs sont parvenus à lire un texte vieux de 2000 ans.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Wed, 07 Feb 2024 10:51:09 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1493x772_crop/2024/02/06/9d3e6f61bdbebdadf68eeb1ce17079a189cd1705c0b17af5456943edeae88366.jpg" width="1493" height="772">
+                        <media:description type="plain">Un rouleau de papyrus d&#039;Herculanum carbonisé lors de l&#039;éruption du Vésuve, et conservé à l&#039;Institut de France, est en cours de numérisation par des rayons X.</media:description>
+                        <media:credit>mageÂ courtesy of the Digital Re</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/rechauffement-faut-il-ajouter-un-niveau-a-l-echelle-d-intensite-des-ouragans-20240205</guid>
+                <title>Réchauffement climatique: faut-il ajouter un niveau à l’échelle d’intensité des ouragans?</title>
+                                <link>https://www.lefigaro.fr/sciences/rechauffement-faut-il-ajouter-un-niveau-a-l-echelle-d-intensite-des-ouragans-20240205</link>
+                                    <description>DÉCRYPTAGE - Des chercheurs suggèrent de rajouter une sixième catégorie à l’échelle de Saffir-Simpson, les cyclones tropicaux devenant plus puissants avec le réchauffement climatique.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Tue, 06 Feb 2024 16:16:17 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/06/99688be92f56337073e0532ddf04dd52e41a8e082575c722274641deade43975.jpg" width="3000" height="1687">
+                        <media:description type="plain">En 2013 le typhon Haiyan, le plus puissant ayant jamais touché terre, avait fait plus de 7 300 morts ou disparus.</media:description>
+                        <media:credit>NOEL CELIS / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/l-intelligence-artificielle-est-elle-vraiment-nulle-en-maths-20240205</guid>
+                <title>L&#039;intelligence artificielle est-elle vraiment nulle en maths ?</title>
+                                <link>https://www.lefigaro.fr/sciences/l-intelligence-artificielle-est-elle-vraiment-nulle-en-maths-20240205</link>
+                                    <description>DÉCRYPTAGE - Si le logiciel de la société DeepMind est capable de démontrer de «petits» problèmes de géométrie en 2D, les intelligences artificielles ont encore du retard sur l’être humain.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Mon, 05 Feb 2024 19:08:30 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2998x1686_crop/2024/02/05/8418a5e1370128bd5c98438eddc53e14e2d16f1a7a98efc5ba624cbeec635304.jpg" width="2998" height="1686">
+                        <media:description type="plain">Ambiance dans une salle de classe de l&#039;Institut des Hautes Études Scientifiques (IHES) installé dans un beau parc boisé à Bures-sur-Yvette, dans l&#039;Essonne.</media:description>
+                        <media:credit>LUCAS BARIOULET</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/catalogne-l-etat-d-urgence-declenche-en-raison-d-une-secheresse-historique-20240202</guid>
+                <title>Catalogne: l’état d’urgence déclenché en raison d’une sécheresse historique</title>
+                                <link>https://www.lefigaro.fr/sciences/catalogne-l-etat-d-urgence-declenche-en-raison-d-une-secheresse-historique-20240202</link>
+                                    <description>Le manque de précipitations dure depuis plus de trois ans, et la région est obligée d’imposer de sévères restrictions à la population.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Fri, 02 Feb 2024 18:24:48 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2024/02/02/e90db6543e914255dd476ab79197f52cf9a8f44db6f8f55d951215d3dd250b5d.jpg" width="2850" height="1603">
+                        <media:description type="plain">La chute des réserves d&#039;eau en deçà de 16 % de leurs capacités a déclenché l&#039;activation d&#039;un état d&#039;urgence sécheresse, en vigueur depuis ce vendredi.</media:description>
+                        <media:credit>LLUIS GENE / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/en-ecologie-l-origine-des-grands-herbivores-ne-compte-pas-20240202</guid>
+                <title>En écologie, l’origine des grands herbivores ne compte pas</title>
+                                <link>https://www.lefigaro.fr/sciences/en-ecologie-l-origine-des-grands-herbivores-ne-compte-pas-20240202</link>
+                                    <description>Contrairement à ce qu’on pensait, les effets des grands herbivores sur les écosystèmes dépendent davantage de leur taille et de leur régime alimentaire que de leur origine.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Fri, 02 Feb 2024 17:38:54 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1688_crop/2024/02/02/d95ae2e5352eeb6cd97072175ae548fb536eacccf3bcda9a16f556f07a94c5d2.jpg" width="3000" height="1688">
+                        <media:description type="plain">Les chevaux sauvages près du lac Mono, en Californie, sont considérés comme écologiquement nuisibles, car ils ont été introduits. Pourtant, les résultats de cette étude montrent qu’ils ne modifient pas les écosystèmes.</media:description>
+                        <media:credit>Andrew Abraham</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/climat-les-dangereux-mirages-du-captage-et-du-stockage-de-co2-20240201</guid>
+                <title>Climat: les dangereux mirages du captage et du stockage de CO2</title>
+                                <link>https://www.lefigaro.fr/sciences/climat-les-dangereux-mirages-du-captage-et-du-stockage-de-co2-20240201</link>
+                                    <description>Une étude parue dans la revue Science estime que le potentiel d’élimination du dioxyde de carbone présenté dans le dernier rapport du Giec est surestimé, au risque de provoquer un conflit d’usage des terres.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Sat, 03 Feb 2024 11:02:04 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/01/b8612a0a05155a42ae266eab7100280d0d543b3c2588bfa6bb713638528235ef.jpg" width="3000" height="1687">
+                        <media:description type="plain">Le CDR - pour « Carbon Dioxide Removal » - consiste à capter le dioxyde de carbone déjà émis dans l’atmosphère. Le procédé va de la simple plantation d’arbres à des technologies bien plus coûteuses.</media:description>
+                        <media:credit>Indigo / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/securite-routiere-les-suv-sont-plus-meurtriers-pour-les-pietons-20240201</guid>
+                <title>Sécurité routière : les SUV sont plus meurtriers pour les piétons</title>
+                                <link>https://www.lefigaro.fr/sciences/securite-routiere-les-suv-sont-plus-meurtriers-pour-les-pietons-20240201</link>
+                                    <description>Une étude américaine montre que plus une voiture est haute, plus le risque de perdre la vie est grand pour la personne heurtée.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Thu, 01 Feb 2024 18:01:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2036_crop/2024/02/01/3d91ea619b9978bae5183a351c9abb37ef911e37868257554a2ae29ec274eb50.jpg" width="3000" height="2036">
+                        <media:description type="plain">Aux États-Unis, le nombre de piétons tués dans des accidents de la route a bondi de 72 % entre 2010 et 2021.</media:description>
+                        <media:credit>Gabriele Maltinti - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/des-fragments-d-os-redessinent-l-histoire-de-l-europe-quand-elle-etait-peuplee-par-deux-especes-humaines-20240131</guid>
+                <title>Des fragments d’os redessinent l’histoire de l’Europe quand elle était peuplée par deux espèces humaines</title>
+                                <link>https://www.lefigaro.fr/sciences/des-fragments-d-os-redessinent-l-histoire-de-l-europe-quand-elle-etait-peuplee-par-deux-especes-humaines-20240131</link>
+                                    <description>RÉCIT - Il y a 47.000 ans, des groupes pionniers d’Homo sapiens se sont rapidement développés dans le nord du continent, alors que Neandertal en occupait encore le sud.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Wed, 31 Jan 2024 19:58:47 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/980x551_crop/2024/01/31/d9dcf6fb244345700febca7a163f84dcbf527e7e61661cb867912cc96e9e80ea.png" width="980" height="551">
+                        <media:description type="plain">La grotte de Ranis, cachée en contrebas d’un château médiéval, abritait les pièces manquantes qui viennent compléter le puzzle de l’occupation européenne il y a plus de 45.000 ans.</media:description>
+                        <media:credit>Tim Schüler TLDA, Licence : CC-BY-ND 4.0</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/surete-nucleaire-deuxieme-essai-de-fusion-entre-l-asn-et-l-irsn-20240131</guid>
+                <title>Sûreté nucléaire : deuxième essai de fusion entre l&#039;ASN et l&#039;IRSN</title>
+                                <link>https://www.lefigaro.fr/sciences/surete-nucleaire-deuxieme-essai-de-fusion-entre-l-asn-et-l-irsn-20240131</link>
+                                    <description>Le 31 janvier, l&#039;examen du projet de loi débute au Sénat pour une deuxième tentative de mariage entre l&#039;Autorité de sûreté nucléaire et l&#039;Institut de radioprotection et de sûreté nucléaire. Mais spécialistes et salariés s&#039;inquiètent des risques de la fusion.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Wed, 31 Jan 2024 12:46:55 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/31/72d0ee1bb80ef34dea97c84ec7e3cb9dadb9e70b5e67475f533625755d153ec0.jpg" width="3000" height="2000">
+                        <media:description type="plain">Le site de l’IRSN à Fontenay-aux-Roses qui pourrait fusionner avec l’ASN.</media:description>
+                        <media:credit>HJBC / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/yasmine-belkaid-la-recherche-en-etendard-20240130</guid>
+                <title>Yasmine Belkaid, nouvelle directrice générale de l’Institut Pasteur: «Il va falloir qu’on se remette en question»</title>
+                                <link>https://www.lefigaro.fr/sciences/yasmine-belkaid-la-recherche-en-etendard-20240130</link>
+                                    <description>Cette chercheuse en immunologie de renommée internationale, qui a travaillé près de vingt ans aux États-Unis, est la nouvelle directrice générale de l’Institut Pasteur.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Tue, 30 Jan 2024 17:52:59 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/30/XVM6fa4c568-beb9-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain">Travailleuse acharnée, elle gardera ainsi un pied dans la recherche de terrain, car elle ne souhaite pas abandonner la paillasse.</media:description>
+                        <media:credit>Institut Pasteur / François Gardy</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/l-origine-des-langues-indo-europeennes-enfin-devoilee-20240129</guid>
+                <title>L’origine des langues indo-européennes enfin dévoilée?</title>
+                                <link>https://www.lefigaro.fr/sciences/l-origine-des-langues-indo-europeennes-enfin-devoilee-20240129</link>
+                                    <description>DÉCRYPTAGE - Une vaste étude propose une approche hybride pour apporter de nouvelles perspectives sur l’histoire de cette famille linguistique parlée par la moitié de la population humaine.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Mon, 29 Jan 2024 21:37:01 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2008_crop/2024/01/29/388976bc6632f57a96af1405a77b5d41c79f01071b860c4795f3b13c4e0d65c3.jpg" width="3000" height="2008">
+                        <media:description type="plain">Pour retrouver l&#039;origine commune entre différentes langues, les scientifiques se basent sur les structures linguistiques, la grammaire, le vocabulaire, etc. afin de trouver des similarités.</media:description>
+                        <media:credit>Konstantin Postumitenko / Prostock-studio - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/pourra-t-on-bientot-parler-aux-baleines-20240127</guid>
+                <title>Pourra-t-on bientôt parler aux baleines ?</title>
+                                <link>https://www.lefigaro.fr/sciences/pourra-t-on-bientot-parler-aux-baleines-20240127</link>
+                                    <description>DÉCRYPTAGE - Des scientifiques américains affirment avoir réussi pour la première fois à dialoguer avec une baleine à bosse en Alaska. Ces mammifères, très intelligents, «chantent» plus qu&#039;ils ne «parlent».</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Sun, 28 Jan 2024 16:52:20 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1988_crop/2024/01/26/bda9506d5d9d10d427033ada45537852ddbe8ed0bb097a934dc3f02e7d3ebf0b.jpg" width="3000" height="1988">
+                        <media:description type="plain">Une baleine à bosse sort de l&#039;eau pour respirer, à Sainte Marie Madagascar.</media:description>
+                        <media:credit>Cetamadaasso / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/le-laboratoire-souterrain-de-modane-sonde-les-mysteres-de-l-univers-20240126</guid>
+                <title>Le laboratoire souterrain de Modane sonde les mystères de l’univers</title>
+                                <link>https://www.lefigaro.fr/sciences/le-laboratoire-souterrain-de-modane-sonde-les-mysteres-de-l-univers-20240126</link>
+                                    <description>Construit au début des années 1980 dans le tunnel du Fréjus, à 1700 mètres sous la roche, ce laboratoire offre aux scientifiques des conditions de mesure très précises, pour mener leurs recherches sur la matière noire.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Fri, 26 Jan 2024 18:29:40 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1296x972_crop/2024/01/26/c13bce3446ec6025959971efc3e7dd71bbfbc4776d2cddad3efb7d8aa6e38129.jpg" width="1296" height="972">
+                        <media:description type="plain">Les scientifiques travaillent par demi-journée pour éviter les maux de tête liés  au manque d&#039;humidité, qui assèche les organismes.</media:description>
+                        <media:credit>Sandy Plas</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/des-climats-froids-ont-favorise-les-pandemies-pendant-l-empire-romain-20240126</guid>
+                <title>Des climats froids ont favorisé les pandémies pendant l’Empire romain</title>
+                                <link>https://www.lefigaro.fr/sciences/des-climats-froids-ont-favorise-les-pandemies-pendant-l-empire-romain-20240126</link>
+                                    <description>La reconstruction précise du climat passé sur une période de huit siècles a permis de faire un lien avec l’essor de maladies graves et transmissibles dans la région de l’actuelle Italie.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Sat, 27 Jan 2024 11:08:35 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/26/7df54a7d034da5df7fc3a40ba617722b366c3ad51987d232b6fbc1767b0a8699.jpg" width="3000" height="2000">
+                        <media:description type="plain">Les scientifiques ont étudié la concentration d&#039;une algue unicellulaire qui réagit particulièrement aux changements de température et au changement des nutriments.</media:description>
+                        <media:credit>Han - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

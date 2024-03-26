@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Caen - actualités</title>
+        <link>https://www.bfmtv.com/caen/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale de Caen et ses alentours en temps réel</description>
+        <lastBuildDate>Fri, 26 Jan 2024 17:48:03 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Caen - actualités</title>
+            <url>https://www.bfmtv.com/assets/v4/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/caen/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Caen - actualités</category>
+        <atom:link href="https://www.bfmtv.com/caen/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ALBEO : Économies d’énergie en mode start-up]]></title>
+            <link>https://www.bfmtv.com/normandie/replay-emissions/mag-d-ici/albeo-economies-d-energie-en-mode-start-up_AB-202310130020.html</link>
+            <guid>https://www.bfmtv.com/normandie/replay-emissions/mag-d-ici/albeo-economies-d-energie-en-mode-start-up_AB-202310130020.html</guid>
+            <pubDate>Fri, 13 Oct 2023 07:00:00 GMT</pubDate>
+            <description><![CDATA[Si la mise en place du Décret tertiaire est perçue par beaucoup d'entreprises comme un levier d’accélération de leur stratégie de performance énergétique, sa mise en place reste sujette à de nombreuses inquiétudes. Et si on passait en mode start-up ?<br /><br /><img src="https://images.bfmtv.com/NtzkALWxlAAu5NlJ6DyvWgyNU7Y=/0x0:1600x900/800x0/images/ALBEO-1724439.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/NtzkALWxlAAu5NlJ6DyvWgyNU7Y=/0x0:1600x900/800x0/images/ALBEO-1724439.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_flash-eco.xml" rel="self" type="application/rss+xml"/>
+        <category>Flash Eco</category>
+        <title>Le Figaro - Economie - Flash Eco - Toute l&#039;actualité économique</title>
+        <description>Suivez les dernières news économiques en direct sur le Flash Eco du Figaro Economie : bourse, patrimoine, sociétés, impôts, etc.</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Fri, 26 Jan 2024 00:20:52 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Economie - Flash Eco - Toute l&#039;actualité économique</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Suivez les dernières news économiques en direct sur le Flash Eco du Figaro Economie : bourse, patrimoine, sociétés, impôts, etc.</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/wall-street-termine-en-hausse-records-pour-dow-jones-et-s-p-500-20240125</guid>
+                <title>Wall Street termine en hausse, records pour Dow Jones et S&amp;amp;P 500</title>
+                                <link>https://www.lefigaro.fr/conjoncture/wall-street-termine-en-hausse-records-pour-dow-jones-et-s-p-500-20240125</link>
+                                    <description>Le Dow Jones s&#039;est apprécié de 0,64%.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Thu, 25 Jan 2024 23:18:08 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/2792843de66d8af45c537fb8edc83298cb3c704c0d5e60b0398b93b1e25b4a1b.jpg" width="3000" height="2000">
+                        <media:description type="plain">Wall Street.</media:description>
+                        <media:credit>ANDREW KELLY / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/meta-ajoute-des-mesures-de-protection-pour-les-adolescents-sur-instagram-20240125</guid>
+                <title>Meta ajoute des mesures de protection pour les adolescents sur Instagram</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/meta-ajoute-des-mesures-de-protection-pour-les-adolescents-sur-instagram-20240125</link>
+                                    <description></description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Thu, 25 Jan 2024 23:08:03 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/64388609fa3e9645122a84a6a2ed1789f6c3e91fc28cfb466598589d0eb54099.jpg" width="3000" height="2000">
+                        <media:description type="plain">Un utilisateur mineur aura ainsi besoin de la permission explicite de ses parents pour faire passer son compte de privé à public, accéder à plus de contenus dits «sensibles».</media:description>
+                        <media:credit>FABRICE COFFRINI / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/societes/jcdecaux-l-activite-progresse-de-7-6-en-2023-quatrieme-trimestre-record-20240125</guid>
+                <title>JCDecaux : l&#039;activité progresse de 7,6% en 2023, quatrième trimestre «record»</title>
+                                <link>https://www.lefigaro.fr/societes/jcdecaux-l-activite-progresse-de-7-6-en-2023-quatrieme-trimestre-record-20240125</link>
+                                    <description></description>
+                                <category>Entreprises</category>
+                <pubDate>Thu, 25 Jan 2024 23:01:18 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/9321cfda8ec2bac24ad0aef392c49e69c91a467d8e02027ed5544af128700c3f.jpg" width="3000" height="2000">
+                        <media:description type="plain">JCDecaux revendique une audience journalière de plus de 850 millions de personnes dans plus de 80 pays et 11.200 collaborateurs.</media:description>
+                        <media:credit>Tobias Arhelger / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/societes/boeing-les-autorites-americaines-gelent-l-augmentation-de-la-production-du-737-max-20240125</guid>
+                <title>Boeing : les autorités américaines gèlent l’augmentation de la production du 737 MAX</title>
+                                <link>https://www.lefigaro.fr/societes/boeing-les-autorites-americaines-gelent-l-augmentation-de-la-production-du-737-max-20240125</link>
+                                    <description>La décision rendue par la FAA va néanmoins permettre de lever l’immobilisation du modèle au sol lorsque les inspections seront terminées.</description>
+                                <category>Entreprises</category>
+                <pubDate>Thu, 25 Jan 2024 22:36:44 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2377x1419_crop/2024/01/25/d228245164a20c8b6072ff02826d42cb6c135dd1f609bd89fc88aabc4a16f149.jpg" width="2377" height="1419">
+                        <media:description type="plain">Cette limitation pour Boeing n’a pour le moment pas de durée précise.</media:description>
+                        <media:credit>TIKSA NEGERI / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/maroc-le-tourisme-signe-une-annee-record-en-2023-avec-14-5-millions-d-entree-20240125</guid>
+                <title>Maroc : le tourisme signe une année record en 2023 avec 14,5 millions de visiteurs</title>
+                                <link>https://www.lefigaro.fr/flash-eco/maroc-le-tourisme-signe-une-annee-record-en-2023-avec-14-5-millions-d-entree-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 19:45:59 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1915_crop/2024/01/25/3cc1f32531f4daefcabd1fa3f282ac883abaea1dd607a824bf48768d21e72816.jpg" width="3000" height="1915">
+                        <media:description type="plain">Le Jardin Majorelle, l’un des sites touristiques les plus fréquentés à Marrakech.</media:description>
+                        <media:credit>FADEL SENNA / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/le-groupe-de-champagne-lanson-voit-ses-ventes-reculer-en-2023-20240125</guid>
+                <title>Le groupe de champagne Lanson voit ses ventes reculer en 2023</title>
+                                <link>https://www.lefigaro.fr/flash-eco/le-groupe-de-champagne-lanson-voit-ses-ventes-reculer-en-2023-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 19:35:58 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/eb3358a11640804e31988ce55067ca2b8ba4af1d3d3b915829bca4447cba5d60.jpg" width="3000" height="2000">
+                        <media:description type="plain">Le groupe est composé de huit maisons.</media:description>
+                        <media:credit>ALF photo / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/l-autorite-americaine-de-la-concurrence-ouvre-une-enquete-sur-les-investissements-dans-l-ia-generative-20240125</guid>
+                <title>L&#039;autorité américaine de la concurrence ouvre une enquête sur les investissements dans l&#039;IA générative</title>
+                                <link>https://www.lefigaro.fr/flash-eco/l-autorite-americaine-de-la-concurrence-ouvre-une-enquete-sur-les-investissements-dans-l-ia-generative-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 19:51:27 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/cfa1ada2b3a131d1c6e66355d2a6915791e4751f003a22cfb882f3bd20458ea3.jpg" width="3000" height="2000">
+                        <media:description type="plain">Cette enquête vise notamment les GAFAM.</media:description>
+                        <media:credit>AREE / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/l-amf-inflige-4-625-millions-d-euros-d-amendes-dans-une-affaire-de-manipulation-de-cours-20240125</guid>
+                <title>L&#039; AMF inflige 4,625 millions d&#039;euros d&#039;amendes dans une affaire de manipulation de cours</title>
+                                <link>https://www.lefigaro.fr/conjoncture/l-amf-inflige-4-625-millions-d-euros-d-amendes-dans-une-affaire-de-manipulation-de-cours-20240125</link>
+                                    <description>Trois personnes et un gestionnaire d&#039;actifs ont été reconnus coupables d’avoir manipulé le cours des titres de trois petites entreprises en 2018.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Thu, 25 Jan 2024 18:57:27 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2250_crop/2024/01/25/c0d020e0a5c9bec4c140926a319cf3f5071ffe4598c66f6e652a679b88321014.jpg" width="3000" height="2250">
+                        <media:description type="plain">Gour Medical, Umalis Group ou CIOA sont les trois firmes concernées.</media:description>
+                        <media:credit>Timon / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/le-groupe-vranken-pommery-enregistre-des-resultats-stables-en-2023-sur-le-marche-des-champagnes-20240125</guid>
+                <title>Le groupe Vranken-Pommery enregistre des résultats stables en 2023 sur le marché des champagnes</title>
+                                <link>https://www.lefigaro.fr/flash-eco/le-groupe-vranken-pommery-enregistre-des-resultats-stables-en-2023-sur-le-marche-des-champagnes-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 18:50:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/bae0ce1ed29845afaa30678f303a7b6444c627b2e7bfd7ae1953835bdd63c5f0.jpg" width="3000" height="2000">
+                        <media:description type="plain">Le chiffre d’affaires de la maison progresse de 1,2% sur un an.</media:description>
+                        <media:credit>Anna Schlosser / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/marseille/marseille-un-ex-directeur-d-une-societe-d-economie-mixte-juge-pour-detournement-de-fonds-publics-20240125</guid>
+                <title>Marseille : un ex-directeur d&#039;une société d&#039;économie mixte jugé pour détournement de fonds publics</title>
+                                <link>https://www.lefigaro.fr/marseille/marseille-un-ex-directeur-d-une-societe-d-economie-mixte-juge-pour-detournement-de-fonds-publics-20240125</link>
+                                    <description>La justice se penche sur le montage financier autour d’un projet de construction d’une patinoire à Marseille, dans lequel un ancien directeur d’une société d’économie mixte est accusé de détournement de fonds publics.</description>
+                                <category>Marseille</category>
+                <pubDate>Thu, 25 Jan 2024 18:38:38 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2088_crop/2024/01/25/e7fda67e35702de73148c064b8b8b202160118a23d4fbd0e52c39488efa342c3.jpg" width="3000" height="2088">
+                        <media:description type="plain">Trois personnes sont entendues par la justice.</media:description>
+                        <media:credit>ANNE-CHRISTINE POUJOULAT / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/societes/lvmh-alexandre-et-frederic-deux-fils-de-bernard-arnault-proposes-au-conseil-d-administration-20240125</guid>
+                <title>LVMH : Alexandre et Frédéric, deux fils de Bernard Arnault, proposés au conseil d&#039;administration</title>
+                                <link>https://www.lefigaro.fr/societes/lvmh-alexandre-et-frederic-deux-fils-de-bernard-arnault-proposes-au-conseil-d-administration-20240125</link>
+                                    <description>Les nominations seront examinées lors de la prochaine assemblée générale du géant du luxe en avril.</description>
+                                <category>Entreprises</category>
+                <pubDate>Thu, 25 Jan 2024 18:54:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/fdfd37251f53f11527146435f48ad3fea92af8b88b4691b648a33d3ca44ac98b.jpg" width="3000" height="2000">
+                        <media:description type="plain">Cette annonce intervient après la publication des résultats de 2023 pour le géant du luxe, particulièrement réjouissants.</media:description>
+                        <media:credit>LUDOVIC MARIN / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-termine-en-hausse-les-regards-portes-vers-la-bce-20240125</guid>
+                <title>La Bourse de Paris termine en hausse, les regards portés vers la BCE</title>
+                                <link>https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-termine-en-hausse-les-regards-portes-vers-la-bce-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 18:24:51 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1999_crop/2024/01/25/758498aeae2f76ab1036e407eda318e933e1047685d7316176d1d60770a17791.jpg" width="3000" height="1999">
+                        <media:description type="plain">L&#039;indice vedette CAC 40 a avancé de 8,56 points à 7.464,20 points.</media:description>
+                        <media:credit>KIRILL KUDRYAVTSEV / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/la-banque-britannique-lloyds-supprime-pres-de-800-emplois-20240125</guid>
+                <title>La banque britannique Lloyds supprime près de 800 emplois</title>
+                                <link>https://www.lefigaro.fr/flash-eco/la-banque-britannique-lloyds-supprime-pres-de-800-emplois-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 18:04:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1947_crop/2024/01/25/0aad56b9f0de73e383c338daeb7e8966cfab56afebe7a76ef90647e800a29e61.jpg" width="3000" height="1947">
+                        <media:description type="plain">Le groupe justifie cette décision par le recours de plus en plus fréquent de ses clients à la banque en ligne.</media:description>
+                        <media:credit>TOBY MELVILLE / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/lvmh-des-resultats-records-en-2023-pour-le-leader-du-marche-du-luxe-20240125</guid>
+                <title>LVMH : des résultats records en 2023 pour le leader du marché du luxe</title>
+                                <link>https://www.lefigaro.fr/flash-eco/lvmh-des-resultats-records-en-2023-pour-le-leader-du-marche-du-luxe-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 17:54:23 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1685_crop/2024/01/25/6833e93eb5cee7129c0a6539eb43d80c0154ec7fca5071651b584818eeb8413f.jpg" width="3000" height="1685">
+                        <media:description type="plain">Une performance d’autant plus louable car le marché du luxe observe un ralentissement de ses ventes.</media:description>
+                        <media:credit>Florence Piot / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/une-cloture-en-legere-hausse-pour-les-bourses-europeennes-20240125</guid>
+                <title>Une clôture en légère hausse pour les Bourses européennes</title>
+                                <link>https://www.lefigaro.fr/flash-eco/une-cloture-en-legere-hausse-pour-les-bourses-europeennes-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 17:45:10 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1893_crop/2024/01/25/d1a10358376a08381b18cae7339759eb10f5359eaa0fefddc1fe70a00ea6dc94.jpg" width="3000" height="1893">
+                        <media:description type="plain">La bonne forme de l’économie américaine a bien aidé.</media:description>
+                        <media:credit>Blue Planet Studio / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/microsoft-le-licenciement-de-1-900-personnes-chez-activision-et-xbox-annonce-ce-jeudi-20240125</guid>
+                <title>Microsoft: le licenciement de 1.900 personnes chez Activision et Xbox annoncé ce jeudi</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/microsoft-le-licenciement-de-1-900-personnes-chez-activision-et-xbox-annonce-ce-jeudi-20240125</link>
+                                    <description>Le secteur du jeu vidéo, qui avait fortement décollé durant la crise du Covid, est touché depuis plusieurs mois par une vague de licenciements.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Thu, 25 Jan 2024 19:34:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1894_crop/2024/01/25/03f9b0b792aef6eb04bd29fd9e16c25fb5bef0e56ee9083c317e349f6ccd0031.jpg" width="3000" height="1894">
+                        <media:description type="plain">Cela représente 9% des équipes dédiées à cette activité.</media:description>
+                        <media:credit>DADO RUVIC / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/gabriel-attal-s-inquiete-de-la-smicardisation-de-la-societe-aupres-des-leaders-syndicaux-20240125</guid>
+                <title>Gabriel Attal s&#039;inquiète de la «smicardisation» de la société auprès des leaders syndicaux</title>
+                                <link>https://www.lefigaro.fr/conjoncture/gabriel-attal-s-inquiete-de-la-smicardisation-de-la-societe-aupres-des-leaders-syndicaux-20240125</link>
+                                    <description>Le premier ministre a admis qu&#039;il y avait un «énorme sujet sur les trappes à bas salaires», qui par le biais des exonérations poussent les employeurs à ne pas augmenter les niveaux de rémunérations de leurs salariés.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Thu, 25 Jan 2024 17:28:17 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/54a2c5a5965cb45960d733686785dbee3640c0738c5e0d97f60128081506d97c.jpg" width="3000" height="2000">
+                        <media:description type="plain">Le Premier ministre, Gabriel Attal, a de nouveau assuré que le «Haut conseil des rémunérations», annoncé en octobre mais dont les contours restent imprécis, serait bien mis en place.</media:description>
+                        <media:credit>JULIEN DE ROSA / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/europlasma-reflechit-a-finalement-a-reprendre-les-deux-sites-de-valdunes-20240125</guid>
+                <title>Europlasma réfléchit finalement à reprendre les deux sites de Valdunes</title>
+                                <link>https://www.lefigaro.fr/flash-eco/europlasma-reflechit-a-finalement-a-reprendre-les-deux-sites-de-valdunes-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 18:27:44 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2003_crop/2024/01/25/7839f8ee87245168800b89ef078ae79e97707118cd5ad661a26ddab72e5614a8.jpg" width="3000" height="2003">
+                        <media:description type="plain">Pour Bercy  «l&#039;important, c&#039;est qu&#039;il y ait un industriel prêt et capable de porter un projet de maintien de la filière ferroviaire en France».</media:description>
+                        <media:credit>Pascal STINFLIN / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/wall-street-ouvre-en-hausse-les-indicateurs-economiques-seduisent-20240125</guid>
+                <title>Wall Street ouvre en hausse, les indicateurs économiques séduisent</title>
+                                <link>https://www.lefigaro.fr/flash-eco/wall-street-ouvre-en-hausse-les-indicateurs-economiques-seduisent-20240125</link>
+                                    <description></description>
+                                <category>Flash Eco</category>
+                <pubDate>Thu, 25 Jan 2024 16:53:09 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/01/25/9a7385c74b8f2b03ba8dafdb15db7c9b7c725d89128d5313b2e3433bd0f8f51f.jpg" width="3000" height="2000">
+                        <media:description type="plain">Vers 15H25 GMT, le Dow Jones prenait 0,49%, l&#039;indice Nasdaq gagnait 0,59% et l&#039;indice élargi S&amp;amp;P 500 glanait 0,54%.</media:description>
+                        <media:credit>ANDREW KELLY / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/un-boeing-757-perd-une-roue-au-moment-de-decoller-de-l-aeroport-d-atlanta-20240125</guid>
+                <title>Un Boeing 757 perd une roue au moment de décoller de l’aéroport d’Atlanta</title>
+                                <link>https://www.lefigaro.fr/conjoncture/un-boeing-757-perd-une-roue-au-moment-de-decoller-de-l-aeroport-d-atlanta-20240125</link>
+                                    <description>L’avion, qui n’est plus produit depuis 2004, aurait 32 ans d’ancienneté.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Thu, 25 Jan 2024 16:55:29 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1650_crop/2024/01/25/dff8dd34e132e0ea425dba8d3bc15dfdc4ae6d3a922cd1bc3ed4f69357aab45a.jpg" width="3000" height="1650">
+                        <media:description type="plain">Image d’illustration d’un avion à l’aéroport d’Atlanta aux États-Unis.</media:description>
+                        <media:credit>Nate Hovee - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_automobile.xml" rel="self" type="application/rss+xml"/>
+        <category>Automobile</category>
+        <title>Le Figaro - Automobile : Essais et tests, dernières voitures et derniers modèles</title>
+        <description>Automobile : Retrouvez tous les comparatifs autos, les essais et test des derniers modèles et des dernières voitures et les accessoires automobiles sur Le Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Sun, 11 Feb 2024 22:48:12 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Automobile : Essais et tests, dernières voitures et derniers modèles</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Automobile : Retrouvez tous les comparatifs autos, les essais et test des derniers modèles et des dernières voitures et les accessoires automobiles sur Le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/la-fin-du-permis-de-conduire-a-vie-20240210</guid>
+                <title>La fin du permis de conduire à vie?</title>
+                                <link>https://www.lefigaro.fr/automobile/la-fin-du-permis-de-conduire-a-vie-20240210</link>
+                                    <description>DROIT DE L’USAGER - À la suite de plusieurs accidents impliquant des séniors, l’idée de limiter dans le temps le permis de conduire fait son chemin au niveau européen.</description>
+                                <category>Automobile</category>
+                <pubDate>Sat, 10 Feb 2024 17:17:50 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/10/XVM7c45c6f2-c80d-11ee-982d-ddc8afb59c04.jpg" width="630" height="354">
+                        <media:description type="plain">La commission transport du Parlement européen propose en effet que les permis de conduire ne soient valables que pour une durée de 15 ans pour les permis A et B.</media:description>
+                        <media:credit>400816016/fizkes - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/lamborghini-huracan-sterrato-quand-le-taureau-sort-de-l-arene-20240211</guid>
+                <title>Lamborghini Huracan Sterrato, quand le taureau sort de l’arène</title>
+                                <link>https://www.lefigaro.fr/automobile/lamborghini-huracan-sterrato-quand-le-taureau-sort-de-l-arene-20240211</link>
+                                    <description>ESSAI - La marque italienne termine la carrière de sa berlinette avec une version surélevée capable de s’aventurer dans les sentiers de terre ou les routes enneigées.</description>
+                                <category>Automobile</category>
+                <pubDate>Sun, 11 Feb 2024 18:16:22 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/11/XVM7bbc9eb8-c8fd-11ee-982d-ddc8afb59c04.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Lamborghini</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/porsche-taycan-toujours-plus-20240210</guid>
+                <title>Porsche Taycan, toujours plus</title>
+                                <link>https://www.lefigaro.fr/automobile/porsche-taycan-toujours-plus-20240210</link>
+                                    <description>NOUVEAUTÉ - Autonomie, puissance de charge et accélérations: la berline électrique du constructeur allemand augmente ses performances dans tous les domaines.</description>
+                                <category>Automobile</category>
+                <pubDate>Sat, 10 Feb 2024 15:32:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/10/XVM9fc1372c-c80f-11ee-982d-ddc8afb59c04.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>koslowskiphoto_2023</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/abarth-500e-du-sport-en-douce-20240209</guid>
+                <title>Abarth 500e, du sport en douce</title>
+                                <link>https://www.lefigaro.fr/automobile/abarth-500e-du-sport-en-douce-20240209</link>
+                                    <description>ESSAI - L’ADN sportif de la marque italienne à l’emblème du signe zodiacal de Carlo Abarth est-il soluble dans la propulsion électrique? Réponse avec ce nouvel exercice.</description>
+                                <category>Automobile</category>
+                <pubDate>Fri, 09 Feb 2024 17:04:19 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/09/XVM26c545bc-c764-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Abarth</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/est-ce-la-fin-de-l-impunite-des-conducteurs-dans-toute-l-europe-20240208</guid>
+                <title>Est-ce la fin de l’impunité des conducteurs dans toute l’Europe?</title>
+                                <link>https://www.lefigaro.fr/automobile/est-ce-la-fin-de-l-impunite-des-conducteurs-dans-toute-l-europe-20240208</link>
+                                    <description>DROIT DE L’USAGER - Une proposition de réforme adoptée par le Parlement européen ce 6 février 2024 veut mettre fin à la limite territoriale des infractions routières.</description>
+                                <category>Automobile</category>
+                <pubDate>Thu, 08 Feb 2024 11:55:13 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/08/XVMc160b17e-c66f-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Photographer: Nickolay Khoroshkov/Nickolay Khoroshkov - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/bmw-serie-5-touring-pour-la-premiere-fois-en-electrique-20240208</guid>
+                <title>BMW Série 5 Touring, pour la première fois en électrique</title>
+                                <link>https://www.lefigaro.fr/automobile/bmw-serie-5-touring-pour-la-premiere-fois-en-electrique-20240208</link>
+                                    <description>NOUVEAUTÉ - La déclinaison break de la huitième génération de la Série 5 arrive au début de l’été avec des versions électriques à batterie.</description>
+                                <category>Automobile</category>
+                <pubDate>Thu, 08 Feb 2024 11:37:54 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/08/XVM4abcf4ea-c667-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Fabian Kirchbauer/Fabian Kirchbauer Photography</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/revendre-sa-voiture-d-occasion-quels-sont-les-modeles-qui-perdent-le-moins-de-valeur-20240206</guid>
+                <title>Revendre sa voiture d’occasion : quels sont les modèles qui perdent le moins de valeur</title>
+                                <link>https://www.lefigaro.fr/automobile/revendre-sa-voiture-d-occasion-quels-sont-les-modeles-qui-perdent-le-moins-de-valeur-20240206</link>
+                                    <description>CLASSEMENT EXCLUSIF - Découvrez quels modèles de voitures neuves permettent de ne pas trop perdre d’argent au bout de quelques années, au moment de la revente.</description>
+                                <category>Automobile</category>
+                <pubDate>Tue, 06 Feb 2024 10:03:47 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/02/858cfc2e3f67b6aef1e306fe454ff0422acabd42525707d5a1d3cf6f34480e5d.jpg" width="3000" height="1687">
+                        <media:description type="plain">Se questionner sur la valeur future d’une voiture lorsqu’on l’achète devient primordial pour éviter les déconvenues.</media:description>
+                        <media:credit>GoodPics / stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/salon-de-geneve-un-retour-a-minima-20240206</guid>
+                <title>Salon de Genève, un retour a minima</title>
+                                <link>https://www.lefigaro.fr/automobile/salon-de-geneve-un-retour-a-minima-20240206</link>
+                                    <description>AGENDA - Après quatre ans d’absence, le salon de l’automobile helvète tente de renouer avec son histoire dans un format modifié.</description>
+                                <category>Automobile</category>
+                <pubDate>Tue, 06 Feb 2024 13:22:45 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/06/XVMa251fdc4-c4df-11ee-85fb-2f469c7c9524.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>GIMS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/renault-toyota-ford-le-reve-d-une-voiture-mondiale-20240205</guid>
+                <title>Renault, Toyota, Ford... Le rêve d’une voiture mondiale</title>
+                                <link>https://www.lefigaro.fr/automobile/renault-toyota-ford-le-reve-d-une-voiture-mondiale-20240205</link>
+                                    <description>DÉCRYPTAGE - En dépit de quelques exceptions, les constructeurs s’éloignent d’un modèle unique pour le monde entier. L’émergence du véhicule électrique inversera peut-être la tendance.</description>
+                                <category>Automobile</category>
+                <pubDate>Tue, 06 Feb 2024 14:49:57 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/05/XVM83a4892a-c4f6-11ee-b709-5a11e58b2d19.jpg" width="630" height="354">
+                        <media:description type="plain">Les constructeurs aimeraient concevoir des modèles uniques de voitures adaptés à tous les continents. Un souhait qui se heurte aux attentes des différentes cultures. La diffusion du véhicule électrique pourrait lever cet obstacle.</media:description>
+                        <media:credit>Marcelo Andrade</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/tout-le-monde-devient-un-delinquant-en-puissance-remy-josseaume-le-militant-du-droit-routier-20240204</guid>
+                <title>«Tout le monde devient un délinquant en puissance»:  Rémy Josseaume, le militant du droit routier</title>
+                                <link>https://www.lefigaro.fr/automobile/tout-le-monde-devient-un-delinquant-en-puissance-remy-josseaume-le-militant-du-droit-routier-20240204</link>
+                                    <description>PORTRAIT - Cet insatiable avocat de la défense des usagers de la route publie un livre référence sur la matière qui génère l’activité contentieuse la plus importante. Et s’inquiète de l’explosion de la conduite sous l’emprise de stupéfiants.</description>
+                                <category>Automobile</category>
+                <pubDate>Sun, 04 Feb 2024 21:04:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/04/XVMcff03e88-c347-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain">L’avocat Rémy Josseaume.</media:description>
+                        <media:credit>SEBASTIEN SORIANO/Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/bmw-xm-l-inattendue-m-20240205</guid>
+                <title>BMW XM, l’inattendue M</title>
+                                <link>https://www.lefigaro.fr/automobile/bmw-xm-l-inattendue-m-20240205</link>
+                                    <description>ESSAI - Pour les 50 ans de sa division sportive Motorsport, le constructeur munichois a signé un spectaculaire SUV hybride rechargeable, hors série.</description>
+                                <category>Automobile</category>
+                <pubDate>Mon, 05 Feb 2024 11:44:08 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/05/XVM52d7ca3a-c412-11ee-982d-ddc8afb59c04.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Adrien Cortesi</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/les-forfaits-de-post-stationnement-sont-fiscalement-deductibles-20240204</guid>
+                <title>Les forfaits de post-stationnement sont fiscalement déductibles</title>
+                                <link>https://www.lefigaro.fr/automobile/les-forfaits-de-post-stationnement-sont-fiscalement-deductibles-20240204</link>
+                                    <description>DROIT DE L’USAGER - Entré en vigueur avec la réforme du stationnement, le forfait de post-stationnement (FPS) est déductible fiscalement.</description>
+                                <category>Automobile</category>
+                <pubDate>Mon, 05 Feb 2024 14:13:02 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/04/XVMdde2f0d8-c35d-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>François BOUCHON/Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/les-monneret-le-virus-de-la-moto-de-pere-en-fils-20240204</guid>
+                <title>Les Monneret, le virus de la moto de père en fils</title>
+                                <link>https://www.lefigaro.fr/automobile/les-monneret-le-virus-de-la-moto-de-pere-en-fils-20240204</link>
+                                    <description>La famille Monneret a marqué de son empreinte l’histoire du deux-roues. Le salon Rétromobile a rendu hommage à une saga familiale incroyable.</description>
+                                <category>Automobile</category>
+                <pubDate>Sun, 04 Feb 2024 19:33:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2850x2044_crop/2024/02/02/ea73c5014d9122ef67e1082eb0ed2a8d3580255648a0e9fe9a72982e54b1a8b9.jpg" width="2850" height="2044">
+                        <media:description type="plain">Record du monde de Georges Monneret sur une Bultaco 175 carénée en 1960 à Montlhéry.</media:description>
+                        <media:credit>Archives Monneret</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/bmw-m4-competition-m-coupe-et-cabriolet-rationalisation-de-la-gamme-20240204</guid>
+                <title>BMW M4 Compétition M Coupé et Cabriolet, rationalisation de la gamme</title>
+                                <link>https://www.lefigaro.fr/automobile/bmw-m4-competition-m-coupe-et-cabriolet-rationalisation-de-la-gamme-20240204</link>
+                                    <description>NOUVEAUTÉ - La sportive de la division Motorsport s’offre 20 chevaux de plus, la transmission intégrale de série et quelques équipements supplémentaires.</description>
+                                <category>Automobile</category>
+                <pubDate>Sun, 04 Feb 2024 18:25:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/04/XVMd1c8dac6-c37e-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Enes Kucevic Photography</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/trophee-de-la-preservation-retromobile-victoire-d-une-mercedes-de-1903-20240201</guid>
+                <title>Trophée de la Préservation Rétromobile: victoire d’une Mercedes de 1903</title>
+                                <link>https://www.lefigaro.fr/automobile/trophee-de-la-preservation-retromobile-victoire-d-une-mercedes-de-1903-20240201</link>
+                                    <description>ACTUALITÉ - Parmi les sept candidates de ce premier trophée organisé par le salon Rétromobile, le jury a voté pour la Mercedes Simplex HP 60 du début du XXe siècle.</description>
+                                <category>Automobile</category>
+                <pubDate>Thu, 01 Feb 2024 19:41:51 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/02/01/XVMebe34668-c11b-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain">La Mercedes victorieuse du Trophée de la Préservation de Rétromobile.</media:description>
+                        <media:credit>Gooding &amp;amp; Company</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/retromobile-pourquoi-il-faut-y-aller-20240129</guid>
+                <title>Rétromobile, pourquoi il faut y aller</title>
+                                <link>https://www.lefigaro.fr/automobile/retromobile-pourquoi-il-faut-y-aller-20240129</link>
+                                    <description>ACTUALITÉ - Plus de 550 exposants et plus de 1 000 véhicules - autos et motos - sont attendus à la porte de Versailles cette semaine pour le plus ancien et le plus prestigieux salon de voitures anciennes au monde.</description>
+                                <category>Automobile</category>
+                <pubDate>Mon, 29 Jan 2024 18:39:18 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/29/XVM405339c0-becd-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>PERUSSEAU</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/zones-a-faibles-emissions-les-voitures-de-collection-vont-elles-rester-au-garage-20240129</guid>
+                <title>Zones à faibles émissions: les voitures de collection vont-elles rester au garage?</title>
+                                <link>https://www.lefigaro.fr/automobile/zones-a-faibles-emissions-les-voitures-de-collection-vont-elles-rester-au-garage-20240129</link>
+                                    <description>DÉCRYPTAGE - La Fédération française des véhicules d’époque fait le point sur le dossier.</description>
+                                <category>Automobile</category>
+                <pubDate>Mon, 29 Jan 2024 20:03:32 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/29/XVM57b34866-bec4-11ee-a550-1943f09746fd.jpg" width="630" height="354">
+                        <media:description type="plain">Les règles ont été assouplies récemment avec la création de deux types de ZFE.</media:description>
+                        <media:credit>309393833/Rattanachai - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/le-hit-parade-des-services-apres-vente-les-plus-performants-20240129</guid>
+                <title>Le hit-parade des services après-vente les plus performants</title>
+                                <link>https://www.lefigaro.fr/automobile/le-hit-parade-des-services-apres-vente-les-plus-performants-20240129</link>
+                                    <description>ENQUÊTE - En avant-première, «Le Figaro» a eu accès à l’étude de l’Automobile magazine en kiosques le 1er février prochain.</description>
+                                <category>Automobile</category>
+                <pubDate>Mon, 29 Jan 2024 17:08:02 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/29/XVM8b4413c6-bebb-11ee-9555-ca7fa647f477.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>335273578/OceanProd - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/les-secrets-de-l-autodrome-de-montlhery-la-piste-de-tous-les-records-depuis-100-ans-20240127</guid>
+                <title>Les secrets de l&#039;autodrome de Montlhéry, la piste de tous les records depuis 100 ans</title>
+                                <link>https://www.lefigaro.fr/automobile/les-secrets-de-l-autodrome-de-montlhery-la-piste-de-tous-les-records-depuis-100-ans-20240127</link>
+                                    <description>Le temple de la vitesse francilien, qui a connu son heure de gloire au cours du XXe siècle, fête son centenaire la semaine prochaine, dans le cadre du salon Rétromobile.</description>
+                                <category>Automobile</category>
+                <pubDate>Tue, 30 Jan 2024 12:04:34 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2974x1672_crop/2024/01/26/58f433b97b13eeea59984bf508131d3d781f35e3e165372351bb7d571341cf1e.jpg" width="2974" height="1672">
+                        <media:description type="plain">L’autodrome de Linas-Montlhéry le jour de l’inauguration, en 1924.</media:description>
+                        <media:credit>UTAC Linas-Montlhéry</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/automobile/pres-de-80-des-automobilistes-utilisent-leur-smartphone-au-volant-20240126</guid>
+                <title>Près de 80 % des automobilistes utilisent leur smartphone au volant</title>
+                                <link>https://www.lefigaro.fr/automobile/pres-de-80-des-automobilistes-utilisent-leur-smartphone-au-volant-20240126</link>
+                                    <description>ENQUÊTE - C’est le fléau de notre époque moderne. Selon une étude de l’assureur Allianz et du CSA, les automobilistes sont de plus en plus nombreux à utiliser leur téléphone au volant.</description>
+                                <category>Automobile</category>
+                <pubDate>Fri, 26 Jan 2024 18:38:29 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/eidos/630x354_crop/2024/01/26/XVM1959d32a-bc38-11ee-98d0-78a341fc95ac.jpg" width="630" height="354">
+                        <media:description type="plain"></media:description>
+                        <media:credit>Allianz</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

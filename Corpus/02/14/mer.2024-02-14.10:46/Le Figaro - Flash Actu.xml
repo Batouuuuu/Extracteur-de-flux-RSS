@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_flash-actu.xml" rel="self" type="application/rss+xml"/>
+        <category>Flash Actu</category>
+        <title>Le Figaro - Le Flash Actu</title>
+        <description>Suivez les dernières informations en direct sur le Flash Actu du Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Wed, 14 Feb 2024 10:45:42 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Le Flash Actu</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Suivez les dernières informations en direct sur le Flash Actu du Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/international/inde-face-aux-manifestations-d-agriculteurs-la-police-bloque-l-acces-a-la-capitale-20240214</guid>
+                <title>Inde : face aux manifestations d’agriculteurs, la police bloque l&#039;accès à la capitale</title>
+                                <link>https://www.lefigaro.fr/international/inde-face-aux-manifestations-d-agriculteurs-la-police-bloque-l-acces-a-la-capitale-20240214</link>
+                                    <description>Au deuxième jour de larges manifestations, les agriculteurs ont été bloqués par des barricades des forces de l’ordre et aspergés de gaz lacrymogène alors qu’ils souhaitaient entrer dans New Delhi.</description>
+                                <category>International</category>
+                <pubDate>Wed, 14 Feb 2024 10:43:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/02/14/437f5f0a6535f88a4cf0bf138ea56066bc7d878f608e0b3cdf87a51930eae20c.jpg" width="3000" height="2000">
+                        <media:description type="plain">Des policiers montent la garde à côté d&#039;une barrière et de véhicules qui bloquent une route pour empêcher les agriculteurs qui manifestent pour réclamer des prix minimums pour leurs récoltes de marcher vers la capitale de l&#039;Inde à la frontière entre Delhi-Uttar Pradesh et Ghazipur, le 14 février 2024.</media:description>
+                        <media:credit>SAJJAD HUSSAIN / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lyon/lyon-un-appel-a-temoins-lance-apres-la-disparition-inquietante-d-un-trentenaire-handicape-20240214</guid>
+                <title>Lyon : un appel à témoins lancé après la disparition inquiétante d&#039;un trentenaire handicapé</title>
+                                <link>https://www.lefigaro.fr/lyon/lyon-un-appel-a-temoins-lance-apres-la-disparition-inquietante-d-un-trentenaire-handicape-20240214</link>
+                                    <description>L’homme, disparu depuis plus de deux semaines, a été vu pour la dernière fois dans le 7e arrondissement de Lyon.</description>
+                                <category>Lyon</category>
+                <pubDate>Wed, 14 Feb 2024 10:42:05 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1280x720_crop/2024/02/14/3d089f73a1404b0a1f7bf7758b1012b4f14762141edf5172c52aa967abdd1573.jpg" width="1280" height="720">
+                        <media:description type="plain">L&#039;appel à témoins lancé par la gendarmerie du Rhône.</media:description>
+                        <media:credit>Gendarmerie du Rhône</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/politique/mayotte-pour-les-comores-la-fin-du-droit-du-sol-remet-en-question-l-appartenance-a-la-france-20240214</guid>
+                <title>Mayotte : pour les Comores, la fin du droit du sol remet en question l&#039;appartenance à la France</title>
+                                <link>https://www.lefigaro.fr/politique/mayotte-pour-les-comores-la-fin-du-droit-du-sol-remet-en-question-l-appartenance-a-la-france-20240214</link>
+                                    <description>Depuis l’indépendance de l’archipel des Comores en 1975, Moroni ne cesse de revendiquer Mayotte.</description>
+                                <category>Politique</category>
+                <pubDate>Wed, 14 Feb 2024 10:35:37 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/2048x1324_crop/2024/02/14/0175e949bee1003338c78c9b7ba26205e9e415e203e1cf1d985eb7ceeb71f6ad.jpg" width="2048" height="1324">
+                        <media:description type="plain">Vue générale du territoire français d&#039;outre-mer de Mayotte dans l&#039;océan Indien, le 19 mai 2001.</media:description>
+                        <media:credit>Charles Platiau / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/social/greve-a-la-sncf-la-greve-est-un-droit-mais-travailler-est-un-devoir-selon-gabriel-attal-20240214</guid>
+                <title>Grève à la SNCF : «La grève est un droit», mais «travailler est un devoir», affirme Gabriel Attal</title>
+                                <link>https://www.lefigaro.fr/social/greve-a-la-sncf-la-greve-est-un-droit-mais-travailler-est-un-devoir-selon-gabriel-attal-20240214</link>
+                                    <description>Le premier ministre a déploré également «une forme d&#039;habitude, à chaque vacances qui arrivent, d&#039;avoir l&#039;annonce d&#039;un mouvement de grève» à la SNCF.</description>
+                                <category>Social</category>
+                <pubDate>Wed, 14 Feb 2024 10:33:12 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/02/14/16fbceba5ec6cbdbf6f648520ffd3c0f979201ba7974892385180991abb59242.jpg" width="3000" height="2001">
+                        <media:description type="plain">Gabriel Attal, en déplacement ce mercredi matin à Villejuif (Val-de-Marne).</media:description>
+                        <media:credit>EMMANUEL DUNAND / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/guerre-hamas-israel-des-familles-d-otages-vont-deposer-plainte-a-la-cpi-contre-le-hamas-20240214</guid>
+                <title>Guerre Hamas-Israël : des familles d’otages vont déposer plainte à la CPI contre le Hamas</title>
+                                <link>https://www.lefigaro.fr/international/guerre-hamas-israel-des-familles-d-otages-vont-deposer-plainte-a-la-cpi-contre-le-hamas-20240214</link>
+                                    <description>Une centaine de proches des otages toujours retenus à Gaza par le Hamas se rendent à La Haye ce 14 février pour déposer une plainte pour «crimes contre l’Humanité».</description>
+                                <category>International</category>
+                <pubDate>Wed, 14 Feb 2024 10:07:58 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/02/14/84b5ebfab68682dc1dee9fe617792da6abc7981d8051971e0ebe90c01d7bbb00.jpg" width="3000" height="2000">
+                        <media:description type="plain">Le procureur de la Cour pénale internationale, Karim Khan, parle lors d&#039;une interview avec Reuters à La Haye, Pays-Bas, le 12 février 2024.</media:description>
+                        <media:credit>PIROSCHKA VAN DE WOUW / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/bordeaux/convention-citoyenne-pour-le-climat-a-bordeaux-un-pari-risque-pour-le-maire-20240214</guid>
+                <title>Convention citoyenne pour le climat à Bordeaux : un pari risqué pour le maire écolo ?</title>
+                                <link>https://www.lefigaro.fr/bordeaux/convention-citoyenne-pour-le-climat-a-bordeaux-un-pari-risque-pour-le-maire-20240214</link>
+                                    <description>Le maire de Bordeaux a décidé de mettre en place une Convention citoyenne pour le climat, à l’instar de celle lancée par Emmanuel Macron en 2019, pourtant perçue comme un échec selon la plupart de ses participants.</description>
+                                <category>Bordeaux</category>
+                <pubDate>Wed, 14 Feb 2024 10:00:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/02/13/d5a3796375108cf4289f0af1355f0d16101a0d68366134653d9e28d11f26c400.jpg" width="3000" height="2001">
+                        <media:description type="plain">Pierre Hurmic accueillant Emmanuel Macron à Bordeaux le 9 février.</media:description>
+                        <media:credit>LUDOVIC MARIN / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/faits-divers/le-havre-apres-l-agression-d-une-lyceenne-diffusee-sur-internet-cinq-mineures-reconnues-coupables-20240214</guid>
+                <title>Le Havre : après l’agression d&#039;une lycéenne diffusée sur internet, cinq mineures reconnues coupables</title>
+                                <link>https://www.lefigaro.fr/faits-divers/le-havre-apres-l-agression-d-une-lyceenne-diffusee-sur-internet-cinq-mineures-reconnues-coupables-20240214</link>
+                                    <description>La peine sera prononcée ultérieurement par le tribunal pour enfants lors d&#039;audiences de sanction, prévues entre le 5 et le 17 septembre.</description>
+                                <category>Faits divers</category>
+                <pubDate>Wed, 14 Feb 2024 10:24:04 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/02/14/d24e2ec4f2370b77efdac06430b29d3ed7e0e558e7a9c5af5b9b7d28d687fcfe.jpg" width="3000" height="2009">
+                        <media:description type="plain">Jusqu&#039;à ce que leur sanction soit connue, quatre mineures restent soumises aux mesures judiciaires prononcées en janvier par le parquet, tandis que la cinquième reste placée dans un centre éducatif fermé.</media:description>
+                        <media:credit>S.Gnatiuk / sergign - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/guerre-en-ukraine-un-nouveau-navire-russe-detruit-par-un-drone-naval-en-crimee-20240214</guid>
+                <title>Guerre en Ukraine : un nouveau navire russe détruit par un drone naval en Crimée, selon Kiev</title>
+                                <link>https://www.lefigaro.fr/international/guerre-en-ukraine-un-nouveau-navire-russe-detruit-par-un-drone-naval-en-crimee-20240214</link>
+                                    <description>Le Caesar Kounikov «se trouvait dans les eaux territoriales ukrainiennes, près d&#039;Alupka, au moment de l&#039;attaque», a revendiqué le commandement militaire ukrainien sur Telegram.</description>
+                                <category>International</category>
+                <pubDate>Wed, 14 Feb 2024 10:11:00 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2021_crop/2024/02/14/0426ef2b09871571fa9bcf1e7117eaa540d0717691fc48d93e69935e57cb2e23.jpg" width="3000" height="2021">
+                        <media:description type="plain">Le Caesar Kounikov en mer Noire.</media:description>
+                        <media:credit>ALEXEY PAVLISHAK / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lyon/nous-voir-a-times-square-c-etait-fou-comment-un-restaurant-de-l-ain-s-est-retrouve-sur-les-ecrans-de-new-york-20240214</guid>
+                <title>«Nous voir à Times Square, c&#039;était fou» : comment un restaurant de l&#039;Ain s&#039;est retrouvé sur les écrans de New York</title>
+                                <link>https://www.lefigaro.fr/lyon/nous-voir-a-times-square-c-etait-fou-comment-un-restaurant-de-l-ain-s-est-retrouve-sur-les-ecrans-de-new-york-20240214</link>
+                                    <description>Une vidéo d’un restaurant situé près de Bourg-en-Bresse a été diffusée le 1er février dernier sur un des écrans de Times Square, à New York. Pas un hasard, mais un plaisir que s’est offert un couple de restaurateur lors de son voyage aux États-Unis.</description>
+                                <category>Lyon</category>
+                <pubDate>Wed, 14 Feb 2024 09:37:15 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/02/14/feade7dfb0a3da57f4df8af7487a00d02f85a4b31a6b0d521282f78621e2efce.png" width="1888" height="947">
+                        <media:description type="plain">La vidéo du restaurant Racines, situé dans l&#039;Ain, diffusée sur un des écrans de Times Square à New York.</media:description>
+                        <media:credit>Domaine du Lac - Racines</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/guerre-en-ukraine-des-bombardements-russes-dans-l-est-font-trois-morts-20240214</guid>
+                <title>Guerre en Ukraine : le nouveau commandant des armées de l&#039;Ukraine juge la situation «extrêmement complexe»</title>
+                                <link>https://www.lefigaro.fr/international/guerre-en-ukraine-des-bombardements-russes-dans-l-est-font-trois-morts-20240214</link>
+                                    <description>LE POINT SUR LA SITUATION - «Les occupants russes continuent d&#039;augmenter leurs efforts», a déclaré Oleksandre Syrsky sur Telegram après une visite dans les zones les plus chaudes du front.</description>
+                                <category>International</category>
+                <pubDate>Wed, 14 Feb 2024 10:15:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/02/14/a075e775eec6b2132f0234b2f881609fd596780c3d7caa99839072681881fc14.jpg" width="3000" height="2001">
+                        <media:description type="plain">Cette photo prise et diffusée par le service de presse de la présidence ukrainienne le 5 septembre 2023 montre le président ukrainien Volodymyr Zelensky et le général de corps d&#039;armée Oleksandr Syrsky visitant les brigades dans le secteur de Bakhmut.</media:description>
+                        <media:credit>HANDOUT / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/mercredi-des-cendres-aux-philippines-l-effondrement-du-balcon-d-une-eglise-fait-un-mort-et-53-blesses-20240214</guid>
+                <title>Mercredi des Cendres aux Philippines : l&#039;effondrement du balcon d&#039;une église fait un mort et 53 blessés</title>
+                                <link>https://www.lefigaro.fr/international/mercredi-des-cendres-aux-philippines-l-effondrement-du-balcon-d-une-eglise-fait-un-mort-et-53-blesses-20240214</link>
+                                    <description>À San Jose del Monte, près de la capitale Manille, environ 400 personnes assistaient à la messe dans une église lorsque le balcon s’est en partie effondré, précipitant la chute de nombreux paroissiens.</description>
+                                <category>International</category>
+                <pubDate>Wed, 14 Feb 2024 10:42:14 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/02/14/45f87e31369dfbe396b5779d21eb68a033853960d16a1b75805063b1f9217d3c.jpg" width="3000" height="2000">
+                        <media:description type="plain">Cette photo montre un balcon partiellement effondré à l&#039;intérieur d&#039;une église à San Jose del Monte, Bulacan, le 14 février 2024.</media:description>
+                        <media:credit>NEIL NUNEZ / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-actu/cambodge-les-jeunes-pries-d-eviter-toute-activite-inappropriee-a-la-saint-valentin-20240214</guid>
+                <title>Cambodge : les jeunes priés d&#039;éviter toute «activité inappropriée» à la Saint-Valentin</title>
+                                <link>https://www.lefigaro.fr/flash-actu/cambodge-les-jeunes-pries-d-eviter-toute-activite-inappropriee-a-la-saint-valentin-20240214</link>
+                                    <description></description>
+                                <category>Flash Actu</category>
+                <pubDate>Wed, 14 Feb 2024 08:40:49 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1999_crop/2024/02/14/b0114b67619d25f15d332a0220327f94daa9789c202c984f055ffc52ed3eaffe.jpg" width="3000" height="1999">
+                        <media:description type="plain">Un étudiant achète des fleurs le jour de la Saint-Valentin à Phnom Penh, le 14 février 2024.</media:description>
+                        <media:credit>TANG CHHIN SOTHY / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/sciences/objectif-lune-spacex-reporte-d-un-jour-le-decollage-de-la-fusee-falcon-9-20240214</guid>
+                <title>Objectif Lune : SpaceX reporte d’un jour le décollage de la fusée Falcon 9</title>
+                                <link>https://www.lefigaro.fr/sciences/objectif-lune-spacex-reporte-d-un-jour-le-decollage-de-la-fusee-falcon-9-20240214</link>
+                                    <description>Le décollage devrait intervenir dans la nuit de mercredi à jeudi au Centre spatial Kennedy, a indiqué la NASA, l&#039;agence spatiale américaine, mentionnant un problème de température du méthane pour expliquer le report.</description>
+                                <category>Sciences &amp; Environnement</category>
+                <pubDate>Wed, 14 Feb 2024 08:19:41 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2025_crop/2024/02/14/fb0c2d6c69a349cee958e0b2b6832153fc575916c737cb48700d544e4428d7ac.jpg" width="3000" height="2025">
+                        <media:description type="plain">La fusée Falcon 9 de SpaceX, prête pour la mission d&#039;alunissage au Centre spatial Kennedy de Cap Canaveral, en Floride, le 13 février 2024.</media:description>
+                        <media:credit>GREGG NEWTON / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/marseille/aix-en-provence-l-affaire-des-diplomes-bidon-de-sciences-po-devant-le-tribunal-20240214</guid>
+                <title>Aix-en-Provence : l’affaire des «diplômes bidon» de Sciences Po devant le tribunal</title>
+                                <link>https://www.lefigaro.fr/marseille/aix-en-provence-l-affaire-des-diplomes-bidon-de-sciences-po-devant-le-tribunal-20240214</link>
+                                    <description>En 2014, le directeur de l’IEP d’Aix-en-Provence avait démissionné, accusé d’avoir délivré de faux diplômes dans le cadre d’externalisations massives de la formation. Dix ans après les faits, Christian Duval entend plaider la relaxe et dénonce un dossier mal ficelé.</description>
+                                <category>Marseille</category>
+                <pubDate>Wed, 14 Feb 2024 10:43:18 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2024/02/13/fc1d67f589d39fd7594bbeb34ccf4f4f31a6f8ff8ce9d4e86731a3053c905296.jpg" width="3000" height="2001">
+                        <media:description type="plain">Le directeur de Sciences Po Aix avait démissionné après une fronde de ses étudiants.</media:description>
+                        <media:credit>BORIS HORVAT / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/l-objectif-est-d-assurer-un-tgv-sur-deux-assure-le-patron-de-sncf-voyageur-20240214</guid>
+                <title>Grève SNCF : «l’objectif est d’assurer un TGV sur deux» ce week-end, déclare le patron de SNCF Voyageurs</title>
+                                <link>https://www.lefigaro.fr/conjoncture/l-objectif-est-d-assurer-un-tgv-sur-deux-assure-le-patron-de-sncf-voyageur-20240214</link>
+                                    <description>Christophe Fanichet s&#039;est en revanche dit «confiant» sur la possibilité de «faire partir le maximum de trains à la neige» en ce week-end de vacances scolaires.</description>
+                                <category>Social</category>
+                <pubDate>Wed, 14 Feb 2024 10:08:44 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/02/14/62f18413015d1e7173b98295728baa4a0d572991399f70ce3fa72ff29cf27edd.jpg" width="3000" height="2000">
+                        <media:description type="plain">Le plan de transport définitif devrait être annoncé à 15h ce mercredi 14 février.</media:description>
+                        <media:credit>Markus Mainka / Markus Mainka - stock.adobe.com</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/politique/accusation-de-viol-la-cour-de-cassation-se-prononce-sur-le-sort-de-darmanin-20240214</guid>
+                <title>Accusation de viol : la Cour de cassation se prononce sur le sort de Darmanin</title>
+                                <link>https://www.lefigaro.fr/politique/accusation-de-viol-la-cour-de-cassation-se-prononce-sur-le-sort-de-darmanin-20240214</link>
+                                    <description>Si la Cour de cassation confirme le non-lieu rendu en faveur de Gérald Darmanin, le ministre de l’Intérieur sera définitivement mis hors de cause.</description>
+                                <category>Politique</category>
+                <pubDate>Wed, 14 Feb 2024 07:36:58 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2024/02/14/1df3c0bd0f6129c3f0e655bd3112a0ac7da6435f46b5d1a738fd9f80f691f268.jpg" width="3000" height="2000">
+                        <media:description type="plain">Gérald Darmanin, ministre de l’Intérieur.</media:description>
+                        <media:credit>SEBASTIEN SALOM-GOMIS / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-actu/australie-des-tempetes-font-un-mort-et-privent-285-000-foyers-d-electricite-20240214</guid>
+                <title>Australie : des tempêtes font un mort et privent 285.000 foyers d’électricité</title>
+                                <link>https://www.lefigaro.fr/flash-actu/australie-des-tempetes-font-un-mort-et-privent-285-000-foyers-d-electricite-20240214</link>
+                                    <description></description>
+                                <category>Flash Actu</category>
+                <pubDate>Wed, 14 Feb 2024 07:46:06 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/02/14/d031378a61fe9f09d7d9b933bc8355c1b628646d96eb10dd1c6f790b9bb2b76d.jpg" width="3000" height="2000">
+                        <media:description type="plain">Une photo prise le 13 février 2024 par le service d&#039;urgence de l&#039;État de Victoria (VICSES) montre des équipes en train de nettoyer les dégâts causés par la tempête à Melbourne.</media:description>
+                        <media:credit>- / AFP</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/marseille/a-marseille-les-locataires-d-une-residence-inquiets-par-l-apparition-d-immenses-fissures-dans-leurs-appartements-20240214</guid>
+                <title>À Marseille, les locataires d’une résidence inquiets par l’apparition d’immenses fissures dans leurs appartements</title>
+                                <link>https://www.lefigaro.fr/marseille/a-marseille-les-locataires-d-une-residence-inquiets-par-l-apparition-d-immenses-fissures-dans-leurs-appartements-20240214</link>
+                                    <description>EN IMAGES - Ces fissures, apparues dans la cité Michelis à partir des années 2000, ont été comblées au fur et à mesure avec de la résine. Mais dernièrement, de nouvelles cassures ont attiré l’attention d’habitants désormais peu rassurés.</description>
+                                <category>Marseille</category>
+                <pubDate>Wed, 14 Feb 2024 09:29:31 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/1599x1343_crop/2024/02/13/2d2507f724d0fab99a00e059c892e013413e225dcfcbba17f2c6302a0798dafc.jpg" width="1599" height="1343">
+                        <media:description type="plain">Certaines fissures mesurent jusqu’à 10 mètres de long.</media:description>
+                        <media:credit>Collection personnelle</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/guerre-hamas-israel-fragile-espoir-d-accord-de-treve-dans-la-bande-de-gaza-20240214</guid>
+                <title>Guerre Hamas-Israël : fragile espoir d&#039;accord de trêve dans la bande de Gaza</title>
+                                <link>https://www.lefigaro.fr/international/guerre-hamas-israel-fragile-espoir-d-accord-de-treve-dans-la-bande-de-gaza-20240214</link>
+                                    <description>LE POINT SUR LA SITUATION - Un responsable du bureau politique du Hamas va conduire une délégation au Caire pour y rencontrer les chefs des services de renseignements égyptien et qatari, probablement ce mercredi.</description>
+                                <category>International</category>
+                <pubDate>Wed, 14 Feb 2024 10:17:39 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2024/02/14/6a09d54e52e4fd5f4d528e2544a3bb799dba3d86ef36e4bde5782bbcdbdcdc72.jpg" width="3000" height="1687">
+                        <media:description type="plain">Un camp de réfugiés près de Rafah.</media:description>
+                        <media:credit>BASSAM MASOUD / REUTERS</media:credit>
+                    </media:content>
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/nantes/comment-l-une-des-villes-moyennes-les-plus-cambriolees-de-france-a-reussi-a-enrayer-le-phenomene-20240214</guid>
+                <title>Comment l’une des villes moyennes les plus cambriolées de France a réussi à enrayer le phénomène</title>
+                                <link>https://www.lefigaro.fr/nantes/comment-l-une-des-villes-moyennes-les-plus-cambriolees-de-france-a-reussi-a-enrayer-le-phenomene-20240214</link>
+                                    <description>En trois ans, la commune de Rezé, près de Nantes, a vu son nombre de vols par effraction diminuer de plus de moitié.</description>
+                                <category>Nantes</category>
+                <pubDate>Wed, 14 Feb 2024 09:42:07 +0100</pubDate>
+
+                                    <media:content url="https://i.f1g.fr/media/cms/orig/2024/02/14/3123dfd420a4afb09a80ed73dd6a12d323aa4e3e0fc53b2141d3b839d7e608ce.jpg" width="2592" height="1458">
+                        <media:description type="plain">En 2021, cette commune de Loire-Atlantique était la ville moyenne la plus cambriolée de France, selon un classement du Figaro.</media:description>
+                        <media:credit>LT/Le Figaro</media:credit>
+                    </media:content>
+                            </item>
+            </channel>
+</rss>

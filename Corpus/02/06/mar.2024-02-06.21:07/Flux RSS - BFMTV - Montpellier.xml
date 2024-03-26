@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Montpellier - actualités</title>
+        <link>https://www.bfmtv.com/montpellier/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale de Montpellier et ses alentours en temps réel</description>
+        <lastBuildDate>Tue, 06 Feb 2024 20:07:01 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Montpellier - actualités</title>
+            <url>https://www.bfmtv.com/assets/v4/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/montpellier/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Montpellier - actualités</category>
+        <atom:link href="https://www.bfmtv.com/montpellier/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Tu vas mourir": une mère de famille agresse deux personnels d'une école à Montpellier]]></title>
+            <link>https://www.bfmtv.com/montpellier/tu-vas-mourir-une-mere-de-famille-agresse-deux-personnels-d-une-ecole-a-montpellier_AN-202304240933.html</link>
+            <guid>https://www.bfmtv.com/montpellier/tu-vas-mourir-une-mere-de-famille-agresse-deux-personnels-d-une-ecole-a-montpellier_AN-202304240933.html</guid>
+            <pubDate>Mon, 24 Apr 2023 20:29:55 GMT</pubDate>
+            <description><![CDATA[Une responsable technique et le responsable périscolaire d'un groupe scolaire montpelliérain ont violemment été attaqués par un couple après un signalement effectué par l'ancienne directrice de l'école. <br /><br /><img src="https://images.bfmtv.com/KkY0Vmi5f_Ycz-yevH1BEnpjOhk=/0x0:1920x1080/800x0/images/Le-groupe-scolaire-Arc-Chaptal-de-Montpellier-illustration-1624072.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/KkY0Vmi5f_Ycz-yevH1BEnpjOhk=/0x0:1920x1080/800x0/images/Le-groupe-scolaire-Arc-Chaptal-de-Montpellier-illustration-1624072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Montpellier: pour une histoire de place dans le tram, une passagère se fait rouer de coups]]></title>
+            <link>https://www.bfmtv.com/montpellier/montpellier-pour-une-histoire-de-place-dans-le-tram-une-passagere-se-fait-rouer-de-coups_AN-202304240398.html</link>
+            <guid>https://www.bfmtv.com/montpellier/montpellier-pour-une-histoire-de-place-dans-le-tram-une-passagere-se-fait-rouer-de-coups_AN-202304240398.html</guid>
+            <pubDate>Mon, 24 Apr 2023 09:54:41 GMT</pubDate>
+            <description><![CDATA[La trentenaire, traumatisée, a été attaquée par surprise par une autre passagère qui lui reprochait de la gêner. Elle a ensuite été frappée à de multiples reprises avant d'être hospitalisée. L'agresseuse a pris la fuite.<br /><br /><img src="https://images.bfmtv.com/BDz8wA13S-T4YUfxD9iI-5aDexw=/0x64:2048x1216/800x0/images/Tramway-Montpellier-1623624.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/BDz8wA13S-T4YUfxD9iI-5aDexw=/0x64:2048x1216/800x0/images/Tramway-Montpellier-1623624.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
